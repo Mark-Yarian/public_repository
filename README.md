@@ -28,6 +28,7 @@ We publish only material that has received scientific, rights, privacy, security
 | [Release workflow](docs/RELEASE_WORKFLOW.md) | Private review → exact approval → public commit → verification → optional separate distribution |
 | [Submission guide](docs/SUBMISSION_GUIDE.md) | Scientific and rights requirements; no private manuscript submissions via public GitHub |
 | [Pull request checklist](.github/PULL_REQUEST_TEMPLATE.md) | Public-safe final-release checks; **public PRs are not confidential** |
+| [Founder ownership reference](.github/CODEOWNERS) | Owner for change review; GitHub branch-protection enforcement is not yet configured |
 | [Copyright and licenses](LICENSES.md) | Rights and reuse rules for repository materials |
 | [Citation configuration](CITATION.cff) | Catalog-level citation guidance; cite the specific paper when available |
 | [Local-file exclusion hints](.gitignore) | Defense in depth for accidental local adds, **not** a confidentiality guarantee |
