@@ -1,0 +1,17 @@
+{
+  "schema_version": "1.0",
+  "status": "TEMPLATE_ONLY",
+  "publication_id": null,
+  "title": null,
+  "subtitle": null,
+  "authors": [],
+  "manuscript_type": null,
+  "peer_reviewed": false,
+  "version": null,
+  "publication_date": null,
+  "doi": null,
+  "license": null,
+  "abstract": null,
+  "public_url": null,
+  "notes": "Public-safe metadata template only; no paper is released."
+}
