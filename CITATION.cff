@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "Please cite the individual approved publication and its version; this repository is a catalog, not a research paper."
+title: "SynapticSteel Public Research Library"
+authors:
+  - family-names: Yarian
+    given-names: Mark
+type: dataset
+url: "https://github.com/Mark-Yarian/public_repository"
