@@ -1,0 +1,4 @@
+# Proposed founder ownership for all public research files.
+# NOTE: CODEOWNERS alone does not enforce approval. Configure a GitHub branch
+# ruleset/required reviews separately before relying on a technical gate.
+* @Mark-Yarian
