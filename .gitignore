@@ -1,0 +1,27 @@
+# Prevent accidental inclusion in normal local Git workflows.
+# IMPORTANT: A .gitignore file is NOT a security boundary and does not prevent API uploads.
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+*.sqlite
+*.sqlite3
+*.db
+*.db-wal
+*.db-shm
+*.log
+__pycache__/
+.cache/
+private/
+internal/
+secrets/
+backups/
+raw-data/
+raw-exports/
+local-work/
+*.tar
+*.tar.gz
+*.zip
