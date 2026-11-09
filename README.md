@@ -1,52 +1,78 @@
 # SynapticSteel | Public Research Library
 
-**Independent research publications, scientific working papers, and carefully reviewed technical communication.**
+### Independent questions. Traceable evidence. Open reading.
 
-This is the public-facing research library for **SynapticSteel**, associated with Yarian Works, LLC. It is a curated publication archive, **not** the research laboratory, a source-code repository, an experimental dataset mirror, or a product operations feed.
+[![Library](https://img.shields.io/badge/Library-Public%20Research-263445?style=flat-square)](research-areas/README.md)
+[![Research](https://img.shields.io/badge/Topics-4%20Public%20Areas-8f753d?style=flat-square)](research-areas/README.md)
+[![Publication](https://img.shields.io/badge/Papers-Index%20Only-526778?style=flat-square)](papers/INDEX.md)
+[![Review](https://img.shields.io/badge/Release-Founder%20Reviewed-5d6775?style=flat-square)](PUBLICATION_POLICY.md)
 
-We publish only material that has received scientific, rights, privacy, security, intellectual-property and explicit author/founder release review. Research discussed here may be conceptual or exploratory; its inclusion does not mean a hypothesis has been experimentally validated, a system is operational, or the work has been peer reviewed.
+**Industrial Edge AI · Artificial Intelligence · Distributed Computing · Experimental Methods · Human–Machine Systems**
 
-**Current publishing state:** Infrastructure established. **No scientific paper has been released through this repository yet.** Existing or prospective manuscripts are not implied to be publicly approved by this index.
+Welcome to the public research library associated with **SynapticSteel**, a research and engineering effort under **Yarian Works, LLC**. This is where the subjects, vocabulary, and *approved* scholarly releases can be explored without exposing the private laboratory.
 
-## Research publications
+The central questions are practical: **What can intelligent systems actually demonstrate? What observations support their conclusions? How can complicated systems be studied without confusing a reported status with verified truth?**
 
-| Resource | Purpose |
+> [!IMPORTANT]
+> **Research interests are not research results.** This library is a curated public catalog, **not** the operational lab, a code-release archive, a product demonstration, or evidence that a hypothesis has been validated.
+
+## Start here
+
+| If you want to… | Follow this path |
 | --- | --- |
-| [Paper index](papers/INDEX.md) | **Authoritative public index** of works actually released here |
-| [Public research areas](research-areas/README.md) | Broad topics of scholarly interest, without undisclosed projects |
-| [Paper folder template](papers/_template/README.md) | Required organization for a release-approved manuscript |
-| [Abstract template](papers/_template/abstract.md) | Reusable public abstract format; not a research claim |
-| [Metadata template](papers/_template/metadata.json) | Machine-readable public citation fields; not a published item |
-| [Public experiments](public-experiments/README.md) | Reserved for independent reproducible, release-approved material |
-| [Public figures](figures/README.md) | Figure attribution and disclosure requirements |
+| Explore the ideas without a technical background | [Browse the four public research areas](research-areas/README.md) |
+| Learn the technical vocabulary | [Read the short topic guides](#research-atlas) |
+| Find an actual scientific publication | [Open the authoritative paper index](papers/INDEX.md) |
+| Understand evidence labels and credibility | [How to read the library](docs/READER_GUIDE.md) |
+| Understand how material becomes public | [Publication policy](PUBLICATION_POLICY.md) and [release workflow](docs/RELEASE_WORKFLOW.md) |
 
-## Publication and governance
+## Research atlas
 
-| Resource | Purpose |
+These are **public educational introductions**, not unpublished projects, technical designs, or experimental claims.
+
+| Area | Questions to explore |
 | --- | --- |
-| [Publication policy](PUBLICATION_POLICY.md) | Exact-version approval, factual review, patent/security screening, and disclosure limits |
-| [Release workflow](docs/RELEASE_WORKFLOW.md) | Private review → exact approval → public commit → verification → optional separate distribution |
-| [Submission guide](docs/SUBMISSION_GUIDE.md) | Scientific and rights requirements; no private manuscript submissions via public GitHub |
-| [Pull request checklist](.github/PULL_REQUEST_TEMPLATE.md) | Public-safe final-release checks; **public PRs are not confidential** |
-| [Founder ownership reference](.github/CODEOWNERS) | Owner for change review; GitHub branch-protection enforcement is not yet configured |
-| [Copyright and licenses](LICENSES.md) | Rights and reuse rules for repository materials |
-| [Citation configuration](CITATION.cff) | Catalog-level citation guidance; cite the specific paper when available |
-| [Local-file exclusion hints](.gitignore) | Defense in depth for accidental local adds, **not** a confidentiality guarantee |
+| **[Artificial intelligence](research-areas/artificial-intelligence.md)** | Reliability, inference, uncertainty, evaluation, and the limits of model outputs |
+| **[Computational systems](research-areas/computational-systems.md)** | Distributed coordination, observability, edge computing, and evidence of liveness |
+| **[Experimental methods](research-areas/experimental-methods.md)** | Hypotheses, controls, reproducibility, negative results, and scientific rigor |
+| **[Human–machine research](research-areas/human-machine-research.md)** | Interpretability, decision support, auditability, and the role of human judgment |
 
-## Publication-path test
+[All public research areas](research-areas/README.md) · [Reader's guide](docs/READER_GUIDE.md)
 
-- [Infrastructure Test 001](announcements/INFRASTRUCTURE_TEST_001.md): a **non-scientific** repository smoke-test notice used to validate public file creation, indexing and readback. It is not a paper, evidence of an experiment, an agent publication test, or authorization to schedule future posts.
+## Publications and their evidence status
 
-## How to read our work
+**[Browse the paper index →](papers/INDEX.md)**
 
-Every scientific work released here should identify its type (conceptual paper, technical working paper, or experimental report), its author(s), sources, limits, evidence status, exact version, date and any verified DOI or external peer-reviewed record. Where evidence is incomplete, the publication should state that plainly.
+The index is the *single authoritative list* of scientific works actually released through this repository. As of **November 9, 2026**, its state is **`INDEX_ONLY`**: infrastructure is present, but **no scientific paper has been released through this repository yet**. Consult the index itself for the current state.
 
-This repository intentionally excludes unpublished experimental data, internal source code and technical mechanisms, private operational details, access information, sensitive provenance and any material whose disclosure could compromise future intellectual-property protection. Even apparently high-level ideas can require legal review before public release.
+A future paper may be a **conceptual manuscript**, **technical working paper**, or **experimental report**. The exact item must state its evidence, limitations, version, authorship, citations, and review status. Author release is not independent peer review.
 
-## Release and contact
+The [infrastructure test notice](announcements/INFRASTRUCTURE_TEST_001.md) verified repository navigation and readback only. **It is not scientific work**, an AI experiment, or authorization for an automated publishing schedule.
 
-Public scientific documents appear in the [paper index](papers/INDEX.md) **only after verified exact-version approval and publication**. A paper draft, bot recommendation, PR, automation, or schedule is not authorization to publish.
+## How the library is organized
 
-Learn more about the organization at [SynapticSteel](https://synapticsteel.com/) and [Mark Yarian](https://mark.yarian.com/).
+| Location | Contents |
+| --- | --- |
+| [`research-areas/`](research-areas/README.md) | Public subject index and short explanatory guides |
+| [`papers/`](papers/INDEX.md) | Release-approved scientific papers, when available; templates are not publications |
+| [`docs/`](docs/READER_GUIDE.md) | Reader guide, release procedure, and safe submission instructions |
+| [`public-experiments/`](public-experiments/README.md) | Reserved for separately reviewed, reproducible public examples |
+| [`figures/`](figures/README.md) | Reserved for licensed, release-approved figures |
+| [`announcements/`](announcements/INFRASTRUCTURE_TEST_001.md) | Clearly labeled non-scientific library notices |
 
-**This repository has no automated research-paper publisher or scheduled publishing workflow enabled.**
+### Publication integrity
+
+Every substantive research release requires factual, attribution, rights, privacy, security, intellectual-property, and **exact-version founder approval**. An idea in a public topic guide is not evidence of implementation. A public pull request or issue is not a safe place to share confidential material.
+
+**Reference links:** [Publication policy](PUBLICATION_POLICY.md) · [Paper index](papers/INDEX.md) · [Release workflow](docs/RELEASE_WORKFLOW.md) · [Submission guide](docs/SUBMISSION_GUIDE.md) · [Reuse and licensing](LICENSES.md) · [Citation metadata](CITATION.cff)
+
+> [!NOTE]
+> This repository has **no autonomous scientific-paper publishing workflow**, no scheduled publication, and no access to private operational systems. New public results require a separate approved release, not merely a new folder or README entry.
+
+## About and collaboration
+
+- **[SynapticSteel](https://synapticsteel.com/):** industrial edge intelligence, technical research, and engineering context.
+- **[Yarian](https://yarian.com/):** broader independent research and technology work.
+- **[Contact SynapticSteel](https://synapticsteel.com/contact):** relevant research, technical, and partnership inquiries.
+
+**Explore the question. Inspect the evidence. Keep the claims proportional to what has been demonstrated.**
