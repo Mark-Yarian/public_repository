@@ -1,0 +1,57 @@
+{
+  "schema_version": "1.0",
+  "status": "PUBLISHED_WORKING_PAPER",
+  "publication_id": "STP-009",
+  "title": "The Nullspace Has No Name",
+  "subtitle": "Identifiability, Source Attribution, and Refusal in Multi-Machine Vibration Monitoring",
+  "authors": [
+    {
+      "given_name": "Mark",
+      "family_name": "Yarian",
+      "affiliation": "Yarian Works, LLC / SynapticSteel"
+    }
+  ],
+  "manuscript_type": "Analytical working paper",
+  "peer_reviewed": false,
+  "version": "1.0",
+  "publication_date": "2026-11-11",
+  "repository_publication_date": "2026-11-11",
+  "prepared_date": "2026-10-30",
+  "doi": null,
+  "license": "LicenseRef-Author-Retained",
+  "rights": "Copyright Mark Yarian. All rights reserved; public reading and citation permitted.",
+  "abstract": "When several rotating machines excite the same structure, a vibration sensor measures a mixture rather than a machine. Blind source separation, spectral features, and even an apparently perfect multichannel reconstruction can produce plausible components without proving which physical motor generated them. This paper formalizes that gap using a frequency-domain transfer model and two elementary identifiability results: a square full-rank model can fit every observed mixture while hiding an unmodeled source, and residual-based detection is blind to interference lying inside the calibrated transfer subspace. It proposes a Source Attribution Evidence Contract (SAEC) that binds each attribution claim to sensor identity, timing quality, transfer-path calibration, numerical conditioning, independent source references, counterfactual tests, and an explicit right to abstain. The contract is examined as a research proposal, not a deployed capability, against blind separation, order tracking, nonnegative factorization, and supervised diagnosis. A falsifiable three-motor/fourth-source protocol specifies the evidence needed to move from synthetic reconstruction to defensible industrial attribution. SynapticSteel dual-node engineering experiments motivate the problem but do not constitute field validation.",
+  "keywords": [
+    "blind source separation",
+    "source attribution",
+    "vibration monitoring",
+    "industrial edge intelligence",
+    "identifiability",
+    "transfer matrix",
+    "unknown sources",
+    "structural cross-talk",
+    "sensor provenance",
+    "spectral coherence",
+    "clock synchronization",
+    "risk-coverage",
+    "abstention",
+    "condition monitoring"
+  ],
+  "evidence_classification": "Elementary mathematical identifiability analysis and a proposed attribution protocol; no field validation.",
+  "public_url": "https://github.com/Mark-Yarian/public_repository/blob/main/papers/STP-009/manuscript.pdf",
+  "artifact": {
+    "filename": "manuscript.pdf",
+    "sha256": "19e48a28059aecac3d695931ad46edd98fbf3a4f1ded63b93b6ccea2103cfa27",
+    "bytes": 98519,
+    "pages": 10
+  },
+  "edition": {
+    "kind": "GitHub public edition",
+    "source_manuscript_sha256": "ebc33d29e524dd49b2f3af2cf5635039766c973491c76bdb6b6f983fe391de9e",
+    "changes": [
+      "Publication labels and DOI placeholders updated for GitHub release; no DOI minted.",
+      "Private operational snapshots omitted; scientific proposal, analytical examples and references retained."
+    ]
+  },
+  "notes": "Author-released scientific working paper; no independent peer review, field validation, or production-readiness certification is implied."
+}

@@ -34,7 +34,7 @@ This is a **curated, public-facing research catalog**, not a live laboratory fee
 ## What will not appear here
 Private source code, unpublished invention details, internal experimental data, credentials, operator interfaces, unreleased manuscripts, and proprietary topology are outside the public publication boundary. Public GitHub issues or pull requests are **not private submission channels**.
 
-## Why the index may be empty
-A released scientific paper requires explicit approval of the **exact version and destination** after factual, rights, security, and IP review. Preparatory infrastructure, broad research interests, and a non-scientific repository test do not count as released science. New approved manuscripts will be added to the [authoritative paper index](../papers/INDEX.md) when they are actually published.
+## How papers enter the catalog
+A released scientific paper requires explicit approval of the **exact version and destination** after factual, rights, security, and IP review. Preparatory infrastructure, broad research interests, and a non-scientific repository test do not count as released science. Released manuscripts are recorded in the [authoritative paper index](../papers/INDEX.md), with complete PDFs, versions, evidence classifications and rights statements. An author’s release approval is distinct from independent peer review.
 
 [Back to the library](../README.md) · [Publication policy](../PUBLICATION_POLICY.md) · [Release workflow](RELEASE_WORKFLOW.md)

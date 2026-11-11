@@ -1,0 +1,7 @@
+# The Nullspace Has No Name
+
+When several rotating machines excite the same structure, a vibration sensor measures a mixture rather than a machine. Blind source separation, spectral features, and even an apparently perfect multichannel reconstruction can produce plausible components without proving which physical motor generated them. This paper formalizes that gap using a frequency-domain transfer model and two elementary identifiability results: a square full-rank model can fit every observed mixture while hiding an unmodeled source, and residual-based detection is blind to interference lying inside the calibrated transfer subspace. It proposes a Source Attribution Evidence Contract (SAEC) that binds each attribution claim to sensor identity, timing quality, transfer-path calibration, numerical conditioning, independent source references, counterfactual tests, and an explicit right to abstain. The contract is examined as a research proposal, not a deployed capability, against blind separation, order tracking, nonnegative factorization, and supervised diagnosis. A falsifiable three-motor/fourth-source protocol specifies the evidence needed to move from synthetic reconstruction to defensible industrial attribution. SynapticSteel dual-node engineering experiments motivate the problem but do not constitute field validation.
+
+**Evidence:** Elementary mathematical identifiability analysis and a proposed attribution protocol; no field validation.
+
+**Review status:** Author-released working paper; not peer reviewed.

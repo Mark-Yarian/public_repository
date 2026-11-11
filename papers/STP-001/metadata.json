@@ -1,0 +1,51 @@
+{
+  "schema_version": "1.0",
+  "status": "PUBLISHED_WORKING_PAPER",
+  "publication_id": "STP-001",
+  "title": "Failure Metabolism",
+  "subtitle": "Why persistent machine intelligence should digest failure into structured memory instead of merely logging it",
+  "authors": [
+    {
+      "given_name": "Mark",
+      "family_name": "Yarian",
+      "affiliation": "Yarian Works, LLC / SynapticSteel"
+    }
+  ],
+  "manuscript_type": "Conceptual working paper",
+  "peer_reviewed": false,
+  "version": "0.1-draft",
+  "publication_date": "2026-08-21",
+  "repository_publication_date": "2026-11-11",
+  "prepared_date": "2026-08-21",
+  "doi": "10.5281/zenodo.23130549",
+  "license": "CC-BY-4.0",
+  "rights": "Creative Commons Attribution 4.0 International",
+  "abstract": "Modern AI and industrial software stacks are rich in telemetry yet surprisingly poor at converting failure into durable operational knowledge. Logs describe events, traces connect execution spans, and agent memories preserve selected context, but these mechanisms often stop short of turning a failed action into reusable evidence about what the system should believe or do differently next time. This paper proposes failure metabolism: an architectural pattern in which failure is captured as a first-class, causally linked object, evaluated against subsequent recovery and outcome evidence, and assimilated into persistent system memory. The goal is not autonomous self-modification. The goal is a system that becomes progressively harder to fool in the same way twice.",
+  "keywords": [
+    "failure metabolism",
+    "operational memory",
+    "execution provenance",
+    "event sourcing",
+    "industrial AI",
+    "agent governance",
+    "causal lineage",
+    "persistent intelligence",
+    "distributed cognition"
+  ],
+  "evidence_classification": "Conceptual architecture and proposed evaluation; no empirical validation of failure metabolism.",
+  "public_url": "https://github.com/Mark-Yarian/public_repository/blob/main/papers/STP-001/manuscript.pdf",
+  "artifact": {
+    "filename": "manuscript.pdf",
+    "sha256": "aa12c42008edc491fc3b8ddf3ae384358ae73fd2ad7c5ac71b296a2e21d6e000",
+    "bytes": 20644,
+    "pages": 8
+  },
+  "edition": {
+    "kind": "Unmodified original publication artifact",
+    "source_manuscript_sha256": "aa12c42008edc491fc3b8ddf3ae384358ae73fd2ad7c5ac71b296a2e21d6e000",
+    "changes": [
+      "Original PDF bytes preserved, including preparation-era draft/publication labels and typography."
+    ]
+  },
+  "notes": "Author-released scientific working paper; no independent peer review, field validation, or production-readiness certification is implied."
+}

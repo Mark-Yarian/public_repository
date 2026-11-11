@@ -1,0 +1,54 @@
+{
+  "schema_version": "1.0",
+  "status": "PUBLISHED_WORKING_PAPER",
+  "publication_id": "Digital-Mitosis",
+  "title": "Digital Mitosis: A State-Transfer, Lineage, and Controlled-Mutation Architecture for Persistent Computational Organisms",
+  "subtitle": "A Falsifiable Engineering Framework for Computational Identity, Inheritance, and Digital Lineage",
+  "authors": [
+    {
+      "given_name": "Mark",
+      "family_name": "Yarian",
+      "affiliation": "Yarian Works, LLC / SynapticSteel"
+    }
+  ],
+  "manuscript_type": "Conceptual working paper",
+  "peer_reviewed": false,
+  "version": "0.1",
+  "publication_date": "2026-10-03",
+  "repository_publication_date": "2026-11-11",
+  "prepared_date": "2026-10-03",
+  "doi": "10.5281/zenodo.23131141",
+  "license": "CC-BY-4.0",
+  "rights": "Creative Commons Attribution 4.0 International",
+  "abstract": "Self-replicating computer programs are not new. Tierra, Avida, evolutionary computation, containerization, process checkpointing, and distributed computing have independently demonstrated many mechanisms necessary for computational reproduction, mutation, migration, inheritance, and selection. What remains less rigorously specified is continuity: when a computational system is copied, migrated, modified, or divided, what information must persist for the resulting system to be treated as a descendant rather than merely another installation of the same software? This paper proposes Digital Mitosis, an engineering architecture for producing independently executing computational descendants while preserving measurable lineage continuity and permitting bounded variation. The framework distinguishes ordinary cloning, process migration, model replication, and computational reproduction by introducing persistent identity records, explicit inheritance partitions, controlled mutation operators, behavioral phenotype measurements, capability constraints, and cryptographically verifiable lineage. Two additional concepts are operationalized. Substrate Drift describes measurable behavioral change caused by continued interaction with an environment, user population, memory corpus, hardware substrate, or surrounding computational ecology. The Ghost Layer is defined not as an immaterial property or evidence of consciousness, but as a measurable behavioral phenotype composed of persistent response distributions, state- transition tendencies, memory associations, tool-selection patterns, calibration characteristics, and recurring computational attractors. A seven-stage mitosis protocol is presented together with quantitative continuity measures, mutation budgets, authority invariants, lineage-chain construction, experimental protocols, failure conditions, and falsification criteria. The objective is not to assert that such systems are alive. The objective is to make computational inheritance and identity continuity sufficiently precise that claims about digital organisms can be experimentally tested rather than argued primarily by analogy.",
+  "keywords": [
+    "digital mitosis",
+    "digital organisms",
+    "artificial life",
+    "computational identity",
+    "persistent identity",
+    "computational lineage",
+    "controlled mutation",
+    "substrate drift",
+    "ghost layer",
+    "evolutionary computation",
+    "checkpoint restore",
+    "distributed systems"
+  ],
+  "evidence_classification": "Theoretical engineering framework and proposed experiments; no demonstration of consciousness or validated digital reproduction.",
+  "public_url": "https://github.com/Mark-Yarian/public_repository/blob/main/papers/Digital-Mitosis/manuscript.pdf",
+  "artifact": {
+    "filename": "manuscript.pdf",
+    "sha256": "6e5773ad06b225a9e393d654209aba0b94ff7320aaf8a9f792ad2874aee2c1be",
+    "bytes": 149968,
+    "pages": 6
+  },
+  "edition": {
+    "kind": "Unmodified original publication artifact",
+    "source_manuscript_sha256": "6e5773ad06b225a9e393d654209aba0b94ff7320aaf8a9f792ad2874aee2c1be",
+    "changes": [
+      "Original PDF bytes preserved, including preparation-era draft/publication labels and typography."
+    ]
+  },
+  "notes": "Author-released scientific working paper; no independent peer review, field validation, or production-readiness certification is implied."
+}

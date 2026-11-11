@@ -1,0 +1,56 @@
+{
+  "schema_version": "1.0",
+  "status": "PUBLISHED_WORKING_PAPER",
+  "publication_id": "STP-006",
+  "title": "The Probe Is Part of the Process",
+  "subtitle": "Observation-induced change, causal confounding, and safe telemetry budgets in industrial edge intelligence",
+  "authors": [
+    {
+      "given_name": "Mark",
+      "family_name": "Yarian",
+      "affiliation": "Yarian Works, LLC / SynapticSteel"
+    }
+  ],
+  "manuscript_type": "Conceptual working paper",
+  "peer_reviewed": false,
+  "version": "1.0",
+  "publication_date": "2026-11-11",
+  "repository_publication_date": "2026-11-11",
+  "prepared_date": "2026-10-09",
+  "doi": null,
+  "license": "LicenseRef-Author-Retained",
+  "rights": "Copyright Mark Yarian. All rights reserved; public reading and citation permitted.",
+  "abstract": "Industrial intelligence systems often treat observation as an external, low-cost operation. Yet a sensor mount can alter a structure's measured dynamics; an active network probe can affect a controller; a telemetry collector can compete for compute resources; and a change-triggered polling policy can make the observer respond to the very behavior it seeks to explain. These mechanisms differ: some change the physical or computational system, others distort the observation channel, and still others introduce selection bias. This paper argues that observation policy should be modeled as an explicit, bounded intervention rather than invisible infrastructure. It proposes an Observation Impact Contract (OIC): a claim-specific record of probe identity, modality, schedule, permitted operating regimes, resource and safety budgets, independent witness signals, causal uncertainty, and stop conditions. A causal model and a controlled, randomized switchback evaluation protocol are developed to distinguish probe-induced effects from regime drift and normal process variation. The proposal is grounded in OT safety guidance, SNMP and OPC UA protocol semantics, vibration-metrology standards, and experimental-design literature. It is an architectural argument and test plan, not evidence that any particular production system has suffered probe-induced faults. The proposed contract has not been implemented or empirically validated in this paper.",
+  "keywords": [
+    "industrial telemetry",
+    "observer effect",
+    "observation-induced change",
+    "operational technology",
+    "causal inference",
+    "active probing",
+    "adaptive sampling",
+    "edge intelligence",
+    "SNMP",
+    "OPC UA",
+    "industrial condition monitoring",
+    "instrumentation overhead",
+    "evidence governance"
+  ],
+  "evidence_classification": "Causal model, architectural proposal, and switchback evaluation protocol; no measured observer effect.",
+  "public_url": "https://github.com/Mark-Yarian/public_repository/blob/main/papers/STP-006/manuscript.pdf",
+  "artifact": {
+    "filename": "manuscript.pdf",
+    "sha256": "021383984963362ec623e79b07f90f90fc5b7906506ae63d1625584e0a5d1d2c",
+    "bytes": 79848,
+    "pages": 11
+  },
+  "edition": {
+    "kind": "GitHub public edition",
+    "source_manuscript_sha256": "de0b03ed43f7c0364ccf55abab6af866a654adc63dcec37af441e1e37fc33a0b",
+    "changes": [
+      "Publication labels and DOI placeholders updated for GitHub release; no DOI minted.",
+      "Private operational snapshots omitted; scientific proposal, analytical examples and references retained."
+    ]
+  },
+  "notes": "Author-released scientific working paper; no independent peer review, field validation, or production-readiness certification is implied."
+}

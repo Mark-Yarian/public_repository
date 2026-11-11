@@ -1,32 +1,33 @@
 # Research Paper Index
 
-**Current state: `INDEX_ONLY`.** No scientific paper has been approved and published through this repository as part of its current publication catalog.
-
-> [!NOTE]
-> This is the authoritative list of scientific releases. The [four research-area guides](../research-areas/README.md), a manuscript template, and the non-scientific infrastructure notice **do not count as released papers**.
+**Current state: `PUBLISHED_WORKING_PAPER`.** Eleven scientific manuscripts are publicly available in this repository as of **November 11, 2026**. All are author-released working papers; none is represented here as independently peer reviewed.
 
 ## Released scientific works
 
-Papers appear below **only after** the exact version passes disclosure and scientific review, receives founder approval, is published, and has its public URL independently checked. The review status must not overstate the strength of evidence.
-
 | Identifier | Title | Type | Version | Review status | Public artifact |
 | --- | --- | --- | --- | --- | --- |
-| _None yet_ | _Awaiting approved release_ |  |  |  |  |
+| STP-001 | [Failure Metabolism](STP-001/README.md) | Conceptual working paper | 0.1-draft | Author-released; not peer reviewed | [PDF](STP-001/manuscript.pdf) · [Abstract](STP-001/abstract.md) |
+| STP-002 | [Baseline Is Not Health](STP-002/README.md) | Conceptual working paper | 0.1-github | Author-released; not peer reviewed | [PDF](STP-002/manuscript.pdf) · [Abstract](STP-002/abstract.md) |
+| STP-003 | [The Timestamp Is Not the Event](STP-003/README.md) | Conceptual working paper | 0.1-github | Author-released; not peer reviewed | [PDF](STP-003/manuscript.pdf) · [Abstract](STP-003/abstract.md) |
+| STP-005 | [Trust Is Not Agreement](STP-005/README.md) | Conceptual working paper | 1.0 | Author-released; not peer reviewed | [PDF](STP-005/manuscript.pdf) · [Abstract](STP-005/abstract.md) |
+| STP-006 | [The Probe Is Part of the Process](STP-006/README.md) | Conceptual working paper | 1.0 | Author-released; not peer reviewed | [PDF](STP-006/manuscript.pdf) · [Abstract](STP-006/abstract.md) |
+| STP-007 | [A Reconnection Is Not a Recovery](STP-007/README.md) | Conceptual working paper | 1.0 | Author-released; not peer reviewed | [PDF](STP-007/manuscript.pdf) · [Abstract](STP-007/abstract.md) |
+| STP-008 | [The Archive Is Not the Population](STP-008/README.md) | Conceptual working paper | 1.0 | Author-released; not peer reviewed | [PDF](STP-008/manuscript.pdf) · [Abstract](STP-008/abstract.md) |
+| STP-009 | [The Nullspace Has No Name](STP-009/README.md) | Analytical working paper | 1.0 | Author-released; not peer reviewed | [PDF](STP-009/manuscript.pdf) · [Abstract](STP-009/abstract.md) |
+| STP-010 | [The Model Was Nearby, Not Involved](STP-010/README.md) | Conceptual working paper | 1.0 | Author-released; not peer reviewed | [PDF](STP-010/manuscript.pdf) · [Abstract](STP-010/abstract.md) |
+| Digital-Mitosis | [Digital Mitosis: A State-Transfer, Lineage, and Controlled-Mutation Architecture for Persistent Computational Organisms](Digital-Mitosis/README.md) | Conceptual working paper | 0.1 | Author-released; not peer reviewed | [PDF](Digital-Mitosis/manuscript.pdf) · [Abstract](Digital-Mitosis/abstract.md) |
+| SS-LAB-CC-001 | [Conceptual Compression and Context Fidelity in Human–LLM Collaboration](SS-LAB-CC-001/README.md) | Conceptual working paper | 0.2-github | Author-released; not peer reviewed | [PDF](SS-LAB-CC-001/manuscript.pdf) · [Abstract](SS-LAB-CC-001/abstract.md) |
 
-## Reading the table
+## Evidence and versions
 
-- **Identifier:** stable ID assigned under the existing publication-series register.
-- **Type:** conceptual paper, working paper, technical report, or experimental study as accurately applicable.
-- **Version:** the exact released revision; do not infer current research status from an older publication.
-- **Review status:** author-release and peer-review claims are different. See the [reader guide](../docs/READER_GUIDE.md).
-- **Public artifact:** an accessible, release-approved document under this repository's `papers/` directory.
+These works develop conceptual frameworks, proposed methods, falsifiable evaluation protocols, and, where stated, mathematical analysis or illustrative numerical examples. Publication is not evidence of experimental validation, commercial readiness, or deployed capability. Each paper record supplies its abstract, exact version, authorship, rights, citation, manuscript SHA-256, and evidence classification.
 
-The status vocabulary includes `INDEX_ONLY`, `PUBLISHED_WORKING_PAPER`, `PEER_REVIEWED`, `CORRECTED`, and `RETRACTED`. Corrections and retractions remain visible rather than silently disappearing from public history.
+Existing publication identifiers are preserved. Numbering gaps are intentional; an unavailable manuscript is not reconstructed or presented as a release. Three original publication PDFs are preserved byte for byte; the other eight are GitHub editions with current release labels. Existing DOIs identify their original records. No DOI is invented for a GitHub edition.
 
-## Publication path
+## Rights and citation
 
-A newly approved paper should have a stable identifier, abstract, full authorship, public citation metadata, exact version, bibliography, explicit limitations and evidence-status label, and release date. No proposed title, unpublished identifier, or unreviewed experimental conclusion is listed before publication.
+Use the individual paper’s citation and rights statement. Previously licensed original works retain CC BY 4.0. Newly released GitHub editions retain author copyright and permit public reading and citation. Source references, limitations, and the full scholarly argument are in each manuscript.
 
-The public index is consumed by the Yarian Research portal. Its **six-column Markdown table format is an integration contract**; preserve it when updating entries.
+The six-column Markdown table above remains the integration format used by the research portal. Catalog infrastructure, educational topic guides, templates, and repository test notices do not count as scientific works.
 
-[Public library](../README.md) · [Research areas](../research-areas/README.md) · [Reader guide](../docs/READER_GUIDE.md) · [Release workflow](../docs/RELEASE_WORKFLOW.md) · [Publication policy](../PUBLICATION_POLICY.md)
+[Public library](../README.md) · [Reader guide](../docs/READER_GUIDE.md) · [Publication policy](../PUBLICATION_POLICY.md) · [Release workflow](../docs/RELEASE_WORKFLOW.md)

@@ -1,78 +1,39 @@
-# SynapticSteel | Public Research Library
+# SynapticSteel | Scientific Works
 
-### Independent questions. Traceable evidence. Open reading.
+Scientific working papers by **Mark Yarian**, Yarian Works, LLC / SynapticSteel. The collection covers industrial sensing, evidence and provenance, temporal uncertainty, inference attribution, computational organisms, and human–AI collaboration.
 
-[![Library](https://img.shields.io/badge/Library-Public%20Research-263445?style=flat-square)](research-areas/README.md)
-[![Research](https://img.shields.io/badge/Topics-4%20Public%20Areas-8f753d?style=flat-square)](research-areas/README.md)
-[![Publication](https://img.shields.io/badge/Papers-Index%20Only-526778?style=flat-square)](papers/INDEX.md)
-[![Review](https://img.shields.io/badge/Release-Founder%20Reviewed-5d6775?style=flat-square)](PUBLICATION_POLICY.md)
+**11 manuscripts · Complete PDFs · Versioned citations · Explicit evidence limits**
 
-**Industrial Edge AI · Artificial Intelligence · Distributed Computing · Experimental Methods · Human–Machine Systems**
+All papers listed here are **author-released working papers, not independently peer reviewed**. Their proposed architectures and experiments are distinguished from mathematical analysis, illustrative examples, measured results, and operational capability.
 
-Welcome to the public research library associated with **SynapticSteel**, a research and engineering effort under **Yarian Works, LLC**. This is where the subjects, vocabulary, and *approved* scholarly releases can be explored without exposing the private laboratory.
+## Scientific publications
 
-The central questions are practical: **What can intelligent systems actually demonstrate? What observations support their conclusions? How can complicated systems be studied without confusing a reported status with verified truth?**
+The [paper index](papers/INDEX.md) is the authoritative publication catalog. Each record includes the complete paper, abstract, citation, rights, version, and checksum.
 
-> [!IMPORTANT]
-> **Research interests are not research results.** This library is a curated public catalog, **not** the operational lab, a code-release archive, a product demonstration, or evidence that a hypothesis has been validated.
+| Identifier | Work | Read |
+| --- | --- | --- |
+| STP-001 | [Failure Metabolism](papers/STP-001/README.md) | [PDF](papers/STP-001/manuscript.pdf) |
+| STP-002 | [Baseline Is Not Health](papers/STP-002/README.md) | [PDF](papers/STP-002/manuscript.pdf) |
+| STP-003 | [The Timestamp Is Not the Event](papers/STP-003/README.md) | [PDF](papers/STP-003/manuscript.pdf) |
+| STP-005 | [Trust Is Not Agreement](papers/STP-005/README.md) | [PDF](papers/STP-005/manuscript.pdf) |
+| STP-006 | [The Probe Is Part of the Process](papers/STP-006/README.md) | [PDF](papers/STP-006/manuscript.pdf) |
+| STP-007 | [A Reconnection Is Not a Recovery](papers/STP-007/README.md) | [PDF](papers/STP-007/manuscript.pdf) |
+| STP-008 | [The Archive Is Not the Population](papers/STP-008/README.md) | [PDF](papers/STP-008/manuscript.pdf) |
+| STP-009 | [The Nullspace Has No Name](papers/STP-009/README.md) | [PDF](papers/STP-009/manuscript.pdf) |
+| STP-010 | [The Model Was Nearby, Not Involved](papers/STP-010/README.md) | [PDF](papers/STP-010/manuscript.pdf) |
+| Digital-Mitosis | [Digital Mitosis: A State-Transfer, Lineage, and Controlled-Mutation Architecture for Persistent Computational Organisms](papers/Digital-Mitosis/README.md) | [PDF](papers/Digital-Mitosis/manuscript.pdf) |
+| SS-LAB-CC-001 | [Conceptual Compression and Context Fidelity in Human–LLM Collaboration](papers/SS-LAB-CC-001/README.md) | [PDF](papers/SS-LAB-CC-001/manuscript.pdf) |
 
-## Start here
+## Reading and citation
 
-| If you want to… | Follow this path |
-| --- | --- |
-| Explore the ideas without a technical background | [Browse the four public research areas](research-areas/README.md) |
-| Learn the technical vocabulary | [Read the short topic guides](#research-atlas) |
-| Find an actual scientific publication | [Open the authoritative paper index](papers/INDEX.md) |
-| Understand evidence labels and credibility | [How to read the library](docs/READER_GUIDE.md) |
-| Understand how material becomes public | [Publication policy](PUBLICATION_POLICY.md) and [release workflow](docs/RELEASE_WORKFLOW.md) |
+Start with a paper’s abstract and evidence classification, then read its methods, competing explanations, proposed tests, and limitations. A working paper records an argument or research proposal; its public availability does not establish that a proposed system has been implemented or validated.
 
-## Research atlas
+Original publication artifacts and new GitHub editions are identified separately. Existing publication identifiers are retained; the catalog does not fill missing series numbers with invented papers. Individual rights statements govern reuse.
 
-These are **public educational introductions**, not unpublished projects, technical designs, or experimental claims.
+[How to read the collection](docs/READER_GUIDE.md) · [Publication policy](PUBLICATION_POLICY.md) · [Rights](LICENSES.md) · [Research-area orientation](research-areas/README.md)
 
-| Area | Questions to explore |
-| --- | --- |
-| **[Artificial intelligence](research-areas/artificial-intelligence.md)** | Reliability, inference, uncertainty, evaluation, and the limits of model outputs |
-| **[Computational systems](research-areas/computational-systems.md)** | Distributed coordination, observability, edge computing, and evidence of liveness |
-| **[Experimental methods](research-areas/experimental-methods.md)** | Hypotheses, controls, reproducibility, negative results, and scientific rigor |
-| **[Human–machine research](research-areas/human-machine-research.md)** | Interpretability, decision support, auditability, and the role of human judgment |
+## Publication integrity
 
-[All public research areas](research-areas/README.md) · [Reader's guide](docs/READER_GUIDE.md)
+Each scientific release states its author, exact version, evidence status, sources, limitations, and reuse terms. Future releases continue through the established [release workflow](docs/RELEASE_WORKFLOW.md). Publication does not grant operational access or authorize autonomous distribution.
 
-## Publications and their evidence status
-
-**[Browse the paper index →](papers/INDEX.md)**
-
-The index is the *single authoritative list* of scientific works actually released through this repository. As of **November 9, 2026**, its state is **`INDEX_ONLY`**: infrastructure is present, but **no scientific paper has been released through this repository yet**. Consult the index itself for the current state.
-
-A future paper may be a **conceptual manuscript**, **technical working paper**, or **experimental report**. The exact item must state its evidence, limitations, version, authorship, citations, and review status. Author release is not independent peer review.
-
-The [infrastructure test notice](announcements/INFRASTRUCTURE_TEST_001.md) verified repository navigation and readback only. **It is not scientific work**, an AI experiment, or authorization for an automated publishing schedule.
-
-## How the library is organized
-
-| Location | Contents |
-| --- | --- |
-| [`research-areas/`](research-areas/README.md) | Public subject index and short explanatory guides |
-| [`papers/`](papers/INDEX.md) | Release-approved scientific papers, when available; templates are not publications |
-| [`docs/`](docs/READER_GUIDE.md) | Reader guide, release procedure, and safe submission instructions |
-| [`public-experiments/`](public-experiments/README.md) | Reserved for separately reviewed, reproducible public examples |
-| [`figures/`](figures/README.md) | Reserved for licensed, release-approved figures |
-| [`announcements/`](announcements/INFRASTRUCTURE_TEST_001.md) | Clearly labeled non-scientific library notices |
-
-### Publication integrity
-
-Every substantive research release requires factual, attribution, rights, privacy, security, intellectual-property, and **exact-version founder approval**. An idea in a public topic guide is not evidence of implementation. A public pull request or issue is not a safe place to share confidential material.
-
-**Reference links:** [Publication policy](PUBLICATION_POLICY.md) · [Paper index](papers/INDEX.md) · [Release workflow](docs/RELEASE_WORKFLOW.md) · [Submission guide](docs/SUBMISSION_GUIDE.md) · [Reuse and licensing](LICENSES.md) · [Citation metadata](CITATION.cff)
-
-> [!NOTE]
-> This repository has **no autonomous scientific-paper publishing workflow**, no scheduled publication, and no access to private operational systems. New public results require a separate approved release, not merely a new folder or README entry.
-
-## About and collaboration
-
-- **[SynapticSteel](https://synapticsteel.com/):** industrial edge intelligence, technical research, and engineering context.
-- **[Yarian](https://yarian.com/):** broader independent research and technology work.
-- **[Contact SynapticSteel](https://synapticsteel.com/contact):** relevant research, technical, and partnership inquiries.
-
-**Explore the question. Inspect the evidence. Keep the claims proportional to what has been demonstrated.**
+[SynapticSteel](https://synapticsteel.com/) · [Yarian Works](https://yarian.com/)

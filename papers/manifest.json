@@ -1,0 +1,139 @@
+{
+  "schema_version": "1.0",
+  "repository_publication_date": "2026-11-11",
+  "publication_state": "PUBLISHED_WORKING_PAPER",
+  "works": [
+    {
+      "publication_id": "STP-001",
+      "title": "Failure Metabolism",
+      "version": "0.1-draft",
+      "peer_reviewed": false,
+      "license": "CC-BY-4.0",
+      "artifact_path": "STP-001/manuscript.pdf",
+      "filename": "manuscript.pdf",
+      "sha256": "aa12c42008edc491fc3b8ddf3ae384358ae73fd2ad7c5ac71b296a2e21d6e000",
+      "bytes": 20644,
+      "pages": 8
+    },
+    {
+      "publication_id": "STP-002",
+      "title": "Baseline Is Not Health",
+      "version": "0.1-github",
+      "peer_reviewed": false,
+      "license": "LicenseRef-Author-Retained",
+      "artifact_path": "STP-002/manuscript.pdf",
+      "filename": "manuscript.pdf",
+      "sha256": "ee85e5f83d595a6c5088ec66f7ce1696b8a26c1895831fb86762269346e44a5a",
+      "bytes": 66350,
+      "pages": 7
+    },
+    {
+      "publication_id": "STP-003",
+      "title": "The Timestamp Is Not the Event",
+      "version": "0.1-github",
+      "peer_reviewed": false,
+      "license": "LicenseRef-Author-Retained",
+      "artifact_path": "STP-003/manuscript.pdf",
+      "filename": "manuscript.pdf",
+      "sha256": "c4839c98f18b8266c3871a4c612d9f8c51eed3d4a7c65083c9c430346014f2ac",
+      "bytes": 65659,
+      "pages": 7
+    },
+    {
+      "publication_id": "STP-005",
+      "title": "Trust Is Not Agreement",
+      "version": "1.0",
+      "peer_reviewed": false,
+      "license": "CC-BY-4.0",
+      "artifact_path": "STP-005/manuscript.pdf",
+      "filename": "manuscript.pdf",
+      "sha256": "b61370a2f76b88f783c5119705354df89709c2d5d4f6e0ea5a923374c1a7761d",
+      "bytes": 44642,
+      "pages": 6
+    },
+    {
+      "publication_id": "STP-006",
+      "title": "The Probe Is Part of the Process",
+      "version": "1.0",
+      "peer_reviewed": false,
+      "license": "LicenseRef-Author-Retained",
+      "artifact_path": "STP-006/manuscript.pdf",
+      "filename": "manuscript.pdf",
+      "sha256": "021383984963362ec623e79b07f90f90fc5b7906506ae63d1625584e0a5d1d2c",
+      "bytes": 79848,
+      "pages": 11
+    },
+    {
+      "publication_id": "STP-007",
+      "title": "A Reconnection Is Not a Recovery",
+      "version": "1.0",
+      "peer_reviewed": false,
+      "license": "LicenseRef-Author-Retained",
+      "artifact_path": "STP-007/manuscript.pdf",
+      "filename": "manuscript.pdf",
+      "sha256": "b840302adb8403be958cb4ed3a4fded47cd496ed7c2a0b096ae8f38c1daebb86",
+      "bytes": 135260,
+      "pages": 11
+    },
+    {
+      "publication_id": "STP-008",
+      "title": "The Archive Is Not the Population",
+      "version": "1.0",
+      "peer_reviewed": false,
+      "license": "LicenseRef-Author-Retained",
+      "artifact_path": "STP-008/manuscript.pdf",
+      "filename": "manuscript.pdf",
+      "sha256": "c144db3215e037ff09ac69181afd4e2f4f8836c2dc2549793259939a3fe474da",
+      "bytes": 148802,
+      "pages": 12
+    },
+    {
+      "publication_id": "STP-009",
+      "title": "The Nullspace Has No Name",
+      "version": "1.0",
+      "peer_reviewed": false,
+      "license": "LicenseRef-Author-Retained",
+      "artifact_path": "STP-009/manuscript.pdf",
+      "filename": "manuscript.pdf",
+      "sha256": "19e48a28059aecac3d695931ad46edd98fbf3a4f1ded63b93b6ccea2103cfa27",
+      "bytes": 98519,
+      "pages": 10
+    },
+    {
+      "publication_id": "STP-010",
+      "title": "The Model Was Nearby, Not Involved",
+      "version": "1.0",
+      "peer_reviewed": false,
+      "license": "LicenseRef-Author-Retained",
+      "artifact_path": "STP-010/manuscript.pdf",
+      "filename": "manuscript.pdf",
+      "sha256": "1cb043bcaac6b41199e8cd88f28e875239f96f592c70f52e0f558763ad2dfb5e",
+      "bytes": 58004,
+      "pages": 5
+    },
+    {
+      "publication_id": "Digital-Mitosis",
+      "title": "Digital Mitosis: A State-Transfer, Lineage, and Controlled-Mutation Architecture for Persistent Computational Organisms",
+      "version": "0.1",
+      "peer_reviewed": false,
+      "license": "CC-BY-4.0",
+      "artifact_path": "Digital-Mitosis/manuscript.pdf",
+      "filename": "manuscript.pdf",
+      "sha256": "6e5773ad06b225a9e393d654209aba0b94ff7320aaf8a9f792ad2874aee2c1be",
+      "bytes": 149968,
+      "pages": 6
+    },
+    {
+      "publication_id": "SS-LAB-CC-001",
+      "title": "Conceptual Compression and Context Fidelity in Human–LLM Collaboration",
+      "version": "0.2-github",
+      "peer_reviewed": false,
+      "license": "LicenseRef-Author-Retained",
+      "artifact_path": "SS-LAB-CC-001/manuscript.pdf",
+      "filename": "manuscript.pdf",
+      "sha256": "6cd6d24bcec2110b63a2dcf34d92c9a1de35098b6e983867cbf5fc5268166e6d",
+      "bytes": 118272,
+      "pages": 7
+    }
+  ]
+}

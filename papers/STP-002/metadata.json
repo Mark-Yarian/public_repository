@@ -1,0 +1,53 @@
+{
+  "schema_version": "1.0",
+  "status": "PUBLISHED_WORKING_PAPER",
+  "publication_id": "STP-002",
+  "title": "Baseline Is Not Health",
+  "subtitle": "Epistemic baselines, intervention epochs, and the danger of teaching condition-monitoring systems that the first stable state is a healthy state",
+  "authors": [
+    {
+      "given_name": "Mark",
+      "family_name": "Yarian",
+      "affiliation": "Yarian Works, LLC / SynapticSteel"
+    }
+  ],
+  "manuscript_type": "Conceptual working paper",
+  "peer_reviewed": false,
+  "version": "0.1-github",
+  "publication_date": "2026-11-11",
+  "repository_publication_date": "2026-11-11",
+  "prepared_date": "2026-09-11",
+  "doi": null,
+  "license": "LicenseRef-Author-Retained",
+  "rights": "Copyright Mark Yarian. All rights reserved; public reading and citation permitted.",
+  "abstract": "Condition-monitoring systems commonly compare current measurements with baselines, thresholds, learned distributions, or reference windows. This paper argues that a stable initial distribution is evidence of repeatability, not evidence of health, and proposes explicit separation between observed and health-validated baselines together with intervention-bounded temporal epochs. Maintenance events become evidence-bearing boundaries for pre/post comparison without automatic causal attribution. The architecture preserves provenance, timing uncertainty, operating context, and historical baselines so later evidence can reinterpret earlier stable states without rewriting history.",
+  "keywords": [
+    "condition monitoring",
+    "epistemic baseline",
+    "unknown initial condition",
+    "maintenance intervention",
+    "temporal epochs",
+    "concept drift",
+    "industrial AI",
+    "edge AI",
+    "provenance",
+    "predictive maintenance"
+  ],
+  "evidence_classification": "Conceptual architecture and proposed baseline/maintenance evaluation; no measured diagnostic improvement.",
+  "public_url": "https://github.com/Mark-Yarian/public_repository/blob/main/papers/STP-002/manuscript.pdf",
+  "artifact": {
+    "filename": "manuscript.pdf",
+    "sha256": "ee85e5f83d595a6c5088ec66f7ce1696b8a26c1895831fb86762269346e44a5a",
+    "bytes": 66350,
+    "pages": 7
+  },
+  "edition": {
+    "kind": "GitHub public edition",
+    "source_manuscript_sha256": "ed5066632b58e5f44644b64edb4dd4e62b854188368d325180eb3767b0f48c4c",
+    "changes": [
+      "Publication/rights labels updated for GitHub release; scientific argument retained.",
+      "Table text wrapped for readability."
+    ]
+  },
+  "notes": "Author-released scientific working paper; no independent peer review, field validation, or production-readiness certification is implied."
+}

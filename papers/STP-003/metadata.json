@@ -1,0 +1,53 @@
+{
+  "schema_version": "1.0",
+  "status": "PUBLISHED_WORKING_PAPER",
+  "publication_id": "STP-003",
+  "title": "The Timestamp Is Not the Event",
+  "subtitle": "Uncertainty-aware temporal fusion for asynchronous industrial sensors at the physical edge",
+  "authors": [
+    {
+      "given_name": "Mark",
+      "family_name": "Yarian",
+      "affiliation": "Yarian Works, LLC / SynapticSteel"
+    }
+  ],
+  "manuscript_type": "Conceptual working paper",
+  "peer_reviewed": false,
+  "version": "0.1-github",
+  "publication_date": "2026-11-11",
+  "repository_publication_date": "2026-11-11",
+  "prepared_date": "2026-09-18",
+  "doi": null,
+  "license": "LicenseRef-Author-Retained",
+  "rights": "Copyright Mark Yarian. All rights reserved; public reading and citation permitted.",
+  "abstract": "Industrial edge systems increasingly combine vibration, acoustic, thermal, image, distance, environmental, network, and maintenance data whose sampling cadence, transport path, buffering behavior, and timestamp origin differ. STP-003 argues that a scalar timestamp can create false physical correlations and proposes uncertainty-aware event time: each observation carries a best estimate of physical event time together with bounded uncertainty, clock domain, timestamp origin, acquisition support, and transformation provenance. Fusion then evaluates temporal compatibility rather than merely comparing scalar timestamps inside a fixed window.",
+  "keywords": [
+    "asynchronous sensor fusion",
+    "timestamp uncertainty",
+    "event time",
+    "industrial sensing",
+    "edge AI",
+    "multimodal correlation",
+    "provenance",
+    "IEEE 1588",
+    "PTP",
+    "temporal evidence"
+  ],
+  "evidence_classification": "Conceptual temporal-fusion architecture and proposed evaluation; no original timing benchmark.",
+  "public_url": "https://github.com/Mark-Yarian/public_repository/blob/main/papers/STP-003/manuscript.pdf",
+  "artifact": {
+    "filename": "manuscript.pdf",
+    "sha256": "c4839c98f18b8266c3871a4c612d9f8c51eed3d4a7c65083c9c430346014f2ac",
+    "bytes": 65659,
+    "pages": 7
+  },
+  "edition": {
+    "kind": "GitHub public edition",
+    "source_manuscript_sha256": "0d9ea8b6eb2db1f6aa1d5435addc1b0dd9df59d3b46f7914c2b543160cc9d5e8",
+    "changes": [
+      "Publication/rights labels updated for GitHub release; scientific argument retained.",
+      "Table text wrapped for readability."
+    ]
+  },
+  "notes": "Author-released scientific working paper; no independent peer review, field validation, or production-readiness certification is implied."
+}

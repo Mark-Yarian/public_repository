@@ -1,0 +1,51 @@
+{
+  "schema_version": "1.0",
+  "status": "PUBLISHED_WORKING_PAPER",
+  "publication_id": "STP-010",
+  "title": "The Model Was Nearby, Not Involved",
+  "subtitle": "Revision-Exact Evidence Attribution for Asynchronous Industrial Intelligence",
+  "authors": [
+    {
+      "given_name": "Mark",
+      "family_name": "Yarian",
+      "affiliation": "Yarian Works, LLC / SynapticSteel"
+    }
+  ],
+  "manuscript_type": "Conceptual working paper",
+  "peer_reviewed": false,
+  "version": "1.0",
+  "publication_date": "2026-11-11",
+  "repository_publication_date": "2026-11-11",
+  "prepared_date": "2026-11-06",
+  "doi": null,
+  "license": "LicenseRef-Author-Retained",
+  "rights": "Copyright Mark Yarian. All rights reserved; public reading and citation permitted.",
+  "abstract": "An industrial diagnostic interface may display a sensor observation beside a model prediction and thereby imply that the prediction was computed from that observation. In asynchronous edge systems, this inference is frequently invalid: acquisition, buffering, feature generation, model execution, caching, and case assembly advance on different schedules. We argue that proximity in wall-clock time is not sufficient evidence of computational attribution. We propose a Revision-Exact Attribution Contract (REAC), a compact provenance and decision protocol that classifies a displayed model result as exact-input, derived-input, temporally adjacent, or unrelated/indeterminate. The contract combines immutable acquisition identities, canonical input digests, execution attestations, clock-uncertainty intervals, and explicit abstention. We derive failure examples, compare provenance graphs, distributed tracing, and timestamp joins, and specify falsifiable replay and fault-injection tests. This is an architectural proposal, not an empirical demonstration of improved diagnostic accuracy.",
+  "keywords": [
+    "provenance",
+    "asynchronous inference",
+    "sensor lineage",
+    "evidence attribution",
+    "edge AI",
+    "observability",
+    "industrial diagnostics",
+    "causal ordering"
+  ],
+  "evidence_classification": "Architectural proposal and falsifiable replay/fault-injection plan; no measured diagnostic-accuracy benefit.",
+  "public_url": "https://github.com/Mark-Yarian/public_repository/blob/main/papers/STP-010/manuscript.pdf",
+  "artifact": {
+    "filename": "manuscript.pdf",
+    "sha256": "1cb043bcaac6b41199e8cd88f28e875239f96f592c70f52e0f558763ad2dfb5e",
+    "bytes": 58004,
+    "pages": 5
+  },
+  "edition": {
+    "kind": "GitHub public edition",
+    "source_manuscript_sha256": "a50ede0b6805fe3f18bc1aa55b7e49ef24c67a3973f34883ea8ca971d456b327",
+    "changes": [
+      "Publication labels and DOI placeholders updated for GitHub release; no DOI minted.",
+      "Private operational snapshots omitted; scientific proposal, analytical examples and references retained."
+    ]
+  },
+  "notes": "Author-released scientific working paper; no independent peer review, field validation, or production-readiness certification is implied."
+}

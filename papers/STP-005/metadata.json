@@ -1,0 +1,51 @@
+{
+  "schema_version": "1.0",
+  "status": "PUBLISHED_WORKING_PAPER",
+  "publication_id": "STP-005",
+  "title": "Trust Is Not Agreement",
+  "subtitle": "Separating sensor credibility, cross-channel consensus, and physical plausibility in industrial edge fusion",
+  "authors": [
+    {
+      "given_name": "Mark",
+      "family_name": "Yarian",
+      "affiliation": "Yarian Works, LLC / SynapticSteel"
+    }
+  ],
+  "manuscript_type": "Conceptual working paper",
+  "peer_reviewed": false,
+  "version": "1.0",
+  "publication_date": "2026-10-03",
+  "repository_publication_date": "2026-11-11",
+  "prepared_date": "2026-10-03",
+  "doi": "10.5281/zenodo.23114667",
+  "license": "CC-BY-4.0",
+  "rights": "Creative Commons Attribution 4.0 International",
+  "abstract": "Multisensor condition-monitoring systems often reward agreement among channels, but agreement is not equivalent to sensor health or physical truth. STP-005 proposes a layered Sensor Trust contract that separates intrinsic measurement quality, temporal validity, calibration state, channel history, physical plausibility, cross-sensor support, independence/diversity, and model-specific usefulness. Trust is represented as reason-bearing evidence and converted into claim-specific admission rather than a universal sensor reputation.",
+  "keywords": [
+    "sensor trust",
+    "sensor credibility",
+    "data quality",
+    "multisensor fusion",
+    "industrial condition monitoring",
+    "measurement uncertainty",
+    "physical plausibility",
+    "fault diagnosis",
+    "edge AI"
+  ],
+  "evidence_classification": "Conceptual sensor-trust architecture and proposed tests; no empirical performance claim.",
+  "public_url": "https://github.com/Mark-Yarian/public_repository/blob/main/papers/STP-005/manuscript.pdf",
+  "artifact": {
+    "filename": "manuscript.pdf",
+    "sha256": "b61370a2f76b88f783c5119705354df89709c2d5d4f6e0ea5a923374c1a7761d",
+    "bytes": 44642,
+    "pages": 6
+  },
+  "edition": {
+    "kind": "Unmodified original publication artifact",
+    "source_manuscript_sha256": "b61370a2f76b88f783c5119705354df89709c2d5d4f6e0ea5a923374c1a7761d",
+    "changes": [
+      "Original PDF bytes preserved, including preparation-era draft/publication labels and typography."
+    ]
+  },
+  "notes": "Author-released scientific working paper; no independent peer review, field validation, or production-readiness certification is implied."
+}
