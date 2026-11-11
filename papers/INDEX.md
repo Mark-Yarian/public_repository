@@ -24,6 +24,10 @@ These works develop conceptual frameworks, proposed methods, falsifiable evaluat
 
 Existing publication identifiers are preserved. Numbering gaps are intentional; an unavailable manuscript is not reconstructed or presented as a release. Three original publication PDFs are preserved byte for byte; the other eight are GitHub editions with current release labels. Existing DOIs identify their original records. No DOI is invented for a GitHub edition.
 
+## Historical research sources
+
+The [Counter.news Science archive](../research-notes/counter-news/README.md) adds 50 secondary research notes with recorded historical source dates, current assessments, and proposed tests. They do not add rows to this working-paper release table or imply empirical validation.
+
 ## Rights and citation
 
 Use the individual paper’s citation and rights statement. Previously licensed original works retain CC BY 4.0. Newly released GitHub editions retain author copyright and permit public reading and citation. Source references, limitations, and the full scholarly argument are in each manuscript.

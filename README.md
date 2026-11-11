@@ -24,6 +24,10 @@ The [paper index](papers/INDEX.md) is the authoritative publication catalog. Eac
 | Digital-Mitosis | [Digital Mitosis: A State-Transfer, Lineage, and Controlled-Mutation Architecture for Persistent Computational Organisms](papers/Digital-Mitosis/README.md) | [PDF](papers/Digital-Mitosis/manuscript.pdf) |
 | SS-LAB-CC-001 | [Conceptual Compression and Context Fidelity in Human–LLM Collaboration](papers/SS-LAB-CC-001/README.md) | [PDF](papers/SS-LAB-CC-001/manuscript.pdf) |
 
+## Historical science research
+
+[Explore the Counter.news research archive](research-notes/counter-news/README.md): **50 dated research notes** from source articles recorded between June 2024 and May 2026, with current critical assessments, proposed tests, and primary references. [Read the synthesis](research-notes/counter-news/SYNTHESIS.md). Historical source dates are preserved; the new notes and GitHub import are dated November 11, 2026. These secondary notes are distinct from the 11 working papers above.
+
 ## Reading and citation
 
 Start with a paper’s abstract and evidence classification, then read its methods, competing explanations, proposed tests, and limitations. A working paper records an argument or research proposal; its public availability does not establish that a proposed system has been implemented or validated.
