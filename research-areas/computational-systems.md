@@ -22,6 +22,10 @@ Computational systems become difficult to understand when work spans machines, p
 ## Reading this area
 This page explains general concepts, not the topology, implementation, credentials, or operational condition of any SynapticSteel or customer system. A status label is not by itself proof of live operation. Specific findings appear only when a separate public release passes the repository's review policy.
 
+### Digital lineage as a research question
+
+When a process is copied or restored, record the actual operation and the identity of each execution before claiming that a descendant exists. The [Digital Mitosis paper](../papers/Digital-Mitosis/README.md) proposes a formal inheritance framework; [RA-005](../research-articles/RA-005.md) separates copying, migration and reproduction; and the [lineage lab](../public-experiments/lineage-lab/README.md) shows a finite example whose checks can fail. The [terminology crosswalk](../docs/TERMINOLOGY_CROSSWALK.md) links these measurements to the public Yarian definitions.
+
 [Browse research areas](README.md) · [Public paper index](../papers/INDEX.md) · [How to read this library](../docs/READER_GUIDE.md)
 
 

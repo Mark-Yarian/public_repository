@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "collection": "SynapticSteel Indexed Research Articles",
-  "release_version": "0.1",
+  "release_version": "0.2",
   "published_on": "2026-11-11",
   "publication_timezone": "America/New_York",
   "prepared_on_utc": "2026-11-12",
@@ -286,7 +286,7 @@
       "article_id": "RA-005",
       "title": "Computational reproduction and bounded inheritance",
       "artifact_path": "RA-005.md",
-      "version": "0.1",
+      "version": "0.2",
       "author": "Mark Yarian",
       "organization": "Yarian Works, LLC / SynapticSteel",
       "publication_state": "AUTHOR_RELEASED_RESEARCH_ARTICLE",
@@ -337,15 +337,16 @@
         }
       ],
       "rights": "Copyright Mark Yarian; all rights reserved; public reading and citation permitted.",
-      "sha256": "8ce8513e361122711340a9b6f00319cdd3309d612a9c207bba64a504768cca04",
-      "bytes": 4092,
-      "words": 512
+      "sha256": "f52ff74eb55fc8168445c386acec7920a44a3437cc90c4a99fe996c52afac49e",
+      "bytes": 6269,
+      "words": 839,
+      "expanded_on": "2026-11-12"
     },
     {
       "article_id": "RA-006",
       "title": "Continuity through restart and long-running state",
       "artifact_path": "RA-006.md",
-      "version": "0.1",
+      "version": "0.2",
       "author": "Mark Yarian",
       "organization": "Yarian Works, LLC / SynapticSteel",
       "publication_state": "AUTHOR_RELEASED_RESEARCH_ARTICLE",
@@ -398,9 +399,10 @@
         }
       ],
       "rights": "Copyright Mark Yarian; all rights reserved; public reading and citation permitted.",
-      "sha256": "268eafab081ba409771e23a07f8d9df57a4f733b4036b9fbdac517c7ebfcdb41",
-      "bytes": 4203,
-      "words": 534
+      "sha256": "198d525700fbccd57c72d3820eb37d2a16d2a55d403960fcc276f88f45262e3a",
+      "bytes": 5384,
+      "words": 691,
+      "expanded_on": "2026-11-12"
     },
     {
       "article_id": "RA-007",
@@ -600,7 +602,7 @@
       "article_id": "RA-010",
       "title": "Behavioral drift across model, memory, and environment",
       "artifact_path": "RA-010.md",
-      "version": "0.1",
+      "version": "0.2",
       "author": "Mark Yarian",
       "organization": "Yarian Works, LLC / SynapticSteel",
       "publication_state": "AUTHOR_RELEASED_RESEARCH_ARTICLE",
@@ -651,9 +653,10 @@
         }
       ],
       "rights": "Copyright Mark Yarian; all rights reserved; public reading and citation permitted.",
-      "sha256": "f3204e7e22b8d7a4f148303932ad23e649bc686815dd97e491a7d7936cdd9e29",
-      "bytes": 4041,
-      "words": 507
+      "sha256": "585a80594520da4d86b4bd81ad2d940a6d4392a866d96cf999da4e6277540111",
+      "bytes": 5427,
+      "words": 685,
+      "expanded_on": "2026-11-12"
     },
     {
       "article_id": "RA-011",
@@ -1258,7 +1261,7 @@
       "article_id": "RA-021",
       "title": "Operational indicators and consciousness claims",
       "artifact_path": "RA-021.md",
-      "version": "0.1",
+      "version": "0.2",
       "author": "Mark Yarian",
       "organization": "Yarian Works, LLC / SynapticSteel",
       "publication_state": "AUTHOR_RELEASED_RESEARCH_ARTICLE",
@@ -1305,9 +1308,10 @@
         }
       ],
       "rights": "Copyright Mark Yarian; all rights reserved; public reading and citation permitted.",
-      "sha256": "b07e222d21dc5a704e85aa6a41d9000c82aac899d8116ee37773afe4cdec0192",
-      "bytes": 3988,
-      "words": 478
+      "sha256": "c4fb5aabcdbbd762b042e0f59f3c6e35eb2136004b094e3f8a7f41aa2c5cc654",
+      "bytes": 4915,
+      "words": 590,
+      "expanded_on": "2026-11-12"
     },
     {
       "article_id": "RA-022",
@@ -2369,5 +2373,12 @@
       "scope": "Exposure conditions and biological response context; not a treatment protocol created by this collection.",
       "checked_scope": "Official overview and exposure-condition definition"
     }
-  ]
+  ],
+  "index_rebuilt_on": "2026-11-12",
+  "terminology_crosswalk": {
+    "path": "../docs/TERMINOLOGY_CROSSWALK.md",
+    "selected_public_terms": 12,
+    "source": "https://yarian.com/terminology",
+    "scope": "Curated definitions; terminology status does not establish implementation"
+  }
 }

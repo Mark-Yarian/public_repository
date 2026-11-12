@@ -29,7 +29,7 @@ The four public areas below retain the stable Markdown format consumed by the Ya
 
 ## Continue reading
 
-[Public library home](../README.md) · [How to read evidence claims](../docs/READER_GUIDE.md) · [Paper index](../papers/INDEX.md) · [Publication policy](../PUBLICATION_POLICY.md)
+[Public library home](../README.md) · [How to read evidence claims](../docs/READER_GUIDE.md) · [Paper index](../papers/INDEX.md) · [Digital Mitosis terminology crosswalk](../docs/TERMINOLOGY_CROSSWALK.md) · [Publication policy](../PUBLICATION_POLICY.md)
 
 
 ## Indexed article collection

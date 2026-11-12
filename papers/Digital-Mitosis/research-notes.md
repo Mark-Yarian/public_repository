@@ -2,7 +2,7 @@
 
 Companion to [Digital Mitosis](README.md).
 
-**Version 1.0 · Added 2026-11-12 UTC · Research synthesis and proposed protocols · Not peer reviewed**
+**Version 1.1 · Added 2026-11-12 UTC · Research synthesis and proposed protocols · Not peer reviewed**
 
 ## Scope
 
@@ -67,6 +67,10 @@ Define exploration through novelty, correctness, retention, and transfer under a
 If consciousness indicators are investigated, state the framework and assumptions separately from the inheritance experiment. Control prompting and learned self-descriptions, retain negative cases, and disclose unresolved interpretation. Neither an affirmative self-report nor the absence of a decisive test settles subjective experience.
 
 **Data status:** Proposed research agenda; no new reproduction experiment, adaptation benchmark, biological measurement, or consciousness result accompanies these notes.
+
+## Public teaching companion
+
+The [lineage lab](../../public-experiments/lineage-lab/README.md) is a small, bounded Python illustration of state inheritance, a child identity, a recorded change and checksum failure. Its tests check the sample's behavior only; they do not establish any experimental result for the paper. The [terminology crosswalk](../../docs/TERMINOLOGY_CROSSWALK.md) maps the public Yarian vocabulary to operational questions and distinguishes the site's concept labels from verified implementation.
 
 [Failure-memory protocol](../STP-001/research-notes.md) · [Recovery continuity](../STP-007/research-notes.md) · [Exact state ancestry](../STP-010/research-notes.md) · [Context-fidelity controls](../SS-LAB-CC-001/research-notes.md)
 

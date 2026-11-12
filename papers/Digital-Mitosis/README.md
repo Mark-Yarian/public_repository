@@ -29,7 +29,7 @@ Theoretical engineering framework and proposed experiments; no demonstration of 
 
 [Read the integrated research notes](research-notes.md) — Inheritance, plasticity, maintenance, biological comparisons, and behavioral phenotype.
 
-Companion notes version 1.0, added 2026-11-12 UTC. They distinguish cited background from proposed tests and contain no new empirical results. The PDF, manuscript version, citation, and DOI record remain unchanged.
+Companion notes version 1.1, expanded 2026-11-12 UTC with a link to the bounded teaching example and terminology crosswalk. They distinguish cited background from proposed tests and contain no new empirical results. The PDF, manuscript version, citation, and DOI record remain unchanged.
 
 ## Indexed research articles
 

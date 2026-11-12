@@ -26,7 +26,7 @@ The [paper index](papers/INDEX.md) is the authoritative publication catalog. Eac
 
 ## Indexed research articles
 
-The [research-article index](research-articles/README.md) adds **30 critical research syntheses and methods articles**. Browse the [cross-index](research-articles/CROSS_INDEX.md) by released paper, topic, method, research area, or primary reference. Each article links to related articles and the relevant STP or standalone papers; those paper records link back.
+The [research-article index](research-articles/README.md) contains **30 critical research syntheses and methods articles**. Browse the [cross-index](research-articles/CROSS_INDEX.md) by released paper, topic, method, research area, or primary reference. Each article links to related articles and the relevant STP or standalone papers; those paper records link back. A [Digital Mitosis terminology crosswalk](docs/TERMINOLOGY_CROSSWALK.md) connects the public Yarian term entries to the relevant research, and the [lineage lab](public-experiments/lineage-lab/README.md) provides a small executable teaching example with explicit limits.
 
 This is the first release of an expanded review. It distinguishes source screening, primary evidence, analytical examples, and unrun comparisons. The articles add no new empirical results and are not peer reviewed. [Machine-readable catalog](research-articles/catalog.json) · [Primary-reference ledger](research-articles/REFERENCES.md).
 

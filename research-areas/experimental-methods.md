@@ -10,6 +10,8 @@ A useful experiment turns a question into a test that another person could criti
 - How do measurement error and missing observations affect a conclusion?
 - Which parts of a reported result are reproducible by someone outside the project?
 
+For computational inheritance, name the parent and all eligible descendants, preserve negative outcomes, and compare a faithful copy against the proposed variation on held-out tasks. The [lineage lab](../public-experiments/lineage-lab/README.md) demonstrates how a matching output at one input can conceal a meaningful difference; [RA-005](../research-articles/RA-005.md) describes what a full experiment would still need.
+
 ## Useful vocabulary
 | Term | Plain-language meaning |
 | --- | --- |

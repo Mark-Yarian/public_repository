@@ -1,9 +1,9 @@
 # Public Experiments
 
-This directory is reserved for independently created and reviewed, reproducible public experiments.
+This directory holds independently created, reviewed, bounded educational examples and methods notes. They do not assert operational deployment or empirical validation of a research hypothesis.
 
-Release gates include public/open source data rights; no dependence on internal systems; documented controls and random seeds where appropriate; clear measurement and uncertainty; reviewed source code; and founder approval of exact files.
+Release gates include public/open source data rights; no dependence on internal systems; documented controls and random seeds where appropriate; clear measurement and uncertainty; reviewed source code; and founder approval of exact files. Existing private experimental data, internal training/evaluation fixtures, model configurations, and novel algorithms are excluded.
 
-Do not export existing private experimental data, internal training/evaluation fixtures, model configurations, or novel algorithms merely to provide a public demonstration.
+- [Lineage lab](lineage-lab/README.md): a small Python exercise on copied state, declared variation, checksums, and failure analysis for Digital Mitosis. It has no network or autonomous execution.
 
-No experimental release is included in the initial repository setup.
+[Digital Mitosis paper](../papers/Digital-Mitosis/README.md) · [Research article](../research-articles/RA-005.md) · [Public library home](../README.md)

@@ -1,8 +1,10 @@
 # Indexed Research Articles
 
-**First release: 30 research articles · Version 0.1 · 2026-11-11 (America/New_York)**
+**Original release: 30 research articles · Version 0.1 · 2026-11-11 (America/New_York). Four articles expanded to version 0.2.**
 
 A topic-based research collection covering inference infrastructure, distributed coordination, computational organisms, measurement, evaluation, and human–AI collaboration. Browse by [paper, topic, method, or primary reference](CROSS_INDEX.md). The [STP and standalone paper catalog](../papers/INDEX.md) remains the authority for released manuscripts.
+
+The [public terminology crosswalk](../docs/TERMINOLOGY_CROSSWALK.md) connects 12 checked Yarian terms to the relevant articles; it does not treat lore or a concept label as scientific validation. [RA-005](RA-005.md), [RA-006](RA-006.md), [RA-010](RA-010.md), and [RA-021](RA-021.md) include expanded worked comparisons and failure cases. The [lineage lab](../public-experiments/lineage-lab/README.md) adds executable, finite teaching code and tests.
 
 These articles are initial critical syntheses and proposed methods, with one explicitly labeled analytical explanation. They are author released and **not peer reviewed**. No new empirical dataset or result is reported, and all proposed experiments remain unrun. Primary-study findings retain their original scope and attribution.
 
