@@ -25,6 +25,12 @@ An industrial diagnostic interface may display a sensor observation beside a mod
 
 Architectural proposal and falsifiable replay/fault-injection plan; no measured diagnostic-accuracy benefit. The manuscript distinguishes its proposals, analytical examples, and future evaluation from established results. Full references are in the PDF.
 
+## Supporting research notes
+
+[Read the integrated research notes](research-notes.md) — Transform revisions, hidden state, latent alignment, and exact execution ancestry.
+
+Companion notes version 1.0, added 2026-11-12 UTC. They distinguish cited background from proposed tests and contain no new empirical results. The PDF, manuscript version, citation, and DOI record remain unchanged.
+
 ## Citation
 
 Yarian, M. (2026). The Model Was Nearby, Not Involved: Revision-Exact Evidence Attribution for Asynchronous Industrial Intelligence. SynapticSteel Technical Papers, STP-010, version 1.0. https://github.com/Mark-Yarian/public_repository/blob/main/papers/STP-010/manuscript.pdf

@@ -25,6 +25,12 @@ Humans often communicate complex ideas through a few conceptual landmarks while 
 
 Theoretical synthesis, falsifiable hypotheses, and proposed controlled study; no original empirical results. The manuscript distinguishes its proposals, analytical examples, and future evaluation from established results. Full references are in the PDF.
 
+## Supporting research notes
+
+[Read the integrated research notes](research-notes.md) — Context reconstruction, observable drift, trajectory controls, and exploration.
+
+Companion notes version 1.0, added 2026-11-12 UTC. They distinguish cited background from proposed tests and contain no new empirical results. The PDF, manuscript version, citation, and DOI record remain unchanged.
+
 ## Citation
 
 Yarian, M. (2026). Conceptual Compression and Context Fidelity in Human–LLM Collaboration: A Research Framework for Assumption Propagation and Conversational Drift. SynapticSteel research working paper, SS-LAB-CC-001, version 0.2-github. https://github.com/Mark-Yarian/public_repository/blob/main/papers/SS-LAB-CC-001/manuscript.pdf

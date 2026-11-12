@@ -13,7 +13,18 @@
       "filename": "manuscript.pdf",
       "sha256": "aa12c42008edc491fc3b8ddf3ae384358ae73fd2ad7c5ac71b296a2e21d6e000",
       "bytes": 20644,
-      "pages": 8
+      "pages": 8,
+      "research_notes": {
+        "artifact_path": "STP-001/research-notes.md",
+        "version": "1.0",
+        "published_on_utc": "2026-11-12",
+        "note_type": "RESEARCH_SYNTHESIS_AND_PROPOSED_PROTOCOL",
+        "peer_reviewed": false,
+        "new_empirical_results": false,
+        "test_status": "PROPOSED_NOT_RUN",
+        "sha256": "c03e74ed3e2746293bbbcc472a67f868319280349e628e052d6ba359e5ee7305",
+        "topics": "Failure episodes, recurrence, reasoning benchmarks, and distributed fault controls."
+      }
     },
     {
       "publication_id": "STP-002",
@@ -25,7 +36,18 @@
       "filename": "manuscript.pdf",
       "sha256": "ee85e5f83d595a6c5088ec66f7ce1696b8a26c1895831fb86762269346e44a5a",
       "bytes": 66350,
-      "pages": 7
+      "pages": 7,
+      "research_notes": {
+        "artifact_path": "STP-002/research-notes.md",
+        "version": "1.0",
+        "published_on_utc": "2026-11-12",
+        "note_type": "RESEARCH_SYNTHESIS_AND_PROPOSED_PROTOCOL",
+        "peer_reviewed": false,
+        "new_empirical_results": false,
+        "test_status": "PROPOSED_NOT_RUN",
+        "sha256": "7e30a6ab7e047c3f45f3b50cb27f77654d86a0e84dd29f0b2a00eba9c6211bc2",
+        "topics": "Adaptive baselines, structural updates, retention, and independent health validation."
+      }
     },
     {
       "publication_id": "STP-003",
@@ -37,7 +59,18 @@
       "filename": "manuscript.pdf",
       "sha256": "c4839c98f18b8266c3871a4c612d9f8c51eed3d4a7c65083c9c430346014f2ac",
       "bytes": 65659,
-      "pages": 7
+      "pages": 7,
+      "research_notes": {
+        "artifact_path": "STP-003/research-notes.md",
+        "version": "1.0",
+        "published_on_utc": "2026-11-12",
+        "note_type": "RESEARCH_SYNTHESIS_AND_PROPOSED_PROTOCOL",
+        "peer_reviewed": false,
+        "new_empirical_results": false,
+        "test_status": "PROPOSED_NOT_RUN",
+        "sha256": "0fccfc0505fed9559781d9e204cd4d869bb2756e9a397d0c6395286fea6b2e1f",
+        "topics": "Multirate schedules, timing uncertainty, event identity, and replay boundaries."
+      }
     },
     {
       "publication_id": "STP-005",
@@ -49,7 +82,18 @@
       "filename": "manuscript.pdf",
       "sha256": "b61370a2f76b88f783c5119705354df89709c2d5d4f6e0ea5a923374c1a7761d",
       "bytes": 44642,
-      "pages": 6
+      "pages": 6,
+      "research_notes": {
+        "artifact_path": "STP-005/research-notes.md",
+        "version": "1.0",
+        "published_on_utc": "2026-11-12",
+        "note_type": "RESEARCH_SYNTHESIS_AND_PROPOSED_PROTOCOL",
+        "peer_reviewed": false,
+        "new_empirical_results": false,
+        "test_status": "PROPOSED_NOT_RUN",
+        "sha256": "503f127ac494926ad761fc1c27ce32ced23853abfbc6794147b123ce00fa2185",
+        "topics": "Shared ancestry, independence, agent communication, and claim-specific support."
+      }
     },
     {
       "publication_id": "STP-006",
@@ -61,7 +105,18 @@
       "filename": "manuscript.pdf",
       "sha256": "021383984963362ec623e79b07f90f90fc5b7906506ae63d1625584e0a5d1d2c",
       "bytes": 79848,
-      "pages": 11
+      "pages": 11,
+      "research_notes": {
+        "artifact_path": "STP-006/research-notes.md",
+        "version": "1.0",
+        "published_on_utc": "2026-11-12",
+        "note_type": "RESEARCH_SYNTHESIS_AND_PROPOSED_PROTOCOL",
+        "peer_reviewed": false,
+        "new_empirical_results": false,
+        "test_status": "PROPOSED_NOT_RUN",
+        "sha256": "3e59a737fed58bc4e1be0b3aa20ee4c0499a4a84f4f1f3d352d1a2ccc1cc1eb1",
+        "topics": "Neuromorphic routing, representation costs, instrumentation, and resource accounting."
+      }
     },
     {
       "publication_id": "STP-007",
@@ -73,7 +128,18 @@
       "filename": "manuscript.pdf",
       "sha256": "b840302adb8403be958cb4ed3a4fded47cd496ed7c2a0b096ae8f38c1daebb86",
       "bytes": 135260,
-      "pages": 11
+      "pages": 11,
+      "research_notes": {
+        "artifact_path": "STP-007/research-notes.md",
+        "version": "1.0",
+        "published_on_utc": "2026-11-12",
+        "note_type": "RESEARCH_SYNTHESIS_AND_PROPOSED_PROTOCOL",
+        "peer_reviewed": false,
+        "new_empirical_results": false,
+        "test_status": "PROPOSED_NOT_RUN",
+        "sha256": "e0bafb01d0983b98cee03aba83a1df4cad89e6c11f2f3992127b32dbdcc15c19",
+        "topics": "Checkpoint boundaries, recovery epochs, state continuity, and stale-data rejection."
+      }
     },
     {
       "publication_id": "STP-008",
@@ -85,7 +151,18 @@
       "filename": "manuscript.pdf",
       "sha256": "c144db3215e037ff09ac69181afd4e2f4f8836c2dc2549793259939a3fe474da",
       "bytes": 148802,
-      "pages": 12
+      "pages": 12,
+      "research_notes": {
+        "artifact_path": "STP-008/research-notes.md",
+        "version": "1.0",
+        "published_on_utc": "2026-11-12",
+        "note_type": "RESEARCH_SYNTHESIS_AND_PROPOSED_PROTOCOL",
+        "peer_reviewed": false,
+        "new_empirical_results": false,
+        "test_status": "PROPOSED_NOT_RUN",
+        "sha256": "9557716114a2ab6c02f27785ee2aee62dd53eef44ae247384baba6b6b22eff20",
+        "topics": "Event selection, opportunity denominators, failed trials, and comparison populations."
+      }
     },
     {
       "publication_id": "STP-009",
@@ -109,7 +186,18 @@
       "filename": "manuscript.pdf",
       "sha256": "1cb043bcaac6b41199e8cd88f28e875239f96f592c70f52e0f558763ad2dfb5e",
       "bytes": 58004,
-      "pages": 5
+      "pages": 5,
+      "research_notes": {
+        "artifact_path": "STP-010/research-notes.md",
+        "version": "1.0",
+        "published_on_utc": "2026-11-12",
+        "note_type": "RESEARCH_SYNTHESIS_AND_PROPOSED_PROTOCOL",
+        "peer_reviewed": false,
+        "new_empirical_results": false,
+        "test_status": "PROPOSED_NOT_RUN",
+        "sha256": "10a18baebd69f615217596b6b6e0949593bd564018e8457bea5611b13df87b79",
+        "topics": "Transform revisions, hidden state, latent alignment, and exact execution ancestry."
+      }
     },
     {
       "publication_id": "Digital-Mitosis",
@@ -121,7 +209,18 @@
       "filename": "manuscript.pdf",
       "sha256": "6e5773ad06b225a9e393d654209aba0b94ff7320aaf8a9f792ad2874aee2c1be",
       "bytes": 149968,
-      "pages": 6
+      "pages": 6,
+      "research_notes": {
+        "artifact_path": "Digital-Mitosis/research-notes.md",
+        "version": "1.0",
+        "published_on_utc": "2026-11-12",
+        "note_type": "RESEARCH_SYNTHESIS_AND_PROPOSED_PROTOCOL",
+        "peer_reviewed": false,
+        "new_empirical_results": false,
+        "test_status": "PROPOSED_NOT_RUN",
+        "sha256": "0479358cd019136859821cd7ff0a5bde2f96c9cb71a345abf78ea09b160390c8",
+        "topics": "Inheritance, plasticity, maintenance, biological comparisons, and behavioral phenotype."
+      }
     },
     {
       "publication_id": "SS-LAB-CC-001",
@@ -133,7 +232,20 @@
       "filename": "manuscript.pdf",
       "sha256": "6cd6d24bcec2110b63a2dcf34d92c9a1de35098b6e983867cbf5fc5268166e6d",
       "bytes": 118272,
-      "pages": 7
+      "pages": 7,
+      "research_notes": {
+        "artifact_path": "SS-LAB-CC-001/research-notes.md",
+        "version": "1.0",
+        "published_on_utc": "2026-11-12",
+        "note_type": "RESEARCH_SYNTHESIS_AND_PROPOSED_PROTOCOL",
+        "peer_reviewed": false,
+        "new_empirical_results": false,
+        "test_status": "PROPOSED_NOT_RUN",
+        "sha256": "f8edc7a9c739c6e83ef5c3b5412e1ebb96122d8b7c38f7a5af9cb1fc793142c6",
+        "topics": "Context reconstruction, observable drift, trajectory controls, and exploration."
+      }
     }
-  ]
+  ],
+  "research_notes_publication_date_utc": "2026-11-12",
+  "research_notes_count": 10
 }

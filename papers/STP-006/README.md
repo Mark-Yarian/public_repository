@@ -25,6 +25,12 @@ Industrial intelligence systems often treat observation as an external, low-cost
 
 Causal model, architectural proposal, and switchback evaluation protocol; no measured observer effect. The manuscript distinguishes its proposals, analytical examples, and future evaluation from established results. Full references are in the PDF.
 
+## Supporting research notes
+
+[Read the integrated research notes](research-notes.md) — Neuromorphic routing, representation costs, instrumentation, and resource accounting.
+
+Companion notes version 1.0, added 2026-11-12 UTC. They distinguish cited background from proposed tests and contain no new empirical results. The PDF, manuscript version, citation, and DOI record remain unchanged.
+
 ## Citation
 
 Yarian, M. (2026). The Probe Is Part of the Process: Observation-induced change, causal confounding, and safe telemetry budgets in industrial edge intelligence. SynapticSteel Technical Papers, STP-006, version 1.0. https://github.com/Mark-Yarian/public_repository/blob/main/papers/STP-006/manuscript.pdf

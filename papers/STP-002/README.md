@@ -25,6 +25,12 @@ Condition-monitoring systems commonly compare current measurements with baseline
 
 Conceptual architecture and proposed baseline/maintenance evaluation; no measured diagnostic improvement. The manuscript distinguishes its proposals, analytical examples, and future evaluation from established results. Full references are in the PDF.
 
+## Supporting research notes
+
+[Read the integrated research notes](research-notes.md) — Adaptive baselines, structural updates, retention, and independent health validation.
+
+Companion notes version 1.0, added 2026-11-12 UTC. They distinguish cited background from proposed tests and contain no new empirical results. The PDF, manuscript version, citation, and DOI record remain unchanged.
+
 ## Citation
 
 Yarian, M. (2026). Baseline Is Not Health: Epistemic baselines, intervention epochs, and the danger of teaching condition-monitoring systems that the first stable state is a healthy state. SynapticSteel Technical Papers, STP-002, version 0.1-github. https://github.com/Mark-Yarian/public_repository/blob/main/papers/STP-002/manuscript.pdf

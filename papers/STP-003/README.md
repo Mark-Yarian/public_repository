@@ -25,6 +25,12 @@ Industrial edge systems increasingly combine vibration, acoustic, thermal, image
 
 Conceptual temporal-fusion architecture and proposed evaluation; no original timing benchmark. The manuscript distinguishes its proposals, analytical examples, and future evaluation from established results. Full references are in the PDF.
 
+## Supporting research notes
+
+[Read the integrated research notes](research-notes.md) — Multirate schedules, timing uncertainty, event identity, and replay boundaries.
+
+Companion notes version 1.0, added 2026-11-12 UTC. They distinguish cited background from proposed tests and contain no new empirical results. The PDF, manuscript version, citation, and DOI record remain unchanged.
+
 ## Citation
 
 Yarian, M. (2026). The Timestamp Is Not the Event: Uncertainty-aware temporal fusion for asynchronous industrial sensors at the physical edge. SynapticSteel Technical Papers, STP-003, version 0.1-github. https://github.com/Mark-Yarian/public_repository/blob/main/papers/STP-003/manuscript.pdf

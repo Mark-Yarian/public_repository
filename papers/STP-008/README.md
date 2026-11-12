@@ -25,6 +25,12 @@ An event-triggered industrial archive is often treated as the history of a machi
 
 Sampling-theory synthesis and a worked numerical counterexample; the example is not an experiment. The manuscript distinguishes its proposals, analytical examples, and future evaluation from established results. Full references are in the PDF.
 
+## Supporting research notes
+
+[Read the integrated research notes](research-notes.md) — Event selection, opportunity denominators, failed trials, and comparison populations.
+
+Companion notes version 1.0, added 2026-11-12 UTC. They distinguish cited background from proposed tests and contain no new empirical results. The PDF, manuscript version, citation, and DOI record remain unchanged.
+
 ## Citation
 
 Yarian, M. (2026). The Archive Is Not the Population: Selection-Aware Event Memory for Industrial Edge Intelligence. SynapticSteel Technical Papers, STP-008, version 1.0. https://github.com/Mark-Yarian/public_repository/blob/main/papers/STP-008/manuscript.pdf

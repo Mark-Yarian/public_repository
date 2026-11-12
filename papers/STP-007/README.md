@@ -25,6 +25,12 @@ Unattended industrial sensors often fail in ways that invite a simple operationa
 
 Architecture and fault-injection evaluation protocol; no measured recovery or reliability benefit. The manuscript distinguishes its proposals, analytical examples, and future evaluation from established results. Full references are in the PDF.
 
+## Supporting research notes
+
+[Read the integrated research notes](research-notes.md) — Checkpoint boundaries, recovery epochs, state continuity, and stale-data rejection.
+
+Companion notes version 1.0, added 2026-11-12 UTC. They distinguish cited background from proposed tests and contain no new empirical results. The PDF, manuscript version, citation, and DOI record remain unchanged.
+
 ## Citation
 
 Yarian, M. (2026). A Reconnection Is Not a Recovery: Epoch-Fenced Reacquisition and Recovery Budgets for Unattended Industrial Sensors. SynapticSteel Technical Papers, STP-007, version 1.0. https://github.com/Mark-Yarian/public_repository/blob/main/papers/STP-007/manuscript.pdf

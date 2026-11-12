@@ -6,17 +6,17 @@
 
 | Identifier | Title | Type | Version | Review status | Public artifact |
 | --- | --- | --- | --- | --- | --- |
-| STP-001 | [Failure Metabolism](STP-001/README.md) | Conceptual working paper | 0.1-draft | Author-released; not peer reviewed | [PDF](STP-001/manuscript.pdf) · [Abstract](STP-001/abstract.md) |
-| STP-002 | [Baseline Is Not Health](STP-002/README.md) | Conceptual working paper | 0.1-github | Author-released; not peer reviewed | [PDF](STP-002/manuscript.pdf) · [Abstract](STP-002/abstract.md) |
-| STP-003 | [The Timestamp Is Not the Event](STP-003/README.md) | Conceptual working paper | 0.1-github | Author-released; not peer reviewed | [PDF](STP-003/manuscript.pdf) · [Abstract](STP-003/abstract.md) |
-| STP-005 | [Trust Is Not Agreement](STP-005/README.md) | Conceptual working paper | 1.0 | Author-released; not peer reviewed | [PDF](STP-005/manuscript.pdf) · [Abstract](STP-005/abstract.md) |
-| STP-006 | [The Probe Is Part of the Process](STP-006/README.md) | Conceptual working paper | 1.0 | Author-released; not peer reviewed | [PDF](STP-006/manuscript.pdf) · [Abstract](STP-006/abstract.md) |
-| STP-007 | [A Reconnection Is Not a Recovery](STP-007/README.md) | Conceptual working paper | 1.0 | Author-released; not peer reviewed | [PDF](STP-007/manuscript.pdf) · [Abstract](STP-007/abstract.md) |
-| STP-008 | [The Archive Is Not the Population](STP-008/README.md) | Conceptual working paper | 1.0 | Author-released; not peer reviewed | [PDF](STP-008/manuscript.pdf) · [Abstract](STP-008/abstract.md) |
+| STP-001 | [Failure Metabolism](STP-001/README.md) | Conceptual working paper | 0.1-draft | Author-released; not peer reviewed | [PDF](STP-001/manuscript.pdf) · [Abstract](STP-001/abstract.md) · [Research notes](STP-001/research-notes.md) |
+| STP-002 | [Baseline Is Not Health](STP-002/README.md) | Conceptual working paper | 0.1-github | Author-released; not peer reviewed | [PDF](STP-002/manuscript.pdf) · [Abstract](STP-002/abstract.md) · [Research notes](STP-002/research-notes.md) |
+| STP-003 | [The Timestamp Is Not the Event](STP-003/README.md) | Conceptual working paper | 0.1-github | Author-released; not peer reviewed | [PDF](STP-003/manuscript.pdf) · [Abstract](STP-003/abstract.md) · [Research notes](STP-003/research-notes.md) |
+| STP-005 | [Trust Is Not Agreement](STP-005/README.md) | Conceptual working paper | 1.0 | Author-released; not peer reviewed | [PDF](STP-005/manuscript.pdf) · [Abstract](STP-005/abstract.md) · [Research notes](STP-005/research-notes.md) |
+| STP-006 | [The Probe Is Part of the Process](STP-006/README.md) | Conceptual working paper | 1.0 | Author-released; not peer reviewed | [PDF](STP-006/manuscript.pdf) · [Abstract](STP-006/abstract.md) · [Research notes](STP-006/research-notes.md) |
+| STP-007 | [A Reconnection Is Not a Recovery](STP-007/README.md) | Conceptual working paper | 1.0 | Author-released; not peer reviewed | [PDF](STP-007/manuscript.pdf) · [Abstract](STP-007/abstract.md) · [Research notes](STP-007/research-notes.md) |
+| STP-008 | [The Archive Is Not the Population](STP-008/README.md) | Conceptual working paper | 1.0 | Author-released; not peer reviewed | [PDF](STP-008/manuscript.pdf) · [Abstract](STP-008/abstract.md) · [Research notes](STP-008/research-notes.md) |
 | STP-009 | [The Nullspace Has No Name](STP-009/README.md) | Analytical working paper | 1.0 | Author-released; not peer reviewed | [PDF](STP-009/manuscript.pdf) · [Abstract](STP-009/abstract.md) |
-| STP-010 | [The Model Was Nearby, Not Involved](STP-010/README.md) | Conceptual working paper | 1.0 | Author-released; not peer reviewed | [PDF](STP-010/manuscript.pdf) · [Abstract](STP-010/abstract.md) |
-| Digital-Mitosis | [Digital Mitosis: A State-Transfer, Lineage, and Controlled-Mutation Architecture for Persistent Computational Organisms](Digital-Mitosis/README.md) | Conceptual working paper | 0.1 | Author-released; not peer reviewed | [PDF](Digital-Mitosis/manuscript.pdf) · [Abstract](Digital-Mitosis/abstract.md) |
-| SS-LAB-CC-001 | [Conceptual Compression and Context Fidelity in Human–LLM Collaboration](SS-LAB-CC-001/README.md) | Conceptual working paper | 0.2-github | Author-released; not peer reviewed | [PDF](SS-LAB-CC-001/manuscript.pdf) · [Abstract](SS-LAB-CC-001/abstract.md) |
+| STP-010 | [The Model Was Nearby, Not Involved](STP-010/README.md) | Conceptual working paper | 1.0 | Author-released; not peer reviewed | [PDF](STP-010/manuscript.pdf) · [Abstract](STP-010/abstract.md) · [Research notes](STP-010/research-notes.md) |
+| Digital-Mitosis | [Digital Mitosis: A State-Transfer, Lineage, and Controlled-Mutation Architecture for Persistent Computational Organisms](Digital-Mitosis/README.md) | Conceptual working paper | 0.1 | Author-released; not peer reviewed | [PDF](Digital-Mitosis/manuscript.pdf) · [Abstract](Digital-Mitosis/abstract.md) · [Research notes](Digital-Mitosis/research-notes.md) |
+| SS-LAB-CC-001 | [Conceptual Compression and Context Fidelity in Human–LLM Collaboration](SS-LAB-CC-001/README.md) | Conceptual working paper | 0.2-github | Author-released; not peer reviewed | [PDF](SS-LAB-CC-001/manuscript.pdf) · [Abstract](SS-LAB-CC-001/abstract.md) · [Research notes](SS-LAB-CC-001/research-notes.md) |
 
 ## Evidence and versions
 
@@ -24,9 +24,11 @@ These works develop conceptual frameworks, proposed methods, falsifiable evaluat
 
 Existing publication identifiers are preserved. Numbering gaps are intentional; an unavailable manuscript is not reconstructed or presented as a release. Three original publication PDFs are preserved byte for byte; the other eight are GitHub editions with current release labels. Existing DOIs identify their original records. No DOI is invented for a GitHub edition.
 
-## Historical research sources
+## Integrated research notes
 
-The [Counter.news Science archive](../research-notes/counter-news/README.md) adds 50 secondary research notes with recorded historical source dates, current assessments, and proposed tests. They do not add rows to this working-paper release table or imply empirical validation.
+Ten released papers include a companion `research-notes.md`, linked in their public-artifact cells and paper records. Each supplement groups relevant questions, primary evidence, data requirements, comparison controls, and unrun tests. Notes are synthesized by scientific relevance; unrelated physics, energy, cryptography, and clinical topics are outside these papers' scope. STP-009 retains its released record without an unrelated supplement.
+
+The research-note edition is **1.0, added November 12, 2026 UTC**. It supplements the papers without changing their PDFs, manuscript versions, DOI records, or historical publication dates. Primary-source attribution is retained. These notes add no new empirical results and do not create additional working-paper rows. Supplement paths, versions, status, and SHA-256 values are recorded in the existing [manifest](manifest.json).
 
 ## Rights and citation
 

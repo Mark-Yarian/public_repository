@@ -25,6 +25,12 @@ Self-replicating computer programs are not new. Tierra, Avida, evolutionary comp
 
 Theoretical engineering framework and proposed experiments; no demonstration of consciousness or validated digital reproduction. The manuscript distinguishes its proposals, analytical examples, and future evaluation from established results. Full references are in the PDF.
 
+## Supporting research notes
+
+[Read the integrated research notes](research-notes.md) — Inheritance, plasticity, maintenance, biological comparisons, and behavioral phenotype.
+
+Companion notes version 1.0, added 2026-11-12 UTC. They distinguish cited background from proposed tests and contain no new empirical results. The PDF, manuscript version, citation, and DOI record remain unchanged.
+
 ## Citation
 
 Yarian, M. (2026). Digital Mitosis: A State-Transfer, Lineage, and Controlled-Mutation Architecture for Persistent Computational Organisms: A Falsifiable Engineering Framework for Computational Identity, Inheritance, and Digital Lineage. SynapticSteel research working paper, Digital-Mitosis, version 0.1. https://doi.org/10.5281/zenodo.23131141

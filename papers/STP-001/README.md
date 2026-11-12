@@ -25,6 +25,12 @@ Modern AI and industrial software stacks are rich in telemetry yet surprisingly 
 
 Conceptual architecture and proposed evaluation; no empirical validation of failure metabolism. The manuscript distinguishes its proposals, analytical examples, and future evaluation from established results. Full references are in the PDF.
 
+## Supporting research notes
+
+[Read the integrated research notes](research-notes.md) — Failure episodes, recurrence, reasoning benchmarks, and distributed fault controls.
+
+Companion notes version 1.0, added 2026-11-12 UTC. They distinguish cited background from proposed tests and contain no new empirical results. The PDF, manuscript version, citation, and DOI record remain unchanged.
+
 ## Citation
 
 Yarian, M. (2026). Failure Metabolism: Why persistent machine intelligence should digest failure into structured memory instead of merely logging it. SynapticSteel Technical Papers, STP-001, version 0.1-draft. https://doi.org/10.5281/zenodo.23130549

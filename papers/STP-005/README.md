@@ -25,6 +25,12 @@ Multisensor condition-monitoring systems often reward agreement among channels, 
 
 Conceptual sensor-trust architecture and proposed tests; no empirical performance claim. The manuscript distinguishes its proposals, analytical examples, and future evaluation from established results. Full references are in the PDF.
 
+## Supporting research notes
+
+[Read the integrated research notes](research-notes.md) — Shared ancestry, independence, agent communication, and claim-specific support.
+
+Companion notes version 1.0, added 2026-11-12 UTC. They distinguish cited background from proposed tests and contain no new empirical results. The PDF, manuscript version, citation, and DOI record remain unchanged.
+
 ## Citation
 
 Yarian, M. (2026). Trust Is Not Agreement: Separating sensor credibility, cross-channel consensus, and physical plausibility in industrial edge fusion. SynapticSteel Technical Papers, STP-005, version 1.0. https://doi.org/10.5281/zenodo.23114667
