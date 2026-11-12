@@ -9,12 +9,15 @@ This is a **curated, public-facing research catalog**, not a live laboratory fee
 | --- | --- |
 | A plain-language introduction to the subjects | [Research areas](../research-areas/README.md) |
 | A specific released scientific manuscript | [Paper index](../papers/INDEX.md) |
+| A topic-based research article | [Research-article index](../research-articles/README.md) |
+| Connections among articles, methods, references, and papers | [Research cross-index](../research-articles/CROSS_INDEX.md) |
 | The meaning of an evidence or review label | This guide, below |
 | How publication approval works | [Publication policy](../PUBLICATION_POLICY.md) |
 | What can be submitted safely | [Submission guide](SUBMISSION_GUIDE.md) |
 | The organization behind the library | [SynapticSteel](https://synapticsteel.com/) |
 
 ## Reading evidence labels
+- **Initial research synthesis:** a critical topic review with scoped source checks and proposed methods; not a complete systematic review or a new empirical result.
 - **Research area:** an educational orientation to a topic, **not** an experimental finding.
 - **Hypothesis:** a testable proposed explanation; not confirmation.
 - **Simulation or demonstration:** an illustrative or model-based result; it may not establish real-world performance.

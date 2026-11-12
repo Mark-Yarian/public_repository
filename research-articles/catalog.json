@@ -1,0 +1,2373 @@
+{
+  "schema_version": "1.0",
+  "collection": "SynapticSteel Indexed Research Articles",
+  "release_version": "0.1",
+  "published_on": "2026-11-11",
+  "publication_timezone": "America/New_York",
+  "prepared_on_utc": "2026-11-12",
+  "publication_state": "AUTHOR_RELEASED_RESEARCH_ARTICLE_COLLECTION",
+  "review_stage": "INITIAL_CRITICAL_SYNTHESIS",
+  "counts": {
+    "articles": 30,
+    "linked_papers": 11,
+    "primary_references": 26,
+    "research_areas": 4,
+    "topics": 39,
+    "methods": 11,
+    "article_relations": 61
+  },
+  "review_coverage": {
+    "published_metadata_screened": 185,
+    "candidate_bodies_captured": 143,
+    "captured_visible_words": 122546,
+    "unchanged_prior_review_captures": 50,
+    "metadata_exclusions": 42,
+    "additional_content_exclusions": 5,
+    "retained_candidates": 138,
+    "candidates_associated_with_articles": 138,
+    "candidates_not_developed_into_article": 0,
+    "complete_claim_by_claim_review": false,
+    "source_app_records_changed": false
+  },
+  "interpretation": {
+    "paper_relations": "TOPIC_OR_METHOD_RELEVANCE; not proof of ancestry or empirical support",
+    "new_empirical_results": false,
+    "independent_replication": false,
+    "tests_status": "PROPOSED_NOT_RUN",
+    "existing_manuscript_pdfs_changed": false,
+    "git_history_rewritten": false
+  },
+  "articles": [
+    {
+      "article_id": "RA-001",
+      "title": "Inference service boundaries and reproducible hosts",
+      "artifact_path": "RA-001.md",
+      "version": "0.1",
+      "author": "Mark Yarian",
+      "organization": "Yarian Works, LLC / SynapticSteel",
+      "publication_state": "AUTHOR_RELEASED_RESEARCH_ARTICLE",
+      "published_on": "2026-11-11",
+      "publication_timezone": "America/New_York",
+      "prepared_on_utc": "2026-11-12",
+      "review_stage": "INITIAL_CRITICAL_SYNTHESIS",
+      "peer_reviewed": false,
+      "article_type": "Research synthesis and methods proposal",
+      "new_empirical_results": false,
+      "tests_status": "PROPOSED_NOT_RUN",
+      "research_areas": [
+        "computational-systems",
+        "artificial-intelligence"
+      ],
+      "topics": [
+        "inference",
+        "service-boundaries",
+        "reproducibility"
+      ],
+      "methods": [
+        "controlled-comparison",
+        "provenance"
+      ],
+      "primary_reference_ids": [
+        "OPENAI"
+      ],
+      "related_article_ids": [
+        "RA-002",
+        "RA-016",
+        "RA-019",
+        "RA-026"
+      ],
+      "paper_relations": [
+        {
+          "paper_id": "STP-006",
+          "relation": "TOPIC_OR_METHOD_RELEVANCE",
+          "rationale": "Separate the cost of a client, collector, host, and remote service."
+        },
+        {
+          "paper_id": "STP-010",
+          "relation": "TOPIC_OR_METHOD_RELEVANCE",
+          "rationale": "Bind each result to the service, model revision, and exact input that produced it."
+        }
+      ],
+      "rights": "Copyright Mark Yarian; all rights reserved; public reading and citation permitted.",
+      "sha256": "dc742041d0f5711ca8b5492a35e43b53b91f3f5a8fe7b1b8917a1a87153c6e77",
+      "bytes": 4163,
+      "words": 551
+    },
+    {
+      "article_id": "RA-002",
+      "title": "Peer discovery, leader election, and recovery",
+      "artifact_path": "RA-002.md",
+      "version": "0.1",
+      "author": "Mark Yarian",
+      "organization": "Yarian Works, LLC / SynapticSteel",
+      "publication_state": "AUTHOR_RELEASED_RESEARCH_ARTICLE",
+      "published_on": "2026-11-11",
+      "publication_timezone": "America/New_York",
+      "prepared_on_utc": "2026-11-12",
+      "review_stage": "INITIAL_CRITICAL_SYNTHESIS",
+      "peer_reviewed": false,
+      "article_type": "Research synthesis and methods proposal",
+      "new_empirical_results": false,
+      "tests_status": "PROPOSED_NOT_RUN",
+      "research_areas": [
+        "computational-systems",
+        "experimental-methods"
+      ],
+      "topics": [
+        "coordination",
+        "recovery",
+        "lineage"
+      ],
+      "methods": [
+        "fault-injection",
+        "replay"
+      ],
+      "primary_reference_ids": [
+        "RAFT",
+        "ZEROMQ"
+      ],
+      "related_article_ids": [
+        "RA-001",
+        "RA-006",
+        "RA-007",
+        "RA-019"
+      ],
+      "paper_relations": [
+        {
+          "paper_id": "STP-007",
+          "relation": "TOPIC_OR_METHOD_RELEVANCE",
+          "rationale": "Test recovery after a connection resumes and reject stale predecessor work."
+        },
+        {
+          "paper_id": "STP-010",
+          "relation": "TOPIC_OR_METHOD_RELEVANCE",
+          "rationale": "Preserve message and execution ancestry across retries."
+        }
+      ],
+      "rights": "Copyright Mark Yarian; all rights reserved; public reading and citation permitted.",
+      "sha256": "0b5cb01f39338c66f8f8cbd79e54d731980c832914170867b3930ec2173bae65",
+      "bytes": 3947,
+      "words": 508
+    },
+    {
+      "article_id": "RA-003",
+      "title": "Actuator observations, torque, timing, and health labels",
+      "artifact_path": "RA-003.md",
+      "version": "0.1",
+      "author": "Mark Yarian",
+      "organization": "Yarian Works, LLC / SynapticSteel",
+      "publication_state": "AUTHOR_RELEASED_RESEARCH_ARTICLE",
+      "published_on": "2026-11-11",
+      "publication_timezone": "America/New_York",
+      "prepared_on_utc": "2026-11-12",
+      "review_stage": "INITIAL_CRITICAL_SYNTHESIS",
+      "peer_reviewed": false,
+      "article_type": "Research synthesis and methods proposal",
+      "new_empirical_results": false,
+      "tests_status": "PROPOSED_NOT_RUN",
+      "research_areas": [
+        "experimental-methods",
+        "computational-systems"
+      ],
+      "topics": [
+        "sensing",
+        "timing",
+        "health-validation"
+      ],
+      "methods": [
+        "calibration",
+        "controlled-comparison"
+      ],
+      "primary_reference_ids": [
+        "I2C"
+      ],
+      "related_article_ids": [
+        "RA-009",
+        "RA-015",
+        "RA-020",
+        "RA-030"
+      ],
+      "paper_relations": [
+        {
+          "paper_id": "STP-002",
+          "relation": "TOPIC_OR_METHOD_RELEVANCE",
+          "rationale": "Validate health independently of a repeatable actuator baseline."
+        },
+        {
+          "paper_id": "STP-003",
+          "relation": "TOPIC_OR_METHOD_RELEVANCE",
+          "rationale": "Preserve acquisition timing across bus transactions and summaries."
+        },
+        {
+          "paper_id": "STP-005",
+          "relation": "TOPIC_OR_METHOD_RELEVANCE",
+          "rationale": "Assess current, motion, thermal, and supply evidence by claim."
+        },
+        {
+          "paper_id": "STP-006",
+          "relation": "TOPIC_OR_METHOD_RELEVANCE",
+          "rationale": "Measure whether sensing changes the observed system."
+        },
+        {
+          "paper_id": "STP-009",
+          "relation": "TOPIC_OR_METHOD_RELEVANCE",
+          "rationale": "Use independent source references when attributing shared vibration."
+        }
+      ],
+      "rights": "Copyright Mark Yarian; all rights reserved; public reading and citation permitted.",
+      "sha256": "4236ae2a33393e1d53e66a1b162ad3d921f85834e2057d4ebcca688afde7d33d",
+      "bytes": 4404,
+      "words": 568
+    },
+    {
+      "article_id": "RA-004",
+      "title": "Behavioral evidence for generated and transformed code",
+      "artifact_path": "RA-004.md",
+      "version": "0.1",
+      "author": "Mark Yarian",
+      "organization": "Yarian Works, LLC / SynapticSteel",
+      "publication_state": "AUTHOR_RELEASED_RESEARCH_ARTICLE",
+      "published_on": "2026-11-11",
+      "publication_timezone": "America/New_York",
+      "prepared_on_utc": "2026-11-12",
+      "review_stage": "INITIAL_CRITICAL_SYNTHESIS",
+      "peer_reviewed": false,
+      "article_type": "Research synthesis and methods proposal",
+      "new_empirical_results": false,
+      "tests_status": "PROPOSED_NOT_RUN",
+      "research_areas": [
+        "computational-systems",
+        "experimental-methods"
+      ],
+      "topics": [
+        "code-generation",
+        "lineage",
+        "reproducibility"
+      ],
+      "methods": [
+        "ablation",
+        "held-out-evaluation"
+      ],
+      "primary_reference_ids": [
+        "LLVM",
+        "AVIDA"
+      ],
+      "related_article_ids": [
+        "RA-005",
+        "RA-009",
+        "RA-011",
+        "RA-017",
+        "RA-024",
+        "RA-026"
+      ],
+      "paper_relations": [
+        {
+          "paper_id": "STP-001",
+          "relation": "TOPIC_OR_METHOD_RELEVANCE",
+          "rationale": "Retain rejected candidates and failed repairs with outcomes."
+        },
+        {
+          "paper_id": "STP-010",
+          "relation": "TOPIC_OR_METHOD_RELEVANCE",
+          "rationale": "Identify the exact generated artifact, compiler transform, and execution."
+        },
+        {
+          "paper_id": "Digital-Mitosis",
+          "relation": "TOPIC_OR_METHOD_RELEVANCE",
+          "rationale": "Separate executable variation from inherited behavioral continuity."
+        }
+      ],
+      "rights": "Copyright Mark Yarian; all rights reserved; public reading and citation permitted.",
+      "sha256": "51bec10f7127a789b4f78e774c7b75fbda96d3ab0094c967ed54670484891ae8",
+      "bytes": 4402,
+      "words": 549
+    },
+    {
+      "article_id": "RA-005",
+      "title": "Computational reproduction and bounded inheritance",
+      "artifact_path": "RA-005.md",
+      "version": "0.1",
+      "author": "Mark Yarian",
+      "organization": "Yarian Works, LLC / SynapticSteel",
+      "publication_state": "AUTHOR_RELEASED_RESEARCH_ARTICLE",
+      "published_on": "2026-11-11",
+      "publication_timezone": "America/New_York",
+      "prepared_on_utc": "2026-11-12",
+      "review_stage": "INITIAL_CRITICAL_SYNTHESIS",
+      "peer_reviewed": false,
+      "article_type": "Research synthesis and methods proposal",
+      "new_empirical_results": false,
+      "tests_status": "PROPOSED_NOT_RUN",
+      "research_areas": [
+        "computational-systems",
+        "artificial-intelligence"
+      ],
+      "topics": [
+        "evolution",
+        "identity",
+        "lineage"
+      ],
+      "methods": [
+        "controlled-comparison",
+        "held-out-evaluation"
+      ],
+      "primary_reference_ids": [
+        "AVIDA"
+      ],
+      "related_article_ids": [
+        "RA-004",
+        "RA-006",
+        "RA-008"
+      ],
+      "paper_relations": [
+        {
+          "paper_id": "Digital-Mitosis",
+          "relation": "TOPIC_OR_METHOD_RELEVANCE",
+          "rationale": "Evaluate inheritance partitions, descendant independence, and controlled variation."
+        },
+        {
+          "paper_id": "STP-001",
+          "relation": "TOPIC_OR_METHOD_RELEVANCE",
+          "rationale": "Record failed descendants and subsequent recovery outcomes."
+        },
+        {
+          "paper_id": "STP-008",
+          "relation": "TOPIC_OR_METHOD_RELEVANCE",
+          "rationale": "Keep the full descendant opportunity denominator."
+        }
+      ],
+      "rights": "Copyright Mark Yarian; all rights reserved; public reading and citation permitted.",
+      "sha256": "8ce8513e361122711340a9b6f00319cdd3309d612a9c207bba64a504768cca04",
+      "bytes": 4092,
+      "words": 512
+    },
+    {
+      "article_id": "RA-006",
+      "title": "Continuity through restart and long-running state",
+      "artifact_path": "RA-006.md",
+      "version": "0.1",
+      "author": "Mark Yarian",
+      "organization": "Yarian Works, LLC / SynapticSteel",
+      "publication_state": "AUTHOR_RELEASED_RESEARCH_ARTICLE",
+      "published_on": "2026-11-11",
+      "publication_timezone": "America/New_York",
+      "prepared_on_utc": "2026-11-12",
+      "review_stage": "INITIAL_CRITICAL_SYNTHESIS",
+      "peer_reviewed": false,
+      "article_type": "Research synthesis and methods proposal",
+      "new_empirical_results": false,
+      "tests_status": "PROPOSED_NOT_RUN",
+      "research_areas": [
+        "computational-systems",
+        "experimental-methods"
+      ],
+      "topics": [
+        "identity",
+        "recovery",
+        "lineage"
+      ],
+      "methods": [
+        "replay",
+        "fault-injection"
+      ],
+      "primary_reference_ids": [
+        "RWKV",
+        "RAFT"
+      ],
+      "related_article_ids": [
+        "RA-002",
+        "RA-005",
+        "RA-010",
+        "RA-012"
+      ],
+      "paper_relations": [
+        {
+          "paper_id": "Digital-Mitosis",
+          "relation": "TOPIC_OR_METHOD_RELEVANCE",
+          "rationale": "Define continuity operationally across copying and migration."
+        },
+        {
+          "paper_id": "STP-007",
+          "relation": "TOPIC_OR_METHOD_RELEVANCE",
+          "rationale": "Distinguish restored execution from validated current service."
+        },
+        {
+          "paper_id": "STP-010",
+          "relation": "TOPIC_OR_METHOD_RELEVANCE",
+          "rationale": "Separate original event ancestry from a new replay execution."
+        }
+      ],
+      "rights": "Copyright Mark Yarian; all rights reserved; public reading and citation permitted.",
+      "sha256": "268eafab081ba409771e23a07f8d9df57a4f733b4036b9fbdac517c7ebfcdb41",
+      "bytes": 4203,
+      "words": 534
+    },
+    {
+      "article_id": "RA-007",
+      "title": "Swarm coordination under partial observations",
+      "artifact_path": "RA-007.md",
+      "version": "0.1",
+      "author": "Mark Yarian",
+      "organization": "Yarian Works, LLC / SynapticSteel",
+      "publication_state": "AUTHOR_RELEASED_RESEARCH_ARTICLE",
+      "published_on": "2026-11-11",
+      "publication_timezone": "America/New_York",
+      "prepared_on_utc": "2026-11-12",
+      "review_stage": "INITIAL_CRITICAL_SYNTHESIS",
+      "peer_reviewed": false,
+      "article_type": "Research synthesis and methods proposal",
+      "new_empirical_results": false,
+      "tests_status": "PROPOSED_NOT_RUN",
+      "research_areas": [
+        "computational-systems",
+        "artificial-intelligence"
+      ],
+      "topics": [
+        "swarm",
+        "coordination",
+        "cost"
+      ],
+      "methods": [
+        "fault-injection",
+        "controlled-comparison"
+      ],
+      "primary_reference_ids": [
+        "ZEROMQ",
+        "RAFT"
+      ],
+      "related_article_ids": [
+        "RA-002",
+        "RA-008",
+        "RA-019"
+      ],
+      "paper_relations": [
+        {
+          "paper_id": "STP-005",
+          "relation": "TOPIC_OR_METHOD_RELEVANCE",
+          "rationale": "Distinguish independent evidence from repeated shared information."
+        },
+        {
+          "paper_id": "STP-006",
+          "relation": "TOPIC_OR_METHOD_RELEVANCE",
+          "rationale": "Account for communication and observation cost."
+        },
+        {
+          "paper_id": "STP-007",
+          "relation": "TOPIC_OR_METHOD_RELEVANCE",
+          "rationale": "Test useful recovery after participant and transport failures."
+        },
+        {
+          "paper_id": "STP-010",
+          "relation": "TOPIC_OR_METHOD_RELEVANCE",
+          "rationale": "Attribute each action to the messages and state actually consumed."
+        }
+      ],
+      "rights": "Copyright Mark Yarian; all rights reserved; public reading and citation permitted.",
+      "sha256": "b50839035cd84eed137c5f01b131cc76afbd2eab8b6a4f3b8a878d52463859ed",
+      "bytes": 4029,
+      "words": 510
+    },
+    {
+      "article_id": "RA-008",
+      "title": "Environmental feedback, confounding, and task fitness",
+      "artifact_path": "RA-008.md",
+      "version": "0.1",
+      "author": "Mark Yarian",
+      "organization": "Yarian Works, LLC / SynapticSteel",
+      "publication_state": "AUTHOR_RELEASED_RESEARCH_ARTICLE",
+      "published_on": "2026-11-11",
+      "publication_timezone": "America/New_York",
+      "prepared_on_utc": "2026-11-12",
+      "review_stage": "INITIAL_CRITICAL_SYNTHESIS",
+      "peer_reviewed": false,
+      "article_type": "Research synthesis and methods proposal",
+      "new_empirical_results": false,
+      "tests_status": "PROPOSED_NOT_RUN",
+      "research_areas": [
+        "artificial-intelligence",
+        "experimental-methods"
+      ],
+      "topics": [
+        "feedback",
+        "evolution",
+        "health-validation"
+      ],
+      "methods": [
+        "ablation",
+        "controlled-comparison"
+      ],
+      "primary_reference_ids": [
+        "AVIDA",
+        "RIGL"
+      ],
+      "related_article_ids": [
+        "RA-005",
+        "RA-007",
+        "RA-009",
+        "RA-013",
+        "RA-022"
+      ],
+      "paper_relations": [
+        {
+          "paper_id": "STP-001",
+          "relation": "TOPIC_OR_METHOD_RELEVANCE",
+          "rationale": "Link a changed policy to failure and later outcome evidence."
+        },
+        {
+          "paper_id": "STP-002",
+          "relation": "TOPIC_OR_METHOD_RELEVANCE",
+          "rationale": "Do not use adaptation itself as the health label."
+        },
+        {
+          "paper_id": "STP-006",
+          "relation": "TOPIC_OR_METHOD_RELEVANCE",
+          "rationale": "Treat an observation policy as a possible intervention."
+        },
+        {
+          "paper_id": "Digital-Mitosis",
+          "relation": "TOPIC_OR_METHOD_RELEVANCE",
+          "rationale": "Test environmental effects on descendant behavior."
+        }
+      ],
+      "rights": "Copyright Mark Yarian; all rights reserved; public reading and citation permitted.",
+      "sha256": "795de97cb2889b9911301f20103b075e679c9faba6bde5214a3cc3e1686572c6",
+      "bytes": 4262,
+      "words": 547
+    },
+    {
+      "article_id": "RA-009",
+      "title": "Failure memory from logs to later decisions",
+      "artifact_path": "RA-009.md",
+      "version": "0.1",
+      "author": "Mark Yarian",
+      "organization": "Yarian Works, LLC / SynapticSteel",
+      "publication_state": "AUTHOR_RELEASED_RESEARCH_ARTICLE",
+      "published_on": "2026-11-11",
+      "publication_timezone": "America/New_York",
+      "prepared_on_utc": "2026-11-12",
+      "review_stage": "INITIAL_CRITICAL_SYNTHESIS",
+      "peer_reviewed": false,
+      "article_type": "Research synthesis and methods proposal",
+      "new_empirical_results": false,
+      "tests_status": "PROPOSED_NOT_RUN",
+      "research_areas": [
+        "experimental-methods",
+        "artificial-intelligence"
+      ],
+      "topics": [
+        "failure-memory",
+        "evaluation",
+        "lineage"
+      ],
+      "methods": [
+        "held-out-evaluation",
+        "sampling"
+      ],
+      "primary_reference_ids": [
+        "REASONING"
+      ],
+      "related_article_ids": [
+        "RA-003",
+        "RA-004",
+        "RA-008",
+        "RA-017",
+        "RA-018",
+        "RA-029"
+      ],
+      "paper_relations": [
+        {
+          "paper_id": "STP-001",
+          "relation": "TOPIC_OR_METHOD_RELEVANCE",
+          "rationale": "Make a failure, attempted recovery, and later outcome a linked research unit."
+        },
+        {
+          "paper_id": "STP-008",
+          "relation": "TOPIC_OR_METHOD_RELEVANCE",
+          "rationale": "Retain opportunities for recurrence, not only memorable failures."
+        },
+        {
+          "paper_id": "STP-010",
+          "relation": "TOPIC_OR_METHOD_RELEVANCE",
+          "rationale": "Identify the exact model and evidence involved in a later decision."
+        }
+      ],
+      "rights": "Copyright Mark Yarian; all rights reserved; public reading and citation permitted.",
+      "sha256": "ba5baf08515a36e8e5b89e3a81a7fca928ffbfd8c1e373c6568a9190a8b88e3a",
+      "bytes": 4125,
+      "words": 537
+    },
+    {
+      "article_id": "RA-010",
+      "title": "Behavioral drift across model, memory, and environment",
+      "artifact_path": "RA-010.md",
+      "version": "0.1",
+      "author": "Mark Yarian",
+      "organization": "Yarian Works, LLC / SynapticSteel",
+      "publication_state": "AUTHOR_RELEASED_RESEARCH_ARTICLE",
+      "published_on": "2026-11-11",
+      "publication_timezone": "America/New_York",
+      "prepared_on_utc": "2026-11-12",
+      "review_stage": "INITIAL_CRITICAL_SYNTHESIS",
+      "peer_reviewed": false,
+      "article_type": "Research synthesis and methods proposal",
+      "new_empirical_results": false,
+      "tests_status": "PROPOSED_NOT_RUN",
+      "research_areas": [
+        "human-machine-research",
+        "artificial-intelligence"
+      ],
+      "topics": [
+        "drift",
+        "context",
+        "lineage"
+      ],
+      "methods": [
+        "replay",
+        "ablation"
+      ],
+      "primary_reference_ids": [
+        "CONSCIOUSNESS"
+      ],
+      "related_article_ids": [
+        "RA-006",
+        "RA-018",
+        "RA-021"
+      ],
+      "paper_relations": [
+        {
+          "paper_id": "SS-LAB-CC-001",
+          "relation": "TOPIC_OR_METHOD_RELEVANCE",
+          "rationale": "Separate inferred context from authorized task revisions."
+        },
+        {
+          "paper_id": "STP-010",
+          "relation": "TOPIC_OR_METHOD_RELEVANCE",
+          "rationale": "Attribute changed behavior to exact inputs and recorded state."
+        },
+        {
+          "paper_id": "Digital-Mitosis",
+          "relation": "TOPIC_OR_METHOD_RELEVANCE",
+          "rationale": "Define behavioral phenotype using measurable response distributions."
+        }
+      ],
+      "rights": "Copyright Mark Yarian; all rights reserved; public reading and citation permitted.",
+      "sha256": "f3204e7e22b8d7a4f148303932ad23e649bc686815dd97e491a7d7936cdd9e29",
+      "bytes": 4041,
+      "words": 507
+    },
+    {
+      "article_id": "RA-011",
+      "title": "Representation alignment, routing, and model composition",
+      "artifact_path": "RA-011.md",
+      "version": "0.1",
+      "author": "Mark Yarian",
+      "organization": "Yarian Works, LLC / SynapticSteel",
+      "publication_state": "AUTHOR_RELEASED_RESEARCH_ARTICLE",
+      "published_on": "2026-11-11",
+      "publication_timezone": "America/New_York",
+      "prepared_on_utc": "2026-11-12",
+      "review_stage": "INITIAL_CRITICAL_SYNTHESIS",
+      "peer_reviewed": false,
+      "article_type": "Research synthesis and methods proposal",
+      "new_empirical_results": false,
+      "tests_status": "PROPOSED_NOT_RUN",
+      "research_areas": [
+        "artificial-intelligence",
+        "computational-systems"
+      ],
+      "topics": [
+        "representation",
+        "inference",
+        "lineage"
+      ],
+      "methods": [
+        "ablation",
+        "held-out-evaluation"
+      ],
+      "primary_reference_ids": [
+        "TIES",
+        "LLVM"
+      ],
+      "related_article_ids": [
+        "RA-004",
+        "RA-012",
+        "RA-016",
+        "RA-027"
+      ],
+      "paper_relations": [
+        {
+          "paper_id": "STP-010",
+          "relation": "TOPIC_OR_METHOD_RELEVANCE",
+          "rationale": "Record the transform and input revision actually used."
+        },
+        {
+          "paper_id": "Digital-Mitosis",
+          "relation": "TOPIC_OR_METHOD_RELEVANCE",
+          "rationale": "Distinguish a transformed representation from an independently executing descendant."
+        }
+      ],
+      "rights": "Copyright Mark Yarian; all rights reserved; public reading and citation permitted.",
+      "sha256": "635b00081365a45b2b5a4788286e95d136fda7d47cffa672665d4e550db1715d",
+      "bytes": 4026,
+      "words": 503
+    },
+    {
+      "article_id": "RA-012",
+      "title": "Recurrent state and a proposed estimation layer",
+      "artifact_path": "RA-012.md",
+      "version": "0.1",
+      "author": "Mark Yarian",
+      "organization": "Yarian Works, LLC / SynapticSteel",
+      "publication_state": "AUTHOR_RELEASED_RESEARCH_ARTICLE",
+      "published_on": "2026-11-11",
+      "publication_timezone": "America/New_York",
+      "prepared_on_utc": "2026-11-12",
+      "review_stage": "INITIAL_CRITICAL_SYNTHESIS",
+      "peer_reviewed": false,
+      "article_type": "Research synthesis and methods proposal",
+      "new_empirical_results": false,
+      "tests_status": "PROPOSED_NOT_RUN",
+      "research_areas": [
+        "artificial-intelligence",
+        "experimental-methods"
+      ],
+      "topics": [
+        "recurrent-state",
+        "state-estimation",
+        "timing"
+      ],
+      "methods": [
+        "ablation",
+        "calibration"
+      ],
+      "primary_reference_ids": [
+        "RWKV",
+        "KALMAN"
+      ],
+      "related_article_ids": [
+        "RA-006",
+        "RA-011",
+        "RA-015"
+      ],
+      "paper_relations": [
+        {
+          "paper_id": "STP-002",
+          "relation": "TOPIC_OR_METHOD_RELEVANCE",
+          "rationale": "Evaluate retained diagnostic distinctions after state adaptation."
+        },
+        {
+          "paper_id": "STP-003",
+          "relation": "TOPIC_OR_METHOD_RELEVANCE",
+          "rationale": "Specify the timing and support of estimator observations."
+        },
+        {
+          "paper_id": "Digital-Mitosis",
+          "relation": "TOPIC_OR_METHOD_RELEVANCE",
+          "rationale": "Test state continuity without treating estimation as reproduction."
+        }
+      ],
+      "rights": "Copyright Mark Yarian; all rights reserved; public reading and citation permitted.",
+      "sha256": "0c056e8897b4f24663e518d86406a534c671a0e953af83769bcc846b238b8231",
+      "bytes": 4048,
+      "words": 516
+    },
+    {
+      "article_id": "RA-013",
+      "title": "Plasticity, maintenance, and retained capability",
+      "artifact_path": "RA-013.md",
+      "version": "0.1",
+      "author": "Mark Yarian",
+      "organization": "Yarian Works, LLC / SynapticSteel",
+      "publication_state": "AUTHOR_RELEASED_RESEARCH_ARTICLE",
+      "published_on": "2026-11-11",
+      "publication_timezone": "America/New_York",
+      "prepared_on_utc": "2026-11-12",
+      "review_stage": "INITIAL_CRITICAL_SYNTHESIS",
+      "peer_reviewed": false,
+      "article_type": "Research synthesis and methods proposal",
+      "new_empirical_results": false,
+      "tests_status": "PROPOSED_NOT_RUN",
+      "research_areas": [
+        "artificial-intelligence",
+        "experimental-methods"
+      ],
+      "topics": [
+        "plasticity",
+        "cost",
+        "evaluation"
+      ],
+      "methods": [
+        "ablation",
+        "held-out-evaluation"
+      ],
+      "primary_reference_ids": [
+        "RIGL",
+        "QUANTIZATION"
+      ],
+      "related_article_ids": [
+        "RA-008",
+        "RA-014",
+        "RA-016"
+      ],
+      "paper_relations": [
+        {
+          "paper_id": "STP-002",
+          "relation": "TOPIC_OR_METHOD_RELEVANCE",
+          "rationale": "Track health evidence independently from a model that adapts to a baseline."
+        },
+        {
+          "paper_id": "STP-006",
+          "relation": "TOPIC_OR_METHOD_RELEVANCE",
+          "rationale": "Include maintenance and instrumentation in the resource boundary."
+        },
+        {
+          "paper_id": "Digital-Mitosis",
+          "relation": "TOPIC_OR_METHOD_RELEVANCE",
+          "rationale": "Separate structural variation, memory change, and inherited behavior."
+        }
+      ],
+      "rights": "Copyright Mark Yarian; all rights reserved; public reading and citation permitted.",
+      "sha256": "1aaaae0d28ffc4e03ed55a7f592737604da8dd68875d596e520afaed4bda6b52",
+      "bytes": 4074,
+      "words": 505
+    },
+    {
+      "article_id": "RA-014",
+      "title": "Biological inspiration as a computational comparison",
+      "artifact_path": "RA-014.md",
+      "version": "0.1",
+      "author": "Mark Yarian",
+      "organization": "Yarian Works, LLC / SynapticSteel",
+      "publication_state": "AUTHOR_RELEASED_RESEARCH_ARTICLE",
+      "published_on": "2026-11-11",
+      "publication_timezone": "America/New_York",
+      "prepared_on_utc": "2026-11-12",
+      "review_stage": "INITIAL_CRITICAL_SYNTHESIS",
+      "peer_reviewed": false,
+      "article_type": "Research synthesis and methods proposal",
+      "new_empirical_results": false,
+      "tests_status": "PROPOSED_NOT_RUN",
+      "research_areas": [
+        "artificial-intelligence",
+        "experimental-methods"
+      ],
+      "topics": [
+        "neuronal-computation",
+        "plasticity",
+        "feedback"
+      ],
+      "methods": [
+        "ablation",
+        "controlled-comparison"
+      ],
+      "primary_reference_ids": [
+        "DENDRITES",
+        "DISHBRAIN"
+      ],
+      "related_article_ids": [
+        "RA-013",
+        "RA-015",
+        "RA-021"
+      ],
+      "paper_relations": [
+        {
+          "paper_id": "Digital-Mitosis",
+          "relation": "TOPIC_OR_METHOD_RELEVANCE",
+          "rationale": "Separate implementable inherited properties from organism metaphors."
+        },
+        {
+          "paper_id": "STP-006",
+          "relation": "TOPIC_OR_METHOD_RELEVANCE",
+          "rationale": "Match observation and resource boundaries in alternative designs."
+        }
+      ],
+      "rights": "Copyright Mark Yarian; all rights reserved; public reading and citation permitted.",
+      "sha256": "a03602e45ed7e0b02b94d75aa117232e72dabbf26988b53a2bd50d2709fdb82e",
+      "bytes": 3994,
+      "words": 502
+    },
+    {
+      "article_id": "RA-015",
+      "title": "Multirate computation and temporal evidence",
+      "artifact_path": "RA-015.md",
+      "version": "0.1",
+      "author": "Mark Yarian",
+      "organization": "Yarian Works, LLC / SynapticSteel",
+      "publication_state": "AUTHOR_RELEASED_RESEARCH_ARTICLE",
+      "published_on": "2026-11-11",
+      "publication_timezone": "America/New_York",
+      "prepared_on_utc": "2026-11-12",
+      "review_stage": "INITIAL_CRITICAL_SYNTHESIS",
+      "peer_reviewed": false,
+      "article_type": "Research synthesis and methods proposal",
+      "new_empirical_results": false,
+      "tests_status": "PROPOSED_NOT_RUN",
+      "research_areas": [
+        "computational-systems",
+        "artificial-intelligence"
+      ],
+      "topics": [
+        "timing",
+        "coordination",
+        "cost"
+      ],
+      "methods": [
+        "replay",
+        "controlled-comparison"
+      ],
+      "primary_reference_ids": [
+        "LOIHI"
+      ],
+      "related_article_ids": [
+        "RA-003",
+        "RA-012",
+        "RA-014",
+        "RA-016",
+        "RA-020",
+        "RA-023"
+      ],
+      "paper_relations": [
+        {
+          "paper_id": "STP-003",
+          "relation": "TOPIC_OR_METHOD_RELEVANCE",
+          "rationale": "Preserve acquisition support, clock domain, and uncertainty across schedules."
+        },
+        {
+          "paper_id": "STP-006",
+          "relation": "TOPIC_OR_METHOD_RELEVANCE",
+          "rationale": "Measure complete encoding, routing, and observation cost."
+        },
+        {
+          "paper_id": "STP-010",
+          "relation": "TOPIC_OR_METHOD_RELEVANCE",
+          "rationale": "Bind each controller action to the state revision it consumed."
+        }
+      ],
+      "rights": "Copyright Mark Yarian; all rights reserved; public reading and citation permitted.",
+      "sha256": "faf54a753d5b8afafd05f8a94f29c5b70231890bda6fa2b7e26d3cae7a7e9702",
+      "bytes": 4024,
+      "words": 532
+    },
+    {
+      "article_id": "RA-016",
+      "title": "Useful throughput, memory, and communication costs",
+      "artifact_path": "RA-016.md",
+      "version": "0.1",
+      "author": "Mark Yarian",
+      "organization": "Yarian Works, LLC / SynapticSteel",
+      "publication_state": "AUTHOR_RELEASED_RESEARCH_ARTICLE",
+      "published_on": "2026-11-11",
+      "publication_timezone": "America/New_York",
+      "prepared_on_utc": "2026-11-12",
+      "review_stage": "INITIAL_CRITICAL_SYNTHESIS",
+      "peer_reviewed": false,
+      "article_type": "Research synthesis and methods proposal",
+      "new_empirical_results": false,
+      "tests_status": "PROPOSED_NOT_RUN",
+      "research_areas": [
+        "computational-systems",
+        "experimental-methods"
+      ],
+      "topics": [
+        "cost",
+        "inference",
+        "reproducibility"
+      ],
+      "methods": [
+        "controlled-comparison",
+        "calibration"
+      ],
+      "primary_reference_ids": [
+        "LOIHI",
+        "QUANTIZATION",
+        "RWKV"
+      ],
+      "related_article_ids": [
+        "RA-001",
+        "RA-011",
+        "RA-013",
+        "RA-015"
+      ],
+      "paper_relations": [
+        {
+          "paper_id": "STP-006",
+          "relation": "TOPIC_OR_METHOD_RELEVANCE",
+          "rationale": "Include the observer, host, conversion, and waiting cost."
+        },
+        {
+          "paper_id": "Digital-Mitosis",
+          "relation": "TOPIC_OR_METHOD_RELEVANCE",
+          "rationale": "Measure a descendant population within an explicit resource budget."
+        }
+      ],
+      "rights": "Copyright Mark Yarian; all rights reserved; public reading and citation permitted.",
+      "sha256": "b933afe85abcc5a7eee5cd8a0585be0b559ed6b887849a92ed066b3b78357fa3",
+      "bytes": 4031,
+      "words": 510
+    },
+    {
+      "article_id": "RA-017",
+      "title": "Reasoning evaluations and failure taxonomy",
+      "artifact_path": "RA-017.md",
+      "version": "0.1",
+      "author": "Mark Yarian",
+      "organization": "Yarian Works, LLC / SynapticSteel",
+      "publication_state": "AUTHOR_RELEASED_RESEARCH_ARTICLE",
+      "published_on": "2026-11-11",
+      "publication_timezone": "America/New_York",
+      "prepared_on_utc": "2026-11-12",
+      "review_stage": "INITIAL_CRITICAL_SYNTHESIS",
+      "peer_reviewed": false,
+      "article_type": "Research synthesis and methods proposal",
+      "new_empirical_results": false,
+      "tests_status": "PROPOSED_NOT_RUN",
+      "research_areas": [
+        "artificial-intelligence",
+        "experimental-methods"
+      ],
+      "topics": [
+        "evaluation",
+        "failure-memory",
+        "selection"
+      ],
+      "methods": [
+        "held-out-evaluation",
+        "sampling"
+      ],
+      "primary_reference_ids": [
+        "REASONING"
+      ],
+      "related_article_ids": [
+        "RA-004",
+        "RA-009",
+        "RA-018",
+        "RA-020",
+        "RA-022",
+        "RA-027",
+        "RA-029"
+      ],
+      "paper_relations": [
+        {
+          "paper_id": "STP-001",
+          "relation": "TOPIC_OR_METHOD_RELEVANCE",
+          "rationale": "Distinguish a failure from the outcome of an attempted repair."
+        },
+        {
+          "paper_id": "STP-005",
+          "relation": "TOPIC_OR_METHOD_RELEVANCE",
+          "rationale": "Separate fluent agreement from independent support."
+        },
+        {
+          "paper_id": "STP-008",
+          "relation": "TOPIC_OR_METHOD_RELEVANCE",
+          "rationale": "State the evaluated population and all exclusions."
+        }
+      ],
+      "rights": "Copyright Mark Yarian; all rights reserved; public reading and citation permitted.",
+      "sha256": "3abd612cc9e1ddcdd689f7e4254a685313e776c3aad1e3a8b44fa30fa2e9c8de",
+      "bytes": 4094,
+      "words": 531
+    },
+    {
+      "article_id": "RA-018",
+      "title": "Context reconstruction and verified intent",
+      "artifact_path": "RA-018.md",
+      "version": "0.1",
+      "author": "Mark Yarian",
+      "organization": "Yarian Works, LLC / SynapticSteel",
+      "publication_state": "AUTHOR_RELEASED_RESEARCH_ARTICLE",
+      "published_on": "2026-11-11",
+      "publication_timezone": "America/New_York",
+      "prepared_on_utc": "2026-11-12",
+      "review_stage": "INITIAL_CRITICAL_SYNTHESIS",
+      "peer_reviewed": false,
+      "article_type": "Research synthesis and methods proposal",
+      "new_empirical_results": false,
+      "tests_status": "PROPOSED_NOT_RUN",
+      "research_areas": [
+        "human-machine-research",
+        "experimental-methods"
+      ],
+      "topics": [
+        "context",
+        "evaluation",
+        "drift"
+      ],
+      "methods": [
+        "controlled-comparison",
+        "held-out-evaluation"
+      ],
+      "primary_reference_ids": [
+        "OPENAI"
+      ],
+      "related_article_ids": [
+        "RA-009",
+        "RA-010",
+        "RA-017",
+        "RA-019",
+        "RA-027"
+      ],
+      "paper_relations": [
+        {
+          "paper_id": "SS-LAB-CC-001",
+          "relation": "TOPIC_OR_METHOD_RELEVANCE",
+          "rationale": "Test whether unsupported inferences accumulate into accepted context."
+        },
+        {
+          "paper_id": "STP-010",
+          "relation": "TOPIC_OR_METHOD_RELEVANCE",
+          "rationale": "Record the exact context and execution revision behind an answer."
+        }
+      ],
+      "rights": "Copyright Mark Yarian; all rights reserved; public reading and citation permitted.",
+      "sha256": "fc4b87c4e9169389774bb32a99adf30def84e64a65c112613a033f4c24993f5c",
+      "bytes": 3904,
+      "words": 496
+    },
+    {
+      "article_id": "RA-019",
+      "title": "Attributable communication and bounded agency",
+      "artifact_path": "RA-019.md",
+      "version": "0.1",
+      "author": "Mark Yarian",
+      "organization": "Yarian Works, LLC / SynapticSteel",
+      "publication_state": "AUTHOR_RELEASED_RESEARCH_ARTICLE",
+      "published_on": "2026-11-11",
+      "publication_timezone": "America/New_York",
+      "prepared_on_utc": "2026-11-12",
+      "review_stage": "INITIAL_CRITICAL_SYNTHESIS",
+      "peer_reviewed": false,
+      "article_type": "Research synthesis and methods proposal",
+      "new_empirical_results": false,
+      "tests_status": "PROPOSED_NOT_RUN",
+      "research_areas": [
+        "computational-systems",
+        "human-machine-research"
+      ],
+      "topics": [
+        "agency",
+        "coordination",
+        "lineage"
+      ],
+      "methods": [
+        "ablation",
+        "fault-injection"
+      ],
+      "primary_reference_ids": [
+        "ZEROMQ",
+        "RAFT"
+      ],
+      "related_article_ids": [
+        "RA-001",
+        "RA-002",
+        "RA-007",
+        "RA-018"
+      ],
+      "paper_relations": [
+        {
+          "paper_id": "STP-005",
+          "relation": "TOPIC_OR_METHOD_RELEVANCE",
+          "rationale": "Test whether message agreement adds independent evidence."
+        },
+        {
+          "paper_id": "STP-007",
+          "relation": "TOPIC_OR_METHOD_RELEVANCE",
+          "rationale": "Handle retries and delayed actions across recovery boundaries."
+        },
+        {
+          "paper_id": "STP-010",
+          "relation": "TOPIC_OR_METHOD_RELEVANCE",
+          "rationale": "Bind each action to the message, model, and authority used."
+        },
+        {
+          "paper_id": "Digital-Mitosis",
+          "relation": "TOPIC_OR_METHOD_RELEVANCE",
+          "rationale": "Keep persistent identity distinct from a granted capability."
+        }
+      ],
+      "rights": "Copyright Mark Yarian; all rights reserved; public reading and citation permitted.",
+      "sha256": "e5009cc2e6a2c5edc27c72c88877411de31bee9d68a215b5c273e1cc3debc645",
+      "bytes": 4241,
+      "words": 535
+    },
+    {
+      "article_id": "RA-020",
+      "title": "Reconstruction, identifiability, and physical source attribution",
+      "artifact_path": "RA-020.md",
+      "version": "0.1",
+      "author": "Mark Yarian",
+      "organization": "Yarian Works, LLC / SynapticSteel",
+      "publication_state": "AUTHOR_RELEASED_RESEARCH_ARTICLE",
+      "published_on": "2026-11-11",
+      "publication_timezone": "America/New_York",
+      "prepared_on_utc": "2026-11-12",
+      "review_stage": "INITIAL_CRITICAL_SYNTHESIS",
+      "peer_reviewed": false,
+      "article_type": "Analytical explainer and proposed evaluation",
+      "new_empirical_results": false,
+      "tests_status": "PROPOSED_NOT_RUN",
+      "research_areas": [
+        "experimental-methods",
+        "computational-systems"
+      ],
+      "topics": [
+        "attribution",
+        "sensing",
+        "selection"
+      ],
+      "methods": [
+        "identifiability",
+        "controlled-comparison"
+      ],
+      "primary_reference_ids": [],
+      "related_article_ids": [
+        "RA-003",
+        "RA-015",
+        "RA-017",
+        "RA-023",
+        "RA-024"
+      ],
+      "paper_relations": [
+        {
+          "paper_id": "STP-009",
+          "relation": "TOPIC_OR_METHOD_RELEVANCE",
+          "rationale": "Explain why fitting a mixture can leave its physical sources unidentified."
+        },
+        {
+          "paper_id": "STP-003",
+          "relation": "TOPIC_OR_METHOD_RELEVANCE",
+          "rationale": "Track timing quality before comparing source references."
+        },
+        {
+          "paper_id": "STP-005",
+          "relation": "TOPIC_OR_METHOD_RELEVANCE",
+          "rationale": "Require claim-specific support and independent witnesses."
+        },
+        {
+          "paper_id": "STP-006",
+          "relation": "TOPIC_OR_METHOD_RELEVANCE",
+          "rationale": "Control the effect of the sensor and observer on the system."
+        }
+      ],
+      "rights": "Copyright Mark Yarian; all rights reserved; public reading and citation permitted.",
+      "sha256": "6cc401afc55b43feec83fb939b011ec915caa66e2afb7cba97e3bd7799fe4dfc",
+      "bytes": 4344,
+      "words": 566
+    },
+    {
+      "article_id": "RA-021",
+      "title": "Operational indicators and consciousness claims",
+      "artifact_path": "RA-021.md",
+      "version": "0.1",
+      "author": "Mark Yarian",
+      "organization": "Yarian Works, LLC / SynapticSteel",
+      "publication_state": "AUTHOR_RELEASED_RESEARCH_ARTICLE",
+      "published_on": "2026-11-11",
+      "publication_timezone": "America/New_York",
+      "prepared_on_utc": "2026-11-12",
+      "review_stage": "INITIAL_CRITICAL_SYNTHESIS",
+      "peer_reviewed": false,
+      "article_type": "Research synthesis and methods proposal",
+      "new_empirical_results": false,
+      "tests_status": "PROPOSED_NOT_RUN",
+      "research_areas": [
+        "artificial-intelligence",
+        "human-machine-research"
+      ],
+      "topics": [
+        "consciousness",
+        "evaluation",
+        "neuronal-computation"
+      ],
+      "methods": [
+        "controlled-comparison",
+        "ablation"
+      ],
+      "primary_reference_ids": [
+        "CONSCIOUSNESS",
+        "DISHBRAIN"
+      ],
+      "related_article_ids": [
+        "RA-010",
+        "RA-014",
+        "RA-022"
+      ],
+      "paper_relations": [
+        {
+          "paper_id": "Digital-Mitosis",
+          "relation": "TOPIC_OR_METHOD_RELEVANCE",
+          "rationale": "Keep inheritance and behavioral phenotype claims separate from consciousness."
+        },
+        {
+          "paper_id": "SS-LAB-CC-001",
+          "relation": "TOPIC_OR_METHOD_RELEVANCE",
+          "rationale": "Control prompting and accepted context when interpreting self-description."
+        }
+      ],
+      "rights": "Copyright Mark Yarian; all rights reserved; public reading and citation permitted.",
+      "sha256": "b07e222d21dc5a704e85aa6a41d9000c82aac899d8116ee37773afe4cdec0192",
+      "bytes": 3988,
+      "words": 478
+    },
+    {
+      "article_id": "RA-022",
+      "title": "Curiosity as bounded exploration and transfer",
+      "artifact_path": "RA-022.md",
+      "version": "0.1",
+      "author": "Mark Yarian",
+      "organization": "Yarian Works, LLC / SynapticSteel",
+      "publication_state": "AUTHOR_RELEASED_RESEARCH_ARTICLE",
+      "published_on": "2026-11-11",
+      "publication_timezone": "America/New_York",
+      "prepared_on_utc": "2026-11-12",
+      "review_stage": "INITIAL_CRITICAL_SYNTHESIS",
+      "peer_reviewed": false,
+      "article_type": "Research synthesis and methods proposal",
+      "new_empirical_results": false,
+      "tests_status": "PROPOSED_NOT_RUN",
+      "research_areas": [
+        "artificial-intelligence",
+        "experimental-methods"
+      ],
+      "topics": [
+        "curiosity",
+        "feedback",
+        "evaluation"
+      ],
+      "methods": [
+        "held-out-evaluation",
+        "ablation"
+      ],
+      "primary_reference_ids": [
+        "AVIDA",
+        "RIGL"
+      ],
+      "related_article_ids": [
+        "RA-008",
+        "RA-017",
+        "RA-021"
+      ],
+      "paper_relations": [
+        {
+          "paper_id": "SS-LAB-CC-001",
+          "relation": "TOPIC_OR_METHOD_RELEVANCE",
+          "rationale": "Evaluate exploration while preserving accepted task constraints."
+        },
+        {
+          "paper_id": "Digital-Mitosis",
+          "relation": "TOPIC_OR_METHOD_RELEVANCE",
+          "rationale": "Separate adaptive task behavior from organism metaphors."
+        },
+        {
+          "paper_id": "STP-008",
+          "relation": "TOPIC_OR_METHOD_RELEVANCE",
+          "rationale": "Record ordinary, unsuccessful, and high-novelty attempts."
+        }
+      ],
+      "rights": "Copyright Mark Yarian; all rights reserved; public reading and citation permitted.",
+      "sha256": "ff4d8d29745b8221d2a551e65b1df28b8cddc552317b56485e2c6f4bfaec1803",
+      "bytes": 4017,
+      "words": 525
+    },
+    {
+      "article_id": "RA-023",
+      "title": "Measured physics and proposed device feasibility",
+      "artifact_path": "RA-023.md",
+      "version": "0.1",
+      "author": "Mark Yarian",
+      "organization": "Yarian Works, LLC / SynapticSteel",
+      "publication_state": "AUTHOR_RELEASED_RESEARCH_ARTICLE",
+      "published_on": "2026-11-11",
+      "publication_timezone": "America/New_York",
+      "prepared_on_utc": "2026-11-12",
+      "review_stage": "INITIAL_CRITICAL_SYNTHESIS",
+      "peer_reviewed": false,
+      "article_type": "Critical scientific background review",
+      "new_empirical_results": false,
+      "tests_status": "PROPOSED_NOT_RUN",
+      "research_areas": [
+        "experimental-methods"
+      ],
+      "topics": [
+        "physics",
+        "feasibility",
+        "uncertainty"
+      ],
+      "methods": [
+        "feasibility-analysis",
+        "calibration"
+      ],
+      "primary_reference_ids": [
+        "GRAVITY",
+        "CASIMIR",
+        "TELEPORTATION"
+      ],
+      "related_article_ids": [
+        "RA-015",
+        "RA-020",
+        "RA-024",
+        "RA-025",
+        "RA-028",
+        "RA-030"
+      ],
+      "paper_relations": [],
+      "rights": "Copyright Mark Yarian; all rights reserved; public reading and citation permitted.",
+      "sha256": "840e580d7f1b1564eae4ab0e7c3df2a573b7995a3a4a1c2f5491b16c9086b467",
+      "bytes": 4185,
+      "words": 521
+    },
+    {
+      "article_id": "RA-024",
+      "title": "Formal simulations and physical explanations",
+      "artifact_path": "RA-024.md",
+      "version": "0.1",
+      "author": "Mark Yarian",
+      "organization": "Yarian Works, LLC / SynapticSteel",
+      "publication_state": "AUTHOR_RELEASED_RESEARCH_ARTICLE",
+      "published_on": "2026-11-11",
+      "publication_timezone": "America/New_York",
+      "prepared_on_utc": "2026-11-12",
+      "review_stage": "INITIAL_CRITICAL_SYNTHESIS",
+      "peer_reviewed": false,
+      "article_type": "Formal-model methods review",
+      "new_empirical_results": false,
+      "tests_status": "PROPOSED_NOT_RUN",
+      "research_areas": [
+        "computational-systems",
+        "experimental-methods"
+      ],
+      "topics": [
+        "formal-models",
+        "representation",
+        "feasibility"
+      ],
+      "methods": [
+        "model-specification",
+        "identifiability"
+      ],
+      "primary_reference_ids": [
+        "ADINKRAS",
+        "LLVM"
+      ],
+      "related_article_ids": [
+        "RA-004",
+        "RA-020",
+        "RA-023",
+        "RA-025",
+        "RA-026",
+        "RA-028"
+      ],
+      "paper_relations": [],
+      "rights": "Copyright Mark Yarian; all rights reserved; public reading and citation permitted.",
+      "sha256": "2efe94101cf1a410ac024197a5088134f3ab98f789bf8c6f983aa6ce076aefba",
+      "bytes": 3935,
+      "words": 502
+    },
+    {
+      "article_id": "RA-025",
+      "title": "Thorium claims and fuel-cycle comparison boundaries",
+      "artifact_path": "RA-025.md",
+      "version": "0.1",
+      "author": "Mark Yarian",
+      "organization": "Yarian Works, LLC / SynapticSteel",
+      "publication_state": "AUTHOR_RELEASED_RESEARCH_ARTICLE",
+      "published_on": "2026-11-11",
+      "publication_timezone": "America/New_York",
+      "prepared_on_utc": "2026-11-12",
+      "review_stage": "INITIAL_CRITICAL_SYNTHESIS",
+      "peer_reviewed": false,
+      "article_type": "Scientific background and literature-comparison review",
+      "new_empirical_results": false,
+      "tests_status": "PROPOSED_NOT_RUN",
+      "research_areas": [
+        "experimental-methods"
+      ],
+      "topics": [
+        "energy",
+        "feasibility",
+        "uncertainty"
+      ],
+      "methods": [
+        "feasibility-analysis",
+        "controlled-comparison"
+      ],
+      "primary_reference_ids": [
+        "THORIUM"
+      ],
+      "related_article_ids": [
+        "RA-023",
+        "RA-024",
+        "RA-030"
+      ],
+      "paper_relations": [],
+      "rights": "Copyright Mark Yarian; all rights reserved; public reading and citation permitted.",
+      "sha256": "08d7f4100d21f3830a342eb1d8dfa9ea132ab2ff511724eeb7fa8690bd06e826",
+      "bytes": 3597,
+      "words": 474
+    },
+    {
+      "article_id": "RA-026",
+      "title": "Post-quantum primitives and implementation claims",
+      "artifact_path": "RA-026.md",
+      "version": "0.1",
+      "author": "Mark Yarian",
+      "organization": "Yarian Works, LLC / SynapticSteel",
+      "publication_state": "AUTHOR_RELEASED_RESEARCH_ARTICLE",
+      "published_on": "2026-11-11",
+      "publication_timezone": "America/New_York",
+      "prepared_on_utc": "2026-11-12",
+      "review_stage": "INITIAL_CRITICAL_SYNTHESIS",
+      "peer_reviewed": false,
+      "article_type": "Technical background and verification review",
+      "new_empirical_results": false,
+      "tests_status": "PROPOSED_NOT_RUN",
+      "research_areas": [
+        "computational-systems",
+        "experimental-methods"
+      ],
+      "topics": [
+        "cryptography",
+        "evaluation",
+        "reproducibility"
+      ],
+      "methods": [
+        "model-specification",
+        "provenance"
+      ],
+      "primary_reference_ids": [
+        "PQC",
+        "QRL"
+      ],
+      "related_article_ids": [
+        "RA-001",
+        "RA-004",
+        "RA-024"
+      ],
+      "paper_relations": [],
+      "rights": "Copyright Mark Yarian; all rights reserved; public reading and citation permitted.",
+      "sha256": "7abc4c7987ccfe47b030b29485c006cdbb8fe7c0ee4ab79e916f11fb26b87724",
+      "bytes": 3699,
+      "words": 464
+    },
+    {
+      "article_id": "RA-027",
+      "title": "Controllability in reference-conditioned generation",
+      "artifact_path": "RA-027.md",
+      "version": "0.1",
+      "author": "Mark Yarian",
+      "organization": "Yarian Works, LLC / SynapticSteel",
+      "publication_state": "AUTHOR_RELEASED_RESEARCH_ARTICLE",
+      "published_on": "2026-11-11",
+      "publication_timezone": "America/New_York",
+      "prepared_on_utc": "2026-11-12",
+      "review_stage": "INITIAL_CRITICAL_SYNTHESIS",
+      "peer_reviewed": false,
+      "article_type": "Research review and proposed evaluation",
+      "new_empirical_results": false,
+      "tests_status": "PROPOSED_NOT_RUN",
+      "research_areas": [
+        "artificial-intelligence",
+        "human-machine-research"
+      ],
+      "topics": [
+        "generation",
+        "context",
+        "evaluation"
+      ],
+      "methods": [
+        "held-out-evaluation",
+        "controlled-comparison"
+      ],
+      "primary_reference_ids": [
+        "UNO"
+      ],
+      "related_article_ids": [
+        "RA-011",
+        "RA-017",
+        "RA-018"
+      ],
+      "paper_relations": [
+        {
+          "paper_id": "SS-LAB-CC-001",
+          "relation": "TOPIC_OR_METHOD_RELEVANCE",
+          "rationale": "Explore intent fidelity in a different output modality; this extension remains proposed."
+        },
+        {
+          "paper_id": "STP-010",
+          "relation": "TOPIC_OR_METHOD_RELEVANCE",
+          "rationale": "Identify the exact reference images, prompt, model, and transforms used to generate an output."
+        }
+      ],
+      "rights": "Copyright Mark Yarian; all rights reserved; public reading and citation permitted.",
+      "sha256": "2c55abe373111d7ca185a10d1e0ec30066130a534b0d4c7760513485f1e1a871",
+      "bytes": 3923,
+      "words": 487
+    },
+    {
+      "article_id": "RA-028",
+      "title": "Geomagnetic observations and reversal forecasts",
+      "artifact_path": "RA-028.md",
+      "version": "0.1",
+      "author": "Mark Yarian",
+      "organization": "Yarian Works, LLC / SynapticSteel",
+      "publication_state": "AUTHOR_RELEASED_RESEARCH_ARTICLE",
+      "published_on": "2026-11-11",
+      "publication_timezone": "America/New_York",
+      "prepared_on_utc": "2026-11-12",
+      "review_stage": "INITIAL_CRITICAL_SYNTHESIS",
+      "peer_reviewed": false,
+      "article_type": "Scientific background and uncertainty review",
+      "new_empirical_results": false,
+      "tests_status": "PROPOSED_NOT_RUN",
+      "research_areas": [
+        "experimental-methods"
+      ],
+      "topics": [
+        "geophysics",
+        "uncertainty",
+        "selection"
+      ],
+      "methods": [
+        "calibration",
+        "model-specification"
+      ],
+      "primary_reference_ids": [
+        "GEOMAGNETISM"
+      ],
+      "related_article_ids": [
+        "RA-023",
+        "RA-024",
+        "RA-029"
+      ],
+      "paper_relations": [],
+      "rights": "Copyright Mark Yarian; all rights reserved; public reading and citation permitted.",
+      "sha256": "4d97b0ead681169043278aec743a9c2523cfdae0a746d56613dbe5e56fc30e35",
+      "bytes": 3305,
+      "words": 433
+    },
+    {
+      "article_id": "RA-029",
+      "title": "Selected event windows and missing opportunities",
+      "artifact_path": "RA-029.md",
+      "version": "0.1",
+      "author": "Mark Yarian",
+      "organization": "Yarian Works, LLC / SynapticSteel",
+      "publication_state": "AUTHOR_RELEASED_RESEARCH_ARTICLE",
+      "published_on": "2026-11-11",
+      "publication_timezone": "America/New_York",
+      "prepared_on_utc": "2026-11-12",
+      "review_stage": "INITIAL_CRITICAL_SYNTHESIS",
+      "peer_reviewed": false,
+      "article_type": "Selection-methods review",
+      "new_empirical_results": false,
+      "tests_status": "PROPOSED_NOT_RUN",
+      "research_areas": [
+        "experimental-methods",
+        "artificial-intelligence"
+      ],
+      "topics": [
+        "selection",
+        "uncertainty",
+        "evaluation"
+      ],
+      "methods": [
+        "sampling",
+        "held-out-evaluation"
+      ],
+      "primary_reference_ids": [],
+      "related_article_ids": [
+        "RA-009",
+        "RA-017",
+        "RA-028"
+      ],
+      "paper_relations": [
+        {
+          "paper_id": "STP-008",
+          "relation": "TOPIC_OR_METHOD_RELEVANCE",
+          "rationale": "Apply the selection-aware archive argument to event-window and anomaly claims."
+        },
+        {
+          "paper_id": "STP-001",
+          "relation": "TOPIC_OR_METHOD_RELEVANCE",
+          "rationale": "Count comparable opportunities and unsuccessful repairs in recurrence evaluation."
+        }
+      ],
+      "rights": "Copyright Mark Yarian; all rights reserved; public reading and citation permitted.",
+      "sha256": "ba7fc6a6e4e3f595fdd7d205521f1d95c8c2dfbf383823560eab7c15621e7eb4",
+      "bytes": 3841,
+      "words": 497
+    },
+    {
+      "article_id": "RA-030",
+      "title": "Radiation exposure variables and tissue-response evidence",
+      "artifact_path": "RA-030.md",
+      "version": "0.1",
+      "author": "Mark Yarian",
+      "organization": "Yarian Works, LLC / SynapticSteel",
+      "publication_state": "AUTHOR_RELEASED_RESEARCH_ARTICLE",
+      "published_on": "2026-11-11",
+      "publication_timezone": "America/New_York",
+      "prepared_on_utc": "2026-11-12",
+      "review_stage": "INITIAL_CRITICAL_SYNTHESIS",
+      "peer_reviewed": false,
+      "article_type": "Biophysical background and evidence-review method",
+      "new_empirical_results": false,
+      "tests_status": "PROPOSED_NOT_RUN",
+      "research_areas": [
+        "experimental-methods"
+      ],
+      "topics": [
+        "biophysics",
+        "uncertainty",
+        "evidence-review"
+      ],
+      "methods": [
+        "model-specification",
+        "provenance"
+      ],
+      "primary_reference_ids": [
+        "RADIATION"
+      ],
+      "related_article_ids": [
+        "RA-003",
+        "RA-023",
+        "RA-025"
+      ],
+      "paper_relations": [],
+      "rights": "Copyright Mark Yarian; all rights reserved; public reading and citation permitted.",
+      "sha256": "c9bafd37e82436a983f6dbab633faa7985c4cffd3b0a190ca7df83ace734af4b",
+      "bytes": 3647,
+      "words": 471
+    }
+  ],
+  "article_relations": [
+    {
+      "from": "RA-001",
+      "to": "RA-002",
+      "relation": "RELATED_QUESTION_OR_METHOD",
+      "directed": false
+    },
+    {
+      "from": "RA-001",
+      "to": "RA-016",
+      "relation": "RELATED_QUESTION_OR_METHOD",
+      "directed": false
+    },
+    {
+      "from": "RA-001",
+      "to": "RA-019",
+      "relation": "RELATED_QUESTION_OR_METHOD",
+      "directed": false
+    },
+    {
+      "from": "RA-001",
+      "to": "RA-026",
+      "relation": "RELATED_QUESTION_OR_METHOD",
+      "directed": false
+    },
+    {
+      "from": "RA-002",
+      "to": "RA-006",
+      "relation": "RELATED_QUESTION_OR_METHOD",
+      "directed": false
+    },
+    {
+      "from": "RA-002",
+      "to": "RA-007",
+      "relation": "RELATED_QUESTION_OR_METHOD",
+      "directed": false
+    },
+    {
+      "from": "RA-002",
+      "to": "RA-019",
+      "relation": "RELATED_QUESTION_OR_METHOD",
+      "directed": false
+    },
+    {
+      "from": "RA-003",
+      "to": "RA-009",
+      "relation": "RELATED_QUESTION_OR_METHOD",
+      "directed": false
+    },
+    {
+      "from": "RA-003",
+      "to": "RA-015",
+      "relation": "RELATED_QUESTION_OR_METHOD",
+      "directed": false
+    },
+    {
+      "from": "RA-003",
+      "to": "RA-020",
+      "relation": "RELATED_QUESTION_OR_METHOD",
+      "directed": false
+    },
+    {
+      "from": "RA-003",
+      "to": "RA-030",
+      "relation": "RELATED_QUESTION_OR_METHOD",
+      "directed": false
+    },
+    {
+      "from": "RA-004",
+      "to": "RA-005",
+      "relation": "RELATED_QUESTION_OR_METHOD",
+      "directed": false
+    },
+    {
+      "from": "RA-004",
+      "to": "RA-009",
+      "relation": "RELATED_QUESTION_OR_METHOD",
+      "directed": false
+    },
+    {
+      "from": "RA-004",
+      "to": "RA-011",
+      "relation": "RELATED_QUESTION_OR_METHOD",
+      "directed": false
+    },
+    {
+      "from": "RA-004",
+      "to": "RA-017",
+      "relation": "RELATED_QUESTION_OR_METHOD",
+      "directed": false
+    },
+    {
+      "from": "RA-004",
+      "to": "RA-024",
+      "relation": "RELATED_QUESTION_OR_METHOD",
+      "directed": false
+    },
+    {
+      "from": "RA-004",
+      "to": "RA-026",
+      "relation": "RELATED_QUESTION_OR_METHOD",
+      "directed": false
+    },
+    {
+      "from": "RA-005",
+      "to": "RA-006",
+      "relation": "RELATED_QUESTION_OR_METHOD",
+      "directed": false
+    },
+    {
+      "from": "RA-005",
+      "to": "RA-008",
+      "relation": "RELATED_QUESTION_OR_METHOD",
+      "directed": false
+    },
+    {
+      "from": "RA-006",
+      "to": "RA-010",
+      "relation": "RELATED_QUESTION_OR_METHOD",
+      "directed": false
+    },
+    {
+      "from": "RA-006",
+      "to": "RA-012",
+      "relation": "RELATED_QUESTION_OR_METHOD",
+      "directed": false
+    },
+    {
+      "from": "RA-007",
+      "to": "RA-008",
+      "relation": "RELATED_QUESTION_OR_METHOD",
+      "directed": false
+    },
+    {
+      "from": "RA-007",
+      "to": "RA-019",
+      "relation": "RELATED_QUESTION_OR_METHOD",
+      "directed": false
+    },
+    {
+      "from": "RA-008",
+      "to": "RA-009",
+      "relation": "RELATED_QUESTION_OR_METHOD",
+      "directed": false
+    },
+    {
+      "from": "RA-008",
+      "to": "RA-013",
+      "relation": "RELATED_QUESTION_OR_METHOD",
+      "directed": false
+    },
+    {
+      "from": "RA-008",
+      "to": "RA-022",
+      "relation": "RELATED_QUESTION_OR_METHOD",
+      "directed": false
+    },
+    {
+      "from": "RA-009",
+      "to": "RA-017",
+      "relation": "RELATED_QUESTION_OR_METHOD",
+      "directed": false
+    },
+    {
+      "from": "RA-009",
+      "to": "RA-018",
+      "relation": "RELATED_QUESTION_OR_METHOD",
+      "directed": false
+    },
+    {
+      "from": "RA-009",
+      "to": "RA-029",
+      "relation": "RELATED_QUESTION_OR_METHOD",
+      "directed": false
+    },
+    {
+      "from": "RA-010",
+      "to": "RA-018",
+      "relation": "RELATED_QUESTION_OR_METHOD",
+      "directed": false
+    },
+    {
+      "from": "RA-010",
+      "to": "RA-021",
+      "relation": "RELATED_QUESTION_OR_METHOD",
+      "directed": false
+    },
+    {
+      "from": "RA-011",
+      "to": "RA-012",
+      "relation": "RELATED_QUESTION_OR_METHOD",
+      "directed": false
+    },
+    {
+      "from": "RA-011",
+      "to": "RA-016",
+      "relation": "RELATED_QUESTION_OR_METHOD",
+      "directed": false
+    },
+    {
+      "from": "RA-011",
+      "to": "RA-027",
+      "relation": "RELATED_QUESTION_OR_METHOD",
+      "directed": false
+    },
+    {
+      "from": "RA-012",
+      "to": "RA-015",
+      "relation": "RELATED_QUESTION_OR_METHOD",
+      "directed": false
+    },
+    {
+      "from": "RA-013",
+      "to": "RA-014",
+      "relation": "RELATED_QUESTION_OR_METHOD",
+      "directed": false
+    },
+    {
+      "from": "RA-013",
+      "to": "RA-016",
+      "relation": "RELATED_QUESTION_OR_METHOD",
+      "directed": false
+    },
+    {
+      "from": "RA-014",
+      "to": "RA-015",
+      "relation": "RELATED_QUESTION_OR_METHOD",
+      "directed": false
+    },
+    {
+      "from": "RA-014",
+      "to": "RA-021",
+      "relation": "RELATED_QUESTION_OR_METHOD",
+      "directed": false
+    },
+    {
+      "from": "RA-015",
+      "to": "RA-016",
+      "relation": "RELATED_QUESTION_OR_METHOD",
+      "directed": false
+    },
+    {
+      "from": "RA-015",
+      "to": "RA-020",
+      "relation": "RELATED_QUESTION_OR_METHOD",
+      "directed": false
+    },
+    {
+      "from": "RA-015",
+      "to": "RA-023",
+      "relation": "RELATED_QUESTION_OR_METHOD",
+      "directed": false
+    },
+    {
+      "from": "RA-017",
+      "to": "RA-018",
+      "relation": "RELATED_QUESTION_OR_METHOD",
+      "directed": false
+    },
+    {
+      "from": "RA-017",
+      "to": "RA-020",
+      "relation": "RELATED_QUESTION_OR_METHOD",
+      "directed": false
+    },
+    {
+      "from": "RA-017",
+      "to": "RA-022",
+      "relation": "RELATED_QUESTION_OR_METHOD",
+      "directed": false
+    },
+    {
+      "from": "RA-017",
+      "to": "RA-027",
+      "relation": "RELATED_QUESTION_OR_METHOD",
+      "directed": false
+    },
+    {
+      "from": "RA-017",
+      "to": "RA-029",
+      "relation": "RELATED_QUESTION_OR_METHOD",
+      "directed": false
+    },
+    {
+      "from": "RA-018",
+      "to": "RA-019",
+      "relation": "RELATED_QUESTION_OR_METHOD",
+      "directed": false
+    },
+    {
+      "from": "RA-018",
+      "to": "RA-027",
+      "relation": "RELATED_QUESTION_OR_METHOD",
+      "directed": false
+    },
+    {
+      "from": "RA-020",
+      "to": "RA-023",
+      "relation": "RELATED_QUESTION_OR_METHOD",
+      "directed": false
+    },
+    {
+      "from": "RA-020",
+      "to": "RA-024",
+      "relation": "RELATED_QUESTION_OR_METHOD",
+      "directed": false
+    },
+    {
+      "from": "RA-021",
+      "to": "RA-022",
+      "relation": "RELATED_QUESTION_OR_METHOD",
+      "directed": false
+    },
+    {
+      "from": "RA-023",
+      "to": "RA-024",
+      "relation": "RELATED_QUESTION_OR_METHOD",
+      "directed": false
+    },
+    {
+      "from": "RA-023",
+      "to": "RA-025",
+      "relation": "RELATED_QUESTION_OR_METHOD",
+      "directed": false
+    },
+    {
+      "from": "RA-023",
+      "to": "RA-028",
+      "relation": "RELATED_QUESTION_OR_METHOD",
+      "directed": false
+    },
+    {
+      "from": "RA-023",
+      "to": "RA-030",
+      "relation": "RELATED_QUESTION_OR_METHOD",
+      "directed": false
+    },
+    {
+      "from": "RA-024",
+      "to": "RA-025",
+      "relation": "RELATED_QUESTION_OR_METHOD",
+      "directed": false
+    },
+    {
+      "from": "RA-024",
+      "to": "RA-026",
+      "relation": "RELATED_QUESTION_OR_METHOD",
+      "directed": false
+    },
+    {
+      "from": "RA-024",
+      "to": "RA-028",
+      "relation": "RELATED_QUESTION_OR_METHOD",
+      "directed": false
+    },
+    {
+      "from": "RA-025",
+      "to": "RA-030",
+      "relation": "RELATED_QUESTION_OR_METHOD",
+      "directed": false
+    },
+    {
+      "from": "RA-028",
+      "to": "RA-029",
+      "relation": "RELATED_QUESTION_OR_METHOD",
+      "directed": false
+    }
+  ],
+  "primary_references": [
+    {
+      "reference_id": "AVIDA",
+      "title": "Avida: a software platform for research in computational evolutionary biology",
+      "author": "Ofria and Wilke",
+      "year": 2004,
+      "type": "Primary research paper",
+      "url": "https://authors.library.caltech.edu/records/2h3br-gvn73",
+      "scope": "Controlled experiments with evolving programs; no validation of a new organism architecture.",
+      "checked_scope": "Author repository abstract and publication record"
+    },
+    {
+      "reference_id": "RIGL",
+      "title": "Rigging the Lottery: Making All Tickets Winners",
+      "author": "Evci et al.",
+      "year": 2020,
+      "type": "Primary research paper",
+      "url": "https://proceedings.mlr.press/v119/evci20a.html",
+      "scope": "Sparse-network training with topology updates; scope is the reported models and tasks.",
+      "checked_scope": "Publisher abstract and proceedings record"
+    },
+    {
+      "reference_id": "DENDRITES",
+      "title": "Dendritic action potentials and computation in human layer 2/3 cortical neurons",
+      "author": "Gidon et al.",
+      "year": 2020,
+      "type": "Primary experimental paper",
+      "url": "https://doi.org/10.1126/science.aax6239",
+      "scope": "Particular active dendritic computations in a specified human tissue preparation.",
+      "checked_scope": "Indexed original abstract, DOI and author publication record"
+    },
+    {
+      "reference_id": "DISHBRAIN",
+      "title": "In vitro neurons learn and exhibit sentience when embodied in a simulated game-world",
+      "author": "Kagan et al.",
+      "year": 2022,
+      "type": "Primary experimental paper",
+      "url": "https://doi.org/10.1016/j.neuron.2022.09.001",
+      "scope": "A defined closed-loop biological culture experiment; subjective interpretation remains separate.",
+      "checked_scope": "Publisher summary and experimental-control description"
+    },
+    {
+      "reference_id": "CONSCIOUSNESS",
+      "title": "Consciousness in Artificial Intelligence: Insights from the Science of Consciousness",
+      "author": "Butlin et al.",
+      "year": 2023,
+      "type": "Research report / preprint",
+      "url": "https://arxiv.org/abs/2308.08708v3",
+      "scope": "Theory-based indicators and systems considered in that report; no certification of later systems.",
+      "checked_scope": "Version 3 abstract and submission record"
+    },
+    {
+      "reference_id": "LOIHI",
+      "title": "Loihi: A Neuromorphic Manycore Processor with On-Chip Learning",
+      "author": "Davies et al.",
+      "year": 2018,
+      "type": "Primary hardware research paper",
+      "url": "https://ieeexplore.ieee.org/document/8259423",
+      "scope": "A specific processor and reported workloads; no universal efficiency or consciousness result.",
+      "checked_scope": "Publisher abstract and publication metadata"
+    },
+    {
+      "reference_id": "LLVM",
+      "title": "LLVM Language Reference Manual",
+      "author": "LLVM project",
+      "year": null,
+      "type": "Primary technical documentation",
+      "url": "https://www.llvm.org/docs/LangRef.html",
+      "scope": "Representation validity and semantics; not proof of a generated application's desired behavior.",
+      "checked_scope": "Official reference; rolling documentation checked during this research pass"
+    },
+    {
+      "reference_id": "REASONING",
+      "title": "The Illusion of Thinking: Understanding the Strengths and Limitations of Reasoning Models via the Lens of Problem Complexity",
+      "author": "Shojaee et al.",
+      "year": 2025,
+      "type": "Primary research paper",
+      "url": "https://arxiv.org/abs/2506.06941v3",
+      "scope": "Controlled-puzzle evaluations with stated models and complexity; no universal conclusion about every reasoning task.",
+      "checked_scope": "Version 3 abstract and version history"
+    },
+    {
+      "reference_id": "RWKV",
+      "title": "RWKV: Reinventing RNNs for the Transformer Era",
+      "author": "Peng et al.",
+      "year": 2023,
+      "type": "Primary research paper",
+      "url": "https://arxiv.org/abs/2305.13048",
+      "scope": "Parallelizable training and recurrent inference for the reported architecture; no guarantee of indefinite exact recall.",
+      "checked_scope": "Original paper abstract and bibliographic record"
+    },
+    {
+      "reference_id": "KALMAN",
+      "title": "A New Approach to Linear Filtering and Prediction Problems",
+      "author": "R. E. Kalman",
+      "year": 1960,
+      "type": "Primary research paper",
+      "url": "https://doi.org/10.1115/1.3662552",
+      "scope": "Linear filtering and prediction under stated modeling assumptions; not a general mutation policy.",
+      "checked_scope": "Publisher citation and indexed original abstract located; full publisher text was not accessed"
+    },
+    {
+      "reference_id": "QUANTIZATION",
+      "title": "LLM.int8(): 8-bit Matrix Multiplication for Transformers at Scale",
+      "author": "Dettmers et al.",
+      "year": 2022,
+      "type": "Primary research paper",
+      "url": "https://arxiv.org/abs/2208.07339",
+      "scope": "A specified low-precision inference method; quantization is distinct from pruning.",
+      "checked_scope": "Original paper abstract and publication metadata"
+    },
+    {
+      "reference_id": "RAFT",
+      "title": "In Search of an Understandable Consensus Algorithm (Extended Version)",
+      "author": "Ongaro and Ousterhout",
+      "year": 2014,
+      "type": "Primary distributed-systems paper",
+      "url": "https://raft.github.io/raft.pdf",
+      "scope": "Election, log replication and safety under stated failure assumptions.",
+      "checked_scope": "Original extended paper, including protocol decomposition"
+    },
+    {
+      "reference_id": "ZEROMQ",
+      "title": "ZeroMQ Guide, Chapter 3: Advanced Request-Reply Patterns",
+      "author": "ZeroMQ project",
+      "year": null,
+      "type": "Primary implementation documentation",
+      "url": "https://zguide.zeromq.org/docs/chapter3/",
+      "scope": "Socket-pattern behavior and asynchronous routing distinctions; no application-level correctness guarantee.",
+      "checked_scope": "Official request/reply and asynchronous-pattern sections"
+    },
+    {
+      "reference_id": "I2C",
+      "title": "Implementing I2C device drivers in userspace",
+      "author": "Linux kernel project",
+      "year": null,
+      "type": "Primary interface documentation",
+      "url": "https://docs.kernel.org/i2c/dev-interface.html",
+      "scope": "Userspace adapter access and transaction capabilities; no device-independent firmware-update claim.",
+      "checked_scope": "Official interface and combined-transaction documentation"
+    },
+    {
+      "reference_id": "OPENAI",
+      "title": "OpenAI API Overview",
+      "author": "OpenAI",
+      "year": null,
+      "type": "Primary service documentation",
+      "url": "https://developers.openai.com/api/reference/overview",
+      "scope": "Hosted API requests, identifiers and version considerations; client installation is distinct from local model deployment.",
+      "checked_scope": "Official API reference; no local OpenAI package documentation was available"
+    },
+    {
+      "reference_id": "TIES",
+      "title": "TIES-Merging: Resolving Interference When Merging Models",
+      "author": "Yadav et al.",
+      "year": 2023,
+      "type": "Primary research paper",
+      "url": "https://arxiv.org/abs/2306.01708v2",
+      "scope": "Parameter-interference analysis in a specified merging setting; no arbitrary-architecture compatibility guarantee.",
+      "checked_scope": "Version 2 abstract and publication record"
+    },
+    {
+      "reference_id": "ADINKRAS",
+      "title": "Adinkras: A Graphical Technology for Supersymmetric Representation Theory",
+      "author": "Faux and Gates",
+      "year": 2004,
+      "type": "Primary theoretical paper",
+      "url": "https://arxiv.org/abs/hep-th/0408004",
+      "scope": "Graphical representation tools for supersymmetry; no claim that symbolic manipulation creates physical reality.",
+      "checked_scope": "Original preprint abstract and journal reference"
+    },
+    {
+      "reference_id": "GRAVITY",
+      "title": "Gravity Probe B: Final Results of a Space Experiment to Test General Relativity",
+      "author": "Everitt et al.",
+      "year": 2011,
+      "type": "Primary experiment",
+      "url": "https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.106.221101",
+      "scope": "Earth-orbit measurements; no laboratory time-manipulation scaling result.",
+      "checked_scope": "Publisher abstract and experiment description"
+    },
+    {
+      "reference_id": "CASIMIR",
+      "title": "Demonstration of the Casimir Force in the 0.6 to 6 micrometre Range",
+      "author": "Lamoreaux",
+      "year": 1997,
+      "type": "Primary experiment",
+      "url": "https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.78.5",
+      "scope": "A force measurement; does not establish a usable device for spacetime manipulation. Consult the linked publisher erratum for quantitative reuse.",
+      "checked_scope": "Publisher abstract and visible erratum record"
+    },
+    {
+      "reference_id": "TELEPORTATION",
+      "title": "Teleporting an unknown quantum state via dual classical and Einstein-Podolsky-Rosen channels",
+      "author": "Bennett et al.",
+      "year": 1993,
+      "type": "Primary theoretical paper",
+      "url": "https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.70.1895",
+      "scope": "Entanglement plus classical communication; no instantaneous or backward communication channel.",
+      "checked_scope": "Publisher abstract and protocol requirements"
+    },
+    {
+      "reference_id": "THORIUM",
+      "title": "Near Term and Promising Long Term Options for the Deployment of Thorium Based Nuclear Energy, IAEA-TECDOC-2009",
+      "author": "IAEA",
+      "year": 2022,
+      "type": "Primary technical report",
+      "url": "https://www-pub.iaea.org/MTCD/Publications/PDF/TE-2009web.pdf",
+      "scope": "Specified thorium deployment and fuel-cycle questions; no universal reactor-performance or safety conclusion.",
+      "checked_scope": "Official report title, publication record and fuel-cycle discussion"
+    },
+    {
+      "reference_id": "PQC",
+      "title": "Approval of Three Federal Information Processing Standards for Post-Quantum Cryptography",
+      "author": "NIST",
+      "year": 2024,
+      "type": "Primary standards authority",
+      "url": "https://csrc.nist.gov/news/2024/postquantum-cryptography-fips-approved",
+      "scope": "Distinguishes FIPS 203 key encapsulation, FIPS 204 signatures, and FIPS 205 hash-based signatures.",
+      "checked_scope": "Official approval notice and linked standard names"
+    },
+    {
+      "reference_id": "QRL",
+      "title": "QRL Address Scheme",
+      "author": "QRL project",
+      "year": null,
+      "type": "Primary implementation documentation",
+      "url": "https://docs.theqrl.org/build/address/address-scheme/",
+      "scope": "Identifies the documented XMSS-based hash-signature construction; no application-wide security certification.",
+      "checked_scope": "Official scheme description"
+    },
+    {
+      "reference_id": "UNO",
+      "title": "Less-to-More Generalization: Unlocking More Controllability by In-Context Generation",
+      "author": "Wu et al.",
+      "year": 2025,
+      "type": "Primary research paper",
+      "url": "https://arxiv.org/abs/2504.02160",
+      "scope": "A specified reference-conditioned generation method and evaluations; no guarantee of perfect user-intent fidelity.",
+      "checked_scope": "Original abstract, official author repository and conference paper located"
+    },
+    {
+      "reference_id": "GEOMAGNETISM",
+      "title": "Is it true that Earth's magnetic field occasionally reverses its polarity?",
+      "author": "USGS",
+      "year": null,
+      "type": "Primary scientific agency reference",
+      "url": "https://www.usgs.gov/faqs/it-true-earths-magnetic-field-occasionally-reverses-its-polarity",
+      "scope": "Reversals are irregular with no apparent periodicity; no countdown or date for the next reversal.",
+      "checked_scope": "Official scientific-agency explanation; direct retriever access was intermittent"
+    },
+    {
+      "reference_id": "RADIATION",
+      "title": "Acute Radiation Syndrome: Information for Clinicians",
+      "author": "CDC",
+      "year": 2024,
+      "type": "Primary clinical authority",
+      "url": "https://www.cdc.gov/radiation-emergencies/hcp/clinical-guidance/ars.html",
+      "scope": "Exposure conditions and biological response context; not a treatment protocol created by this collection.",
+      "checked_scope": "Official overview and exposure-condition definition"
+    }
+  ]
+}

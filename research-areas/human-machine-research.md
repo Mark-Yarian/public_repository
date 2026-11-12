@@ -23,3 +23,14 @@ Human–machine research studies how people understand, supervise, and collabora
 The questions here concern broadly established research concepts. They do not imply that any SynapticSteel product has independently proven safety, autonomy, reliability, or suitability for a particular environment. All public claims require their own evidence and release review.
 
 [Browse research areas](README.md) · [Public paper index](../papers/INDEX.md) · [How to read this library](../docs/READER_GUIDE.md)
+
+
+## Indexed research articles
+
+- [RA-010 — Behavioral drift across model, memory, and environment](../research-articles/RA-010.md)
+- [RA-018 — Context reconstruction and verified intent](../research-articles/RA-018.md)
+- [RA-019 — Attributable communication and bounded agency](../research-articles/RA-019.md)
+- [RA-021 — Operational indicators and consciousness claims](../research-articles/RA-021.md)
+- [RA-027 — Controllability in reference-conditioned generation](../research-articles/RA-027.md)
+
+[Browse all articles](../research-articles/README.md) · [Browse by method or paper](../research-articles/CROSS_INDEX.md)

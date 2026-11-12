@@ -31,6 +31,16 @@ Theoretical synthesis, falsifiable hypotheses, and proposed controlled study; no
 
 Companion notes version 1.0, added 2026-11-12 UTC. They distinguish cited background from proposed tests and contain no new empirical results. The PDF, manuscript version, citation, and DOI record remain unchanged.
 
+## Indexed research articles
+
+- [RA-010 — Behavioral drift across model, memory, and environment](../../research-articles/RA-010.md): Separate inferred context from authorized task revisions.
+- [RA-018 — Context reconstruction and verified intent](../../research-articles/RA-018.md): Test whether unsupported inferences accumulate into accepted context.
+- [RA-021 — Operational indicators and consciousness claims](../../research-articles/RA-021.md): Control prompting and accepted context when interpreting self-description.
+- [RA-022 — Curiosity as bounded exploration and transfer](../../research-articles/RA-022.md): Evaluate exploration while preserving accepted task constraints.
+- [RA-027 — Controllability in reference-conditioned generation](../../research-articles/RA-027.md): Explore intent fidelity in a different output modality; this extension remains proposed.
+
+These links identify topic or method relevance. The linked articles are initial research syntheses or proposed evaluations; they do not establish manuscript ancestry, new empirical support, or a change to this manuscript edition.
+
 ## Citation
 
 Yarian, M. (2026). Conceptual Compression and Context Fidelity in Human–LLM Collaboration: A Research Framework for Assumption Propagation and Conversational Drift. SynapticSteel research working paper, SS-LAB-CC-001, version 0.2-github. https://github.com/Mark-Yarian/public_repository/blob/main/papers/SS-LAB-CC-001/manuscript.pdf

@@ -31,6 +31,24 @@ Theoretical engineering framework and proposed experiments; no demonstration of 
 
 Companion notes version 1.0, added 2026-11-12 UTC. They distinguish cited background from proposed tests and contain no new empirical results. The PDF, manuscript version, citation, and DOI record remain unchanged.
 
+## Indexed research articles
+
+- [RA-004 — Behavioral evidence for generated and transformed code](../../research-articles/RA-004.md): Separate executable variation from inherited behavioral continuity.
+- [RA-005 — Computational reproduction and bounded inheritance](../../research-articles/RA-005.md): Evaluate inheritance partitions, descendant independence, and controlled variation.
+- [RA-006 — Continuity through restart and long-running state](../../research-articles/RA-006.md): Define continuity operationally across copying and migration.
+- [RA-008 — Environmental feedback, confounding, and task fitness](../../research-articles/RA-008.md): Test environmental effects on descendant behavior.
+- [RA-010 — Behavioral drift across model, memory, and environment](../../research-articles/RA-010.md): Define behavioral phenotype using measurable response distributions.
+- [RA-011 — Representation alignment, routing, and model composition](../../research-articles/RA-011.md): Distinguish a transformed representation from an independently executing descendant.
+- [RA-012 — Recurrent state and a proposed estimation layer](../../research-articles/RA-012.md): Test state continuity without treating estimation as reproduction.
+- [RA-013 — Plasticity, maintenance, and retained capability](../../research-articles/RA-013.md): Separate structural variation, memory change, and inherited behavior.
+- [RA-014 — Biological inspiration as a computational comparison](../../research-articles/RA-014.md): Separate implementable inherited properties from organism metaphors.
+- [RA-016 — Useful throughput, memory, and communication costs](../../research-articles/RA-016.md): Measure a descendant population within an explicit resource budget.
+- [RA-019 — Attributable communication and bounded agency](../../research-articles/RA-019.md): Keep persistent identity distinct from a granted capability.
+- [RA-021 — Operational indicators and consciousness claims](../../research-articles/RA-021.md): Keep inheritance and behavioral phenotype claims separate from consciousness.
+- [RA-022 — Curiosity as bounded exploration and transfer](../../research-articles/RA-022.md): Separate adaptive task behavior from organism metaphors.
+
+These links identify topic or method relevance. The linked articles are initial research syntheses or proposed evaluations; they do not establish manuscript ancestry, new empirical support, or a change to this manuscript edition.
+
 ## Citation
 
 Yarian, M. (2026). Digital Mitosis: A State-Transfer, Lineage, and Controlled-Mutation Architecture for Persistent Computational Organisms: A Falsifiable Engineering Framework for Computational Identity, Inheritance, and Digital Lineage. SynapticSteel research working paper, Digital-Mitosis, version 0.1. https://doi.org/10.5281/zenodo.23131141

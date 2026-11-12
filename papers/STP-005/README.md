@@ -31,6 +31,16 @@ Conceptual sensor-trust architecture and proposed tests; no empirical performanc
 
 Companion notes version 1.0, added 2026-11-12 UTC. They distinguish cited background from proposed tests and contain no new empirical results. The PDF, manuscript version, citation, and DOI record remain unchanged.
 
+## Indexed research articles
+
+- [RA-003 — Actuator observations, torque, timing, and health labels](../../research-articles/RA-003.md): Assess current, motion, thermal, and supply evidence by claim.
+- [RA-007 — Swarm coordination under partial observations](../../research-articles/RA-007.md): Distinguish independent evidence from repeated shared information.
+- [RA-017 — Reasoning evaluations and failure taxonomy](../../research-articles/RA-017.md): Separate fluent agreement from independent support.
+- [RA-019 — Attributable communication and bounded agency](../../research-articles/RA-019.md): Test whether message agreement adds independent evidence.
+- [RA-020 — Reconstruction, identifiability, and physical source attribution](../../research-articles/RA-020.md): Require claim-specific support and independent witnesses.
+
+These links identify topic or method relevance. The linked articles are initial research syntheses or proposed evaluations; they do not establish manuscript ancestry, new empirical support, or a change to this manuscript edition.
+
 ## Citation
 
 Yarian, M. (2026). Trust Is Not Agreement: Separating sensor credibility, cross-channel consensus, and physical plausibility in industrial edge fusion. SynapticSteel Technical Papers, STP-005, version 1.0. https://doi.org/10.5281/zenodo.23114667

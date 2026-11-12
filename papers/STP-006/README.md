@@ -31,6 +31,20 @@ Causal model, architectural proposal, and switchback evaluation protocol; no mea
 
 Companion notes version 1.0, added 2026-11-12 UTC. They distinguish cited background from proposed tests and contain no new empirical results. The PDF, manuscript version, citation, and DOI record remain unchanged.
 
+## Indexed research articles
+
+- [RA-001 — Inference service boundaries and reproducible hosts](../../research-articles/RA-001.md): Separate the cost of a client, collector, host, and remote service.
+- [RA-003 — Actuator observations, torque, timing, and health labels](../../research-articles/RA-003.md): Measure whether sensing changes the observed system.
+- [RA-007 — Swarm coordination under partial observations](../../research-articles/RA-007.md): Account for communication and observation cost.
+- [RA-008 — Environmental feedback, confounding, and task fitness](../../research-articles/RA-008.md): Treat an observation policy as a possible intervention.
+- [RA-013 — Plasticity, maintenance, and retained capability](../../research-articles/RA-013.md): Include maintenance and instrumentation in the resource boundary.
+- [RA-014 — Biological inspiration as a computational comparison](../../research-articles/RA-014.md): Match observation and resource boundaries in alternative designs.
+- [RA-015 — Multirate computation and temporal evidence](../../research-articles/RA-015.md): Measure complete encoding, routing, and observation cost.
+- [RA-016 — Useful throughput, memory, and communication costs](../../research-articles/RA-016.md): Include the observer, host, conversion, and waiting cost.
+- [RA-020 — Reconstruction, identifiability, and physical source attribution](../../research-articles/RA-020.md): Control the effect of the sensor and observer on the system.
+
+These links identify topic or method relevance. The linked articles are initial research syntheses or proposed evaluations; they do not establish manuscript ancestry, new empirical support, or a change to this manuscript edition.
+
 ## Citation
 
 Yarian, M. (2026). The Probe Is Part of the Process: Observation-induced change, causal confounding, and safe telemetry budgets in industrial edge intelligence. SynapticSteel Technical Papers, STP-006, version 1.0. https://github.com/Mark-Yarian/public_repository/blob/main/papers/STP-006/manuscript.pdf

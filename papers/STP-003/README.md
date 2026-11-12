@@ -31,6 +31,15 @@ Conceptual temporal-fusion architecture and proposed evaluation; no original tim
 
 Companion notes version 1.0, added 2026-11-12 UTC. They distinguish cited background from proposed tests and contain no new empirical results. The PDF, manuscript version, citation, and DOI record remain unchanged.
 
+## Indexed research articles
+
+- [RA-003 — Actuator observations, torque, timing, and health labels](../../research-articles/RA-003.md): Preserve acquisition timing across bus transactions and summaries.
+- [RA-012 — Recurrent state and a proposed estimation layer](../../research-articles/RA-012.md): Specify the timing and support of estimator observations.
+- [RA-015 — Multirate computation and temporal evidence](../../research-articles/RA-015.md): Preserve acquisition support, clock domain, and uncertainty across schedules.
+- [RA-020 — Reconstruction, identifiability, and physical source attribution](../../research-articles/RA-020.md): Track timing quality before comparing source references.
+
+These links identify topic or method relevance. The linked articles are initial research syntheses or proposed evaluations; they do not establish manuscript ancestry, new empirical support, or a change to this manuscript edition.
+
 ## Citation
 
 Yarian, M. (2026). The Timestamp Is Not the Event: Uncertainty-aware temporal fusion for asynchronous industrial sensors at the physical edge. SynapticSteel Technical Papers, STP-003, version 0.1-github. https://github.com/Mark-Yarian/public_repository/blob/main/papers/STP-003/manuscript.pdf

@@ -31,6 +31,16 @@ Sampling-theory synthesis and a worked numerical counterexample; the example is 
 
 Companion notes version 1.0, added 2026-11-12 UTC. They distinguish cited background from proposed tests and contain no new empirical results. The PDF, manuscript version, citation, and DOI record remain unchanged.
 
+## Indexed research articles
+
+- [RA-005 — Computational reproduction and bounded inheritance](../../research-articles/RA-005.md): Keep the full descendant opportunity denominator.
+- [RA-009 — Failure memory from logs to later decisions](../../research-articles/RA-009.md): Retain opportunities for recurrence, not only memorable failures.
+- [RA-017 — Reasoning evaluations and failure taxonomy](../../research-articles/RA-017.md): State the evaluated population and all exclusions.
+- [RA-022 — Curiosity as bounded exploration and transfer](../../research-articles/RA-022.md): Record ordinary, unsuccessful, and high-novelty attempts.
+- [RA-029 — Selected event windows and missing opportunities](../../research-articles/RA-029.md): Apply the selection-aware archive argument to event-window and anomaly claims.
+
+These links identify topic or method relevance. The linked articles are initial research syntheses or proposed evaluations; they do not establish manuscript ancestry, new empirical support, or a change to this manuscript edition.
+
 ## Citation
 
 Yarian, M. (2026). The Archive Is Not the Population: Selection-Aware Event Memory for Industrial Edge Intelligence. SynapticSteel Technical Papers, STP-008, version 1.0. https://github.com/Mark-Yarian/public_repository/blob/main/papers/STP-008/manuscript.pdf

@@ -24,7 +24,39 @@
         "test_status": "PROPOSED_NOT_RUN",
         "sha256": "c03e74ed3e2746293bbbcc472a67f868319280349e628e052d6ba359e5ee7305",
         "topics": "Failure episodes, recurrence, reasoning benchmarks, and distributed fault controls."
-      }
+      },
+      "related_research_articles": [
+        {
+          "article_id": "RA-004",
+          "artifact_path": "../research-articles/RA-004.md",
+          "relation": "TOPIC_OR_METHOD_RELEVANCE"
+        },
+        {
+          "article_id": "RA-005",
+          "artifact_path": "../research-articles/RA-005.md",
+          "relation": "TOPIC_OR_METHOD_RELEVANCE"
+        },
+        {
+          "article_id": "RA-008",
+          "artifact_path": "../research-articles/RA-008.md",
+          "relation": "TOPIC_OR_METHOD_RELEVANCE"
+        },
+        {
+          "article_id": "RA-009",
+          "artifact_path": "../research-articles/RA-009.md",
+          "relation": "TOPIC_OR_METHOD_RELEVANCE"
+        },
+        {
+          "article_id": "RA-017",
+          "artifact_path": "../research-articles/RA-017.md",
+          "relation": "TOPIC_OR_METHOD_RELEVANCE"
+        },
+        {
+          "article_id": "RA-029",
+          "artifact_path": "../research-articles/RA-029.md",
+          "relation": "TOPIC_OR_METHOD_RELEVANCE"
+        }
+      ]
     },
     {
       "publication_id": "STP-002",
@@ -47,7 +79,29 @@
         "test_status": "PROPOSED_NOT_RUN",
         "sha256": "7e30a6ab7e047c3f45f3b50cb27f77654d86a0e84dd29f0b2a00eba9c6211bc2",
         "topics": "Adaptive baselines, structural updates, retention, and independent health validation."
-      }
+      },
+      "related_research_articles": [
+        {
+          "article_id": "RA-003",
+          "artifact_path": "../research-articles/RA-003.md",
+          "relation": "TOPIC_OR_METHOD_RELEVANCE"
+        },
+        {
+          "article_id": "RA-008",
+          "artifact_path": "../research-articles/RA-008.md",
+          "relation": "TOPIC_OR_METHOD_RELEVANCE"
+        },
+        {
+          "article_id": "RA-012",
+          "artifact_path": "../research-articles/RA-012.md",
+          "relation": "TOPIC_OR_METHOD_RELEVANCE"
+        },
+        {
+          "article_id": "RA-013",
+          "artifact_path": "../research-articles/RA-013.md",
+          "relation": "TOPIC_OR_METHOD_RELEVANCE"
+        }
+      ]
     },
     {
       "publication_id": "STP-003",
@@ -70,7 +124,29 @@
         "test_status": "PROPOSED_NOT_RUN",
         "sha256": "0fccfc0505fed9559781d9e204cd4d869bb2756e9a397d0c6395286fea6b2e1f",
         "topics": "Multirate schedules, timing uncertainty, event identity, and replay boundaries."
-      }
+      },
+      "related_research_articles": [
+        {
+          "article_id": "RA-003",
+          "artifact_path": "../research-articles/RA-003.md",
+          "relation": "TOPIC_OR_METHOD_RELEVANCE"
+        },
+        {
+          "article_id": "RA-012",
+          "artifact_path": "../research-articles/RA-012.md",
+          "relation": "TOPIC_OR_METHOD_RELEVANCE"
+        },
+        {
+          "article_id": "RA-015",
+          "artifact_path": "../research-articles/RA-015.md",
+          "relation": "TOPIC_OR_METHOD_RELEVANCE"
+        },
+        {
+          "article_id": "RA-020",
+          "artifact_path": "../research-articles/RA-020.md",
+          "relation": "TOPIC_OR_METHOD_RELEVANCE"
+        }
+      ]
     },
     {
       "publication_id": "STP-005",
@@ -93,7 +169,34 @@
         "test_status": "PROPOSED_NOT_RUN",
         "sha256": "503f127ac494926ad761fc1c27ce32ced23853abfbc6794147b123ce00fa2185",
         "topics": "Shared ancestry, independence, agent communication, and claim-specific support."
-      }
+      },
+      "related_research_articles": [
+        {
+          "article_id": "RA-003",
+          "artifact_path": "../research-articles/RA-003.md",
+          "relation": "TOPIC_OR_METHOD_RELEVANCE"
+        },
+        {
+          "article_id": "RA-007",
+          "artifact_path": "../research-articles/RA-007.md",
+          "relation": "TOPIC_OR_METHOD_RELEVANCE"
+        },
+        {
+          "article_id": "RA-017",
+          "artifact_path": "../research-articles/RA-017.md",
+          "relation": "TOPIC_OR_METHOD_RELEVANCE"
+        },
+        {
+          "article_id": "RA-019",
+          "artifact_path": "../research-articles/RA-019.md",
+          "relation": "TOPIC_OR_METHOD_RELEVANCE"
+        },
+        {
+          "article_id": "RA-020",
+          "artifact_path": "../research-articles/RA-020.md",
+          "relation": "TOPIC_OR_METHOD_RELEVANCE"
+        }
+      ]
     },
     {
       "publication_id": "STP-006",
@@ -116,7 +219,54 @@
         "test_status": "PROPOSED_NOT_RUN",
         "sha256": "3e59a737fed58bc4e1be0b3aa20ee4c0499a4a84f4f1f3d352d1a2ccc1cc1eb1",
         "topics": "Neuromorphic routing, representation costs, instrumentation, and resource accounting."
-      }
+      },
+      "related_research_articles": [
+        {
+          "article_id": "RA-001",
+          "artifact_path": "../research-articles/RA-001.md",
+          "relation": "TOPIC_OR_METHOD_RELEVANCE"
+        },
+        {
+          "article_id": "RA-003",
+          "artifact_path": "../research-articles/RA-003.md",
+          "relation": "TOPIC_OR_METHOD_RELEVANCE"
+        },
+        {
+          "article_id": "RA-007",
+          "artifact_path": "../research-articles/RA-007.md",
+          "relation": "TOPIC_OR_METHOD_RELEVANCE"
+        },
+        {
+          "article_id": "RA-008",
+          "artifact_path": "../research-articles/RA-008.md",
+          "relation": "TOPIC_OR_METHOD_RELEVANCE"
+        },
+        {
+          "article_id": "RA-013",
+          "artifact_path": "../research-articles/RA-013.md",
+          "relation": "TOPIC_OR_METHOD_RELEVANCE"
+        },
+        {
+          "article_id": "RA-014",
+          "artifact_path": "../research-articles/RA-014.md",
+          "relation": "TOPIC_OR_METHOD_RELEVANCE"
+        },
+        {
+          "article_id": "RA-015",
+          "artifact_path": "../research-articles/RA-015.md",
+          "relation": "TOPIC_OR_METHOD_RELEVANCE"
+        },
+        {
+          "article_id": "RA-016",
+          "artifact_path": "../research-articles/RA-016.md",
+          "relation": "TOPIC_OR_METHOD_RELEVANCE"
+        },
+        {
+          "article_id": "RA-020",
+          "artifact_path": "../research-articles/RA-020.md",
+          "relation": "TOPIC_OR_METHOD_RELEVANCE"
+        }
+      ]
     },
     {
       "publication_id": "STP-007",
@@ -139,7 +289,29 @@
         "test_status": "PROPOSED_NOT_RUN",
         "sha256": "e0bafb01d0983b98cee03aba83a1df4cad89e6c11f2f3992127b32dbdcc15c19",
         "topics": "Checkpoint boundaries, recovery epochs, state continuity, and stale-data rejection."
-      }
+      },
+      "related_research_articles": [
+        {
+          "article_id": "RA-002",
+          "artifact_path": "../research-articles/RA-002.md",
+          "relation": "TOPIC_OR_METHOD_RELEVANCE"
+        },
+        {
+          "article_id": "RA-006",
+          "artifact_path": "../research-articles/RA-006.md",
+          "relation": "TOPIC_OR_METHOD_RELEVANCE"
+        },
+        {
+          "article_id": "RA-007",
+          "artifact_path": "../research-articles/RA-007.md",
+          "relation": "TOPIC_OR_METHOD_RELEVANCE"
+        },
+        {
+          "article_id": "RA-019",
+          "artifact_path": "../research-articles/RA-019.md",
+          "relation": "TOPIC_OR_METHOD_RELEVANCE"
+        }
+      ]
     },
     {
       "publication_id": "STP-008",
@@ -162,7 +334,34 @@
         "test_status": "PROPOSED_NOT_RUN",
         "sha256": "9557716114a2ab6c02f27785ee2aee62dd53eef44ae247384baba6b6b22eff20",
         "topics": "Event selection, opportunity denominators, failed trials, and comparison populations."
-      }
+      },
+      "related_research_articles": [
+        {
+          "article_id": "RA-005",
+          "artifact_path": "../research-articles/RA-005.md",
+          "relation": "TOPIC_OR_METHOD_RELEVANCE"
+        },
+        {
+          "article_id": "RA-009",
+          "artifact_path": "../research-articles/RA-009.md",
+          "relation": "TOPIC_OR_METHOD_RELEVANCE"
+        },
+        {
+          "article_id": "RA-017",
+          "artifact_path": "../research-articles/RA-017.md",
+          "relation": "TOPIC_OR_METHOD_RELEVANCE"
+        },
+        {
+          "article_id": "RA-022",
+          "artifact_path": "../research-articles/RA-022.md",
+          "relation": "TOPIC_OR_METHOD_RELEVANCE"
+        },
+        {
+          "article_id": "RA-029",
+          "artifact_path": "../research-articles/RA-029.md",
+          "relation": "TOPIC_OR_METHOD_RELEVANCE"
+        }
+      ]
     },
     {
       "publication_id": "STP-009",
@@ -174,7 +373,19 @@
       "filename": "manuscript.pdf",
       "sha256": "19e48a28059aecac3d695931ad46edd98fbf3a4f1ded63b93b6ccea2103cfa27",
       "bytes": 98519,
-      "pages": 10
+      "pages": 10,
+      "related_research_articles": [
+        {
+          "article_id": "RA-003",
+          "artifact_path": "../research-articles/RA-003.md",
+          "relation": "TOPIC_OR_METHOD_RELEVANCE"
+        },
+        {
+          "article_id": "RA-020",
+          "artifact_path": "../research-articles/RA-020.md",
+          "relation": "TOPIC_OR_METHOD_RELEVANCE"
+        }
+      ]
     },
     {
       "publication_id": "STP-010",
@@ -197,7 +408,69 @@
         "test_status": "PROPOSED_NOT_RUN",
         "sha256": "10a18baebd69f615217596b6b6e0949593bd564018e8457bea5611b13df87b79",
         "topics": "Transform revisions, hidden state, latent alignment, and exact execution ancestry."
-      }
+      },
+      "related_research_articles": [
+        {
+          "article_id": "RA-001",
+          "artifact_path": "../research-articles/RA-001.md",
+          "relation": "TOPIC_OR_METHOD_RELEVANCE"
+        },
+        {
+          "article_id": "RA-002",
+          "artifact_path": "../research-articles/RA-002.md",
+          "relation": "TOPIC_OR_METHOD_RELEVANCE"
+        },
+        {
+          "article_id": "RA-004",
+          "artifact_path": "../research-articles/RA-004.md",
+          "relation": "TOPIC_OR_METHOD_RELEVANCE"
+        },
+        {
+          "article_id": "RA-006",
+          "artifact_path": "../research-articles/RA-006.md",
+          "relation": "TOPIC_OR_METHOD_RELEVANCE"
+        },
+        {
+          "article_id": "RA-007",
+          "artifact_path": "../research-articles/RA-007.md",
+          "relation": "TOPIC_OR_METHOD_RELEVANCE"
+        },
+        {
+          "article_id": "RA-009",
+          "artifact_path": "../research-articles/RA-009.md",
+          "relation": "TOPIC_OR_METHOD_RELEVANCE"
+        },
+        {
+          "article_id": "RA-010",
+          "artifact_path": "../research-articles/RA-010.md",
+          "relation": "TOPIC_OR_METHOD_RELEVANCE"
+        },
+        {
+          "article_id": "RA-011",
+          "artifact_path": "../research-articles/RA-011.md",
+          "relation": "TOPIC_OR_METHOD_RELEVANCE"
+        },
+        {
+          "article_id": "RA-015",
+          "artifact_path": "../research-articles/RA-015.md",
+          "relation": "TOPIC_OR_METHOD_RELEVANCE"
+        },
+        {
+          "article_id": "RA-018",
+          "artifact_path": "../research-articles/RA-018.md",
+          "relation": "TOPIC_OR_METHOD_RELEVANCE"
+        },
+        {
+          "article_id": "RA-019",
+          "artifact_path": "../research-articles/RA-019.md",
+          "relation": "TOPIC_OR_METHOD_RELEVANCE"
+        },
+        {
+          "article_id": "RA-027",
+          "artifact_path": "../research-articles/RA-027.md",
+          "relation": "TOPIC_OR_METHOD_RELEVANCE"
+        }
+      ]
     },
     {
       "publication_id": "Digital-Mitosis",
@@ -220,7 +493,74 @@
         "test_status": "PROPOSED_NOT_RUN",
         "sha256": "0479358cd019136859821cd7ff0a5bde2f96c9cb71a345abf78ea09b160390c8",
         "topics": "Inheritance, plasticity, maintenance, biological comparisons, and behavioral phenotype."
-      }
+      },
+      "related_research_articles": [
+        {
+          "article_id": "RA-004",
+          "artifact_path": "../research-articles/RA-004.md",
+          "relation": "TOPIC_OR_METHOD_RELEVANCE"
+        },
+        {
+          "article_id": "RA-005",
+          "artifact_path": "../research-articles/RA-005.md",
+          "relation": "TOPIC_OR_METHOD_RELEVANCE"
+        },
+        {
+          "article_id": "RA-006",
+          "artifact_path": "../research-articles/RA-006.md",
+          "relation": "TOPIC_OR_METHOD_RELEVANCE"
+        },
+        {
+          "article_id": "RA-008",
+          "artifact_path": "../research-articles/RA-008.md",
+          "relation": "TOPIC_OR_METHOD_RELEVANCE"
+        },
+        {
+          "article_id": "RA-010",
+          "artifact_path": "../research-articles/RA-010.md",
+          "relation": "TOPIC_OR_METHOD_RELEVANCE"
+        },
+        {
+          "article_id": "RA-011",
+          "artifact_path": "../research-articles/RA-011.md",
+          "relation": "TOPIC_OR_METHOD_RELEVANCE"
+        },
+        {
+          "article_id": "RA-012",
+          "artifact_path": "../research-articles/RA-012.md",
+          "relation": "TOPIC_OR_METHOD_RELEVANCE"
+        },
+        {
+          "article_id": "RA-013",
+          "artifact_path": "../research-articles/RA-013.md",
+          "relation": "TOPIC_OR_METHOD_RELEVANCE"
+        },
+        {
+          "article_id": "RA-014",
+          "artifact_path": "../research-articles/RA-014.md",
+          "relation": "TOPIC_OR_METHOD_RELEVANCE"
+        },
+        {
+          "article_id": "RA-016",
+          "artifact_path": "../research-articles/RA-016.md",
+          "relation": "TOPIC_OR_METHOD_RELEVANCE"
+        },
+        {
+          "article_id": "RA-019",
+          "artifact_path": "../research-articles/RA-019.md",
+          "relation": "TOPIC_OR_METHOD_RELEVANCE"
+        },
+        {
+          "article_id": "RA-021",
+          "artifact_path": "../research-articles/RA-021.md",
+          "relation": "TOPIC_OR_METHOD_RELEVANCE"
+        },
+        {
+          "article_id": "RA-022",
+          "artifact_path": "../research-articles/RA-022.md",
+          "relation": "TOPIC_OR_METHOD_RELEVANCE"
+        }
+      ]
     },
     {
       "publication_id": "SS-LAB-CC-001",
@@ -243,9 +583,39 @@
         "test_status": "PROPOSED_NOT_RUN",
         "sha256": "f8edc7a9c739c6e83ef5c3b5412e1ebb96122d8b7c38f7a5af9cb1fc793142c6",
         "topics": "Context reconstruction, observable drift, trajectory controls, and exploration."
-      }
+      },
+      "related_research_articles": [
+        {
+          "article_id": "RA-010",
+          "artifact_path": "../research-articles/RA-010.md",
+          "relation": "TOPIC_OR_METHOD_RELEVANCE"
+        },
+        {
+          "article_id": "RA-018",
+          "artifact_path": "../research-articles/RA-018.md",
+          "relation": "TOPIC_OR_METHOD_RELEVANCE"
+        },
+        {
+          "article_id": "RA-021",
+          "artifact_path": "../research-articles/RA-021.md",
+          "relation": "TOPIC_OR_METHOD_RELEVANCE"
+        },
+        {
+          "article_id": "RA-022",
+          "artifact_path": "../research-articles/RA-022.md",
+          "relation": "TOPIC_OR_METHOD_RELEVANCE"
+        },
+        {
+          "article_id": "RA-027",
+          "artifact_path": "../research-articles/RA-027.md",
+          "relation": "TOPIC_OR_METHOD_RELEVANCE"
+        }
+      ]
     }
   ],
   "research_notes_publication_date_utc": "2026-11-12",
-  "research_notes_count": 10
+  "research_notes_count": 10,
+  "research_article_index": "../research-articles/README.md",
+  "research_article_cross_index": "../research-articles/CROSS_INDEX.md",
+  "research_article_catalog": "../research-articles/catalog.json"
 }

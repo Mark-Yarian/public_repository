@@ -31,6 +31,23 @@ Architectural proposal and falsifiable replay/fault-injection plan; no measured 
 
 Companion notes version 1.0, added 2026-11-12 UTC. They distinguish cited background from proposed tests and contain no new empirical results. The PDF, manuscript version, citation, and DOI record remain unchanged.
 
+## Indexed research articles
+
+- [RA-001 — Inference service boundaries and reproducible hosts](../../research-articles/RA-001.md): Bind each result to the service, model revision, and exact input that produced it.
+- [RA-002 — Peer discovery, leader election, and recovery](../../research-articles/RA-002.md): Preserve message and execution ancestry across retries.
+- [RA-004 — Behavioral evidence for generated and transformed code](../../research-articles/RA-004.md): Identify the exact generated artifact, compiler transform, and execution.
+- [RA-006 — Continuity through restart and long-running state](../../research-articles/RA-006.md): Separate original event ancestry from a new replay execution.
+- [RA-007 — Swarm coordination under partial observations](../../research-articles/RA-007.md): Attribute each action to the messages and state actually consumed.
+- [RA-009 — Failure memory from logs to later decisions](../../research-articles/RA-009.md): Identify the exact model and evidence involved in a later decision.
+- [RA-010 — Behavioral drift across model, memory, and environment](../../research-articles/RA-010.md): Attribute changed behavior to exact inputs and recorded state.
+- [RA-011 — Representation alignment, routing, and model composition](../../research-articles/RA-011.md): Record the transform and input revision actually used.
+- [RA-015 — Multirate computation and temporal evidence](../../research-articles/RA-015.md): Bind each controller action to the state revision it consumed.
+- [RA-018 — Context reconstruction and verified intent](../../research-articles/RA-018.md): Record the exact context and execution revision behind an answer.
+- [RA-019 — Attributable communication and bounded agency](../../research-articles/RA-019.md): Bind each action to the message, model, and authority used.
+- [RA-027 — Controllability in reference-conditioned generation](../../research-articles/RA-027.md): Identify the exact reference images, prompt, model, and transforms used to generate an output.
+
+These links identify topic or method relevance. The linked articles are initial research syntheses or proposed evaluations; they do not establish manuscript ancestry, new empirical support, or a change to this manuscript edition.
+
 ## Citation
 
 Yarian, M. (2026). The Model Was Nearby, Not Involved: Revision-Exact Evidence Attribution for Asynchronous Industrial Intelligence. SynapticSteel Technical Papers, STP-010, version 1.0. https://github.com/Mark-Yarian/public_repository/blob/main/papers/STP-010/manuscript.pdf

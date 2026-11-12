@@ -25,6 +25,13 @@ When several rotating machines excite the same structure, a vibration sensor mea
 
 Elementary mathematical identifiability analysis and a proposed attribution protocol; no field validation. The manuscript distinguishes its proposals, analytical examples, and future evaluation from established results. Full references are in the PDF.
 
+## Indexed research articles
+
+- [RA-003 — Actuator observations, torque, timing, and health labels](../../research-articles/RA-003.md): Use independent source references when attributing shared vibration.
+- [RA-020 — Reconstruction, identifiability, and physical source attribution](../../research-articles/RA-020.md): Explain why fitting a mixture can leave its physical sources unidentified.
+
+These links identify topic or method relevance. The linked articles are initial research syntheses or proposed evaluations; they do not establish manuscript ancestry, new empirical support, or a change to this manuscript edition.
+
 ## Citation
 
 Yarian, M. (2026). The Nullspace Has No Name: Identifiability, Source Attribution, and Refusal in Multi-Machine Vibration Monitoring. SynapticSteel Technical Papers, STP-009, version 1.0. https://github.com/Mark-Yarian/public_repository/blob/main/papers/STP-009/manuscript.pdf

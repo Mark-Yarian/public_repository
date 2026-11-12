@@ -31,6 +31,17 @@ Conceptual architecture and proposed evaluation; no empirical validation of fail
 
 Companion notes version 1.0, added 2026-11-12 UTC. They distinguish cited background from proposed tests and contain no new empirical results. The PDF, manuscript version, citation, and DOI record remain unchanged.
 
+## Indexed research articles
+
+- [RA-004 — Behavioral evidence for generated and transformed code](../../research-articles/RA-004.md): Retain rejected candidates and failed repairs with outcomes.
+- [RA-005 — Computational reproduction and bounded inheritance](../../research-articles/RA-005.md): Record failed descendants and subsequent recovery outcomes.
+- [RA-008 — Environmental feedback, confounding, and task fitness](../../research-articles/RA-008.md): Link a changed policy to failure and later outcome evidence.
+- [RA-009 — Failure memory from logs to later decisions](../../research-articles/RA-009.md): Make a failure, attempted recovery, and later outcome a linked research unit.
+- [RA-017 — Reasoning evaluations and failure taxonomy](../../research-articles/RA-017.md): Distinguish a failure from the outcome of an attempted repair.
+- [RA-029 — Selected event windows and missing opportunities](../../research-articles/RA-029.md): Count comparable opportunities and unsuccessful repairs in recurrence evaluation.
+
+These links identify topic or method relevance. The linked articles are initial research syntheses or proposed evaluations; they do not establish manuscript ancestry, new empirical support, or a change to this manuscript edition.
+
 ## Citation
 
 Yarian, M. (2026). Failure Metabolism: Why persistent machine intelligence should digest failure into structured memory instead of merely logging it. SynapticSteel Technical Papers, STP-001, version 0.1-draft. https://doi.org/10.5281/zenodo.23130549

@@ -2,7 +2,7 @@
 
 Scientific working papers by **Mark Yarian**, Yarian Works, LLC / SynapticSteel. The collection covers industrial sensing, evidence and provenance, temporal uncertainty, inference attribution, computational organisms, and human–AI collaboration.
 
-**11 manuscripts · 10 integrated companion-note sets · Versioned citations · Explicit evidence limits**
+**11 manuscripts · 10 companion-note sets · 30 indexed research articles · Explicit evidence limits**
 
 All papers listed here are **author-released working papers, not independently peer reviewed**. Their proposed architectures and experiments are distinguished from mathematical analysis, illustrative examples, measured results, and operational capability.
 
@@ -23,6 +23,12 @@ The [paper index](papers/INDEX.md) is the authoritative publication catalog. Eac
 | STP-010 | [The Model Was Nearby, Not Involved](papers/STP-010/README.md) | [PDF](papers/STP-010/manuscript.pdf) · [Notes](papers/STP-010/research-notes.md) |
 | Digital-Mitosis | [Digital Mitosis: A State-Transfer, Lineage, and Controlled-Mutation Architecture for Persistent Computational Organisms](papers/Digital-Mitosis/README.md) | [PDF](papers/Digital-Mitosis/manuscript.pdf) · [Notes](papers/Digital-Mitosis/research-notes.md) |
 | SS-LAB-CC-001 | [Conceptual Compression and Context Fidelity in Human–LLM Collaboration](papers/SS-LAB-CC-001/README.md) | [PDF](papers/SS-LAB-CC-001/manuscript.pdf) · [Notes](papers/SS-LAB-CC-001/research-notes.md) |
+
+## Indexed research articles
+
+The [research-article index](research-articles/README.md) adds **30 critical research syntheses and methods articles**. Browse the [cross-index](research-articles/CROSS_INDEX.md) by released paper, topic, method, research area, or primary reference. Each article links to related articles and the relevant STP or standalone papers; those paper records link back.
+
+This is the first release of an expanded review. It distinguishes source screening, primary evidence, analytical examples, and unrun comparisons. The articles add no new empirical results and are not peer reviewed. [Machine-readable catalog](research-articles/catalog.json) · [Primary-reference ledger](research-articles/REFERENCES.md).
 
 ## Supporting research notes
 

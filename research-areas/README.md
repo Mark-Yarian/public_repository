@@ -30,3 +30,8 @@ The four public areas below retain the stable Markdown format consumed by the Ya
 ## Continue reading
 
 [Public library home](../README.md) · [How to read evidence claims](../docs/READER_GUIDE.md) · [Paper index](../papers/INDEX.md) · [Publication policy](../PUBLICATION_POLICY.md)
+
+
+## Indexed article collection
+
+Browse [30 research articles](../research-articles/README.md) and the [paper, topic, method, and primary-reference cross-index](../research-articles/CROSS_INDEX.md). The four area labels above remain the stable orientation format; exact manuscript editions remain in the paper catalog.

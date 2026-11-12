@@ -31,6 +31,15 @@ Architecture and fault-injection evaluation protocol; no measured recovery or re
 
 Companion notes version 1.0, added 2026-11-12 UTC. They distinguish cited background from proposed tests and contain no new empirical results. The PDF, manuscript version, citation, and DOI record remain unchanged.
 
+## Indexed research articles
+
+- [RA-002 — Peer discovery, leader election, and recovery](../../research-articles/RA-002.md): Test recovery after a connection resumes and reject stale predecessor work.
+- [RA-006 — Continuity through restart and long-running state](../../research-articles/RA-006.md): Distinguish restored execution from validated current service.
+- [RA-007 — Swarm coordination under partial observations](../../research-articles/RA-007.md): Test useful recovery after participant and transport failures.
+- [RA-019 — Attributable communication and bounded agency](../../research-articles/RA-019.md): Handle retries and delayed actions across recovery boundaries.
+
+These links identify topic or method relevance. The linked articles are initial research syntheses or proposed evaluations; they do not establish manuscript ancestry, new empirical support, or a change to this manuscript edition.
+
 ## Citation
 
 Yarian, M. (2026). A Reconnection Is Not a Recovery: Epoch-Fenced Reacquisition and Recovery Budgets for Unattended Industrial Sensors. SynapticSteel Technical Papers, STP-007, version 1.0. https://github.com/Mark-Yarian/public_repository/blob/main/papers/STP-007/manuscript.pdf

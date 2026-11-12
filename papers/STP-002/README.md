@@ -31,6 +31,15 @@ Conceptual architecture and proposed baseline/maintenance evaluation; no measure
 
 Companion notes version 1.0, added 2026-11-12 UTC. They distinguish cited background from proposed tests and contain no new empirical results. The PDF, manuscript version, citation, and DOI record remain unchanged.
 
+## Indexed research articles
+
+- [RA-003 — Actuator observations, torque, timing, and health labels](../../research-articles/RA-003.md): Validate health independently of a repeatable actuator baseline.
+- [RA-008 — Environmental feedback, confounding, and task fitness](../../research-articles/RA-008.md): Do not use adaptation itself as the health label.
+- [RA-012 — Recurrent state and a proposed estimation layer](../../research-articles/RA-012.md): Evaluate retained diagnostic distinctions after state adaptation.
+- [RA-013 — Plasticity, maintenance, and retained capability](../../research-articles/RA-013.md): Track health evidence independently from a model that adapts to a baseline.
+
+These links identify topic or method relevance. The linked articles are initial research syntheses or proposed evaluations; they do not establish manuscript ancestry, new empirical support, or a change to this manuscript edition.
+
 ## Citation
 
 Yarian, M. (2026). Baseline Is Not Health: Epistemic baselines, intervention epochs, and the danger of teaching condition-monitoring systems that the first stable state is a healthy state. SynapticSteel Technical Papers, STP-002, version 0.1-github. https://github.com/Mark-Yarian/public_repository/blob/main/papers/STP-002/manuscript.pdf
