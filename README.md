@@ -57,3 +57,7 @@ Original publication artifacts and new GitHub editions are identified separately
 Each scientific release states its author, exact version, evidence status, sources, limitations, and reuse terms. Future releases continue through the established [release workflow](docs/RELEASE_WORKFLOW.md). Publication does not grant operational access or authorize autonomous distribution.
 
 [SynapticSteel](https://synapticsteel.com/) · [Yarian Works](https://yarian.com/)
+
+## Historical cluster research (2025–2026)
+
+The [historical source-and-diagnostics evidence ledger](research-articles/HISTORICAL_CLUSTER_EVIDENCE.md) expands existing research articles with source-linked archival observations and clearly marked unrun experiments. Raw development archives remain private; released papers and their PDF records are unchanged.

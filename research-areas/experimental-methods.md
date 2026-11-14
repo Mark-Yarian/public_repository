@@ -27,6 +27,10 @@ Research plans, simulations, demonstrations, and real measurements have differen
 [Browse research areas](README.md) · [Public paper index](../papers/INDEX.md) · [Publication policy](../PUBLICATION_POLICY.md)
 
 
+## Historical cluster cases and open research
+
+The [2025–2026 historical cluster evidence ledger](../research-articles/HISTORICAL_CLUSTER_EVIDENCE.md) collects sanitized, source-linked observations from Code Genome, Cognitive Metabolism, Glial Equilibrium, Temporal readiness, distributed-model attempts and ContinuityNode. It differentiates archived status reports from demonstrated completed work, and gives falsifiable follow-up protocols. This is retrospective research evidence, **not** a current cluster architecture, reproducible performance benchmark or a consciousness result. See [RA-004](../research-articles/RA-004.md), [RA-006](../research-articles/RA-006.md), [RA-016](../research-articles/RA-016.md) and [RA-017](../research-articles/RA-017.md).
+
 ## Indexed research articles
 
 - [RA-002 — Peer discovery, leader election, and recovery](../research-articles/RA-002.md)

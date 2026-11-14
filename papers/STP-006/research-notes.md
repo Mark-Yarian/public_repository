@@ -35,4 +35,10 @@ Predefine permitted probe schedules, resource ceilings, and stop conditions for 
 
 [Multirate timing](../STP-003/research-notes.md) · [Selection-aware capture](../STP-008/research-notes.md)
 
+## Historical case: status versus measured capacity (2026-11-13)
+
+A Glial Equilibrium diagnostic labels a zero-throughput interval as high-confidence equilibrium while explicitly marking sustainable processing capacity unproven. A Cognitive Metabolism checkpoint also shows significant task backlog and failed dispatches. These are archived self-reported observations, not proof of observer cost, safe throughput or biological glial behavior.
+
+Proposed tests require actual nonzero workloads, controlled sampling overhead, independent output validation, queue accounting and failed-work denominators. See [RA-016](../../research-articles/RA-016.md), [RA-017](../../research-articles/RA-017.md) and the [historical evidence ledger](../../research-articles/HISTORICAL_CLUSTER_EVIDENCE.md). The released STP-006 paper is unchanged.
+
 Rights in these notes: Copyright 2026 Mark Yarian. All rights reserved; public reading and citation permitted. The manuscript retains its own published license and version.

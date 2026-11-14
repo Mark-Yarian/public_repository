@@ -39,4 +39,10 @@ Record episode and parent-episode identities, task version and difficulty, input
 
 [Sampling and the opportunity denominator](../STP-008/research-notes.md) governs recurrence estimates. [Exact execution lineage](../STP-010/research-notes.md) governs attribution of a changed result. [Computational inheritance](../Digital-Mitosis/research-notes.md) governs descendant comparisons.
 
+## Historical case: accumulated work without verified completion (2026-11-13)
+
+A Cognitive Metabolism snapshot reports 66,407 generated tasks, 66,203 queued, 1,032 failed dispatches and zero completed model inferences at the checkpoint. A separate source review preserves several malformed historical Python scripts. These records support studying error taxonomy and failure recurrence, not claiming that the system learned a successful repair.
+
+A follow-up should link each attempted action to model availability, failure, proposed recovery and later useful completion under matched resource exposure. See [RA-009](../../research-articles/RA-009.md), [RA-017](../../research-articles/RA-017.md) and the [historical evidence ledger](../../research-articles/HISTORICAL_CLUSTER_EVIDENCE.md). The published manuscript is unchanged.
+
 Rights in these notes: Copyright 2026 Mark Yarian. All rights reserved; public reading and citation permitted. The manuscript retains its own published license and version.

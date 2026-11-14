@@ -74,4 +74,10 @@ The [lineage lab](../../public-experiments/lineage-lab/README.md) is a small, bo
 
 [Failure-memory protocol](../STP-001/research-notes.md) · [Recovery continuity](../STP-007/research-notes.md) · [Exact state ancestry](../STP-010/research-notes.md) · [Context-fidelity controls](../SS-LAB-CC-001/research-notes.md)
 
+## Historical identity, inheritance and memory examples (2026-11-13)
+
+A preserved **ContinuityNode 0.5.0** build defines persistent lineage identity, Sensorium, dry-run cartography and structured memory records. It contains no populated runtime-memory history or independently executing descendant. A separate Code Genome archival report records thousands of source-lineage relationships but **zero** legacy mutation events. Those mechanisms motivate inheritance experiments but do not establish evolution, behavioral continuity or subjective experience.
+
+A follow-up should compare explicit cloning, restart, lineage-preserving capability archives and bounded descendants on held-out tasks, preserving rejected candidates and controlling resources. See [RA-005](../../research-articles/RA-005.md), [RA-006](../../research-articles/RA-006.md) and the [historical evidence ledger](../../research-articles/HISTORICAL_CLUSTER_EVIDENCE.md). These are historical source observations and proposals, not amendments to the released Digital Mitosis results.
+
 Rights in these notes: Copyright 2026 Mark Yarian. All rights reserved; public reading and citation permitted. The manuscript retains its own published license and version.

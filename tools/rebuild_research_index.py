@@ -131,9 +131,16 @@ def run(write):
                    "words": len(content.decode().split())}
         if write:
             item.update(current)
-            if name in {"RA-005", "RA-006", "RA-010", "RA-021"}:
-                item["version"] = "0.2"
-                item["expanded_on"] = "2026-11-12"
+            header = re.search(
+                r"Version ([0-9.]+) · (Published|Expanded|Updated) (\d{4}-\d{2}-\d{2})",
+                content.decode("utf-8").splitlines()[2],
+            )
+            fail_if(header is None, f"Unrecognized version/date header: {name}")
+            item["version"] = header.group(1)
+            if header.group(2) in {"Expanded", "Updated"}:
+                item["expanded_on"] = header.group(3)
+            else:
+                item.pop("expanded_on", None)
         else:
             fail_if(any(item[key] != value for key, value in current.items()),
                     f"Catalog digest, bytes or words differ: {name}")
@@ -144,8 +151,8 @@ def run(write):
                     f"Unknown paper for {name}: {paper['paper_id']}")
 
     if write:
-        catalog["release_version"] = "0.2"
-        catalog["index_rebuilt_on"] = "2026-11-12"
+        catalog["release_version"] = "0.3"
+        catalog["index_rebuilt_on"] = "2026-11-13"
         catalog["terminology_crosswalk"] = {
             "path": "../docs/TERMINOLOGY_CROSSWALK.md", "selected_public_terms": 12,
             "source": "https://yarian.com/terminology",
@@ -166,8 +173,9 @@ def run(write):
         else:
             fail_if(catalog["counts"][key] != actual, f"Count mismatch: {key}")
     if write:
-        CROSS.write_text(rebuilt)
-        CATALOG.write_text(json.dumps(catalog, ensure_ascii=False, indent=2) + "\n")
+        CROSS.write_text(rebuilt, encoding="utf-8", newline="\n")
+        CATALOG.write_text(json.dumps(catalog, ensure_ascii=False, indent=2) + "\n",
+                           encoding="utf-8", newline="\n")
     else:
         fail_if(existing != rebuilt, "Cross-index is stale; run --write")
     links = check_links()

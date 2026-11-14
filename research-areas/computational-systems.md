@@ -29,6 +29,10 @@ When a process is copied or restored, record the actual operation and the identi
 [Browse research areas](README.md) · [Public paper index](../papers/INDEX.md) · [How to read this library](../docs/READER_GUIDE.md)
 
 
+## Historical cluster cases and open research
+
+The [2025–2026 historical cluster evidence ledger](../research-articles/HISTORICAL_CLUSTER_EVIDENCE.md) collects sanitized, source-linked observations from Code Genome, Cognitive Metabolism, Glial Equilibrium, Temporal readiness, distributed-model attempts and ContinuityNode. It differentiates archived status reports from demonstrated completed work, and gives falsifiable follow-up protocols. This is retrospective research evidence, **not** a current cluster architecture, reproducible performance benchmark or a consciousness result. See [RA-004](../research-articles/RA-004.md), [RA-006](../research-articles/RA-006.md), [RA-016](../research-articles/RA-016.md) and [RA-017](../research-articles/RA-017.md).
+
 ## Indexed research articles
 
 - [RA-001 — Inference service boundaries and reproducible hosts](../research-articles/RA-001.md)

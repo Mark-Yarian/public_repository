@@ -39,4 +39,10 @@ For message protocols, compare fixed codes, shuffled messages, and learned messa
 
 [Event-time uncertainty](../STP-003/research-notes.md) · [Recovery epochs](../STP-007/research-notes.md) · [Context drift](../SS-LAB-CC-001/research-notes.md)
 
+## Historical case: a model being configured does not prove involvement (2026-11-13)
+
+The archived Code Genome pipeline tracked source lineage while its legacy mutation counter remained zero; the derived line fabric reported ok with incomplete projected-file coverage. Early Phi-2/DeepSeek scripts defined deterministic fallback, but did not show that multiple models influenced accepted task results or that an automatically assigned score represented correct reasoning.
+
+A rigorous follow-up must bind an actual source revision, prompt, model revision, consumed message, output and independent task evaluation. See [RA-004](../../research-articles/RA-004.md), [RA-011](../../research-articles/RA-011.md) and the [historical evidence ledger](../../research-articles/HISTORICAL_CLUSTER_EVIDENCE.md). The original STP-010 PDF remains unchanged.
+
 Rights in these notes: Copyright 2026 Mark Yarian. All rights reserved; public reading and citation permitted. The manuscript retains its own published license and version.

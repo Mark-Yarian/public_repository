@@ -2,6 +2,8 @@
 
 Browse the same research articles through different relationships. Associations identify shared questions or methods; they do not assert that one work proves, originated, or implements another.
 
+The [historical cluster evidence ledger](HISTORICAL_CLUSTER_EVIDENCE.md) provides a separate, source-bound retrospective for the existing articles; its examples are not new experimental results.
+
 The [Digital Mitosis terminology crosswalk](../docs/TERMINOLOGY_CROSSWALK.md) connects public Yarian definitions to the appropriate articles and paper. The [bounded lineage lab](../public-experiments/lineage-lab/README.md) supplies a worked example with checks and failure cases. Area, topic, method and reference tables below are rebuilt from [catalog.json](catalog.json); paper-link rationales remain individually reviewed.
 
 ## Paper index

@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "collection": "SynapticSteel Indexed Research Articles",
-  "release_version": "0.2",
+  "release_version": "0.3",
   "published_on": "2026-11-11",
   "publication_timezone": "America/New_York",
   "prepared_on_utc": "2026-11-12",
@@ -223,7 +223,7 @@
       "article_id": "RA-004",
       "title": "Behavioral evidence for generated and transformed code",
       "artifact_path": "RA-004.md",
-      "version": "0.1",
+      "version": "0.2",
       "author": "Mark Yarian",
       "organization": "Yarian Works, LLC / SynapticSteel",
       "publication_state": "AUTHOR_RELEASED_RESEARCH_ARTICLE",
@@ -278,15 +278,16 @@
         }
       ],
       "rights": "Copyright Mark Yarian; all rights reserved; public reading and citation permitted.",
-      "sha256": "51bec10f7127a789b4f78e774c7b75fbda96d3ab0094c967ed54670484891ae8",
-      "bytes": 4402,
-      "words": 549
+      "sha256": "d1bdd68c0cc7b4095ff7c945ef3f64e9a630601dd897ed4228bf1912e16ba439",
+      "bytes": 5691,
+      "words": 711,
+      "expanded_on": "2026-11-13"
     },
     {
       "article_id": "RA-005",
       "title": "Computational reproduction and bounded inheritance",
       "artifact_path": "RA-005.md",
-      "version": "0.2",
+      "version": "0.3",
       "author": "Mark Yarian",
       "organization": "Yarian Works, LLC / SynapticSteel",
       "publication_state": "AUTHOR_RELEASED_RESEARCH_ARTICLE",
@@ -337,16 +338,16 @@
         }
       ],
       "rights": "Copyright Mark Yarian; all rights reserved; public reading and citation permitted.",
-      "sha256": "f52ff74eb55fc8168445c386acec7920a44a3437cc90c4a99fe996c52afac49e",
-      "bytes": 6269,
-      "words": 839,
-      "expanded_on": "2026-11-12"
+      "sha256": "8d2225d486f2151c6a77a30b7095dcebcf2a38342fd6c8916fb8326ad0b9ee72",
+      "bytes": 7518,
+      "words": 982,
+      "expanded_on": "2026-11-13"
     },
     {
       "article_id": "RA-006",
       "title": "Continuity through restart and long-running state",
       "artifact_path": "RA-006.md",
-      "version": "0.2",
+      "version": "0.3",
       "author": "Mark Yarian",
       "organization": "Yarian Works, LLC / SynapticSteel",
       "publication_state": "AUTHOR_RELEASED_RESEARCH_ARTICLE",
@@ -399,16 +400,16 @@
         }
       ],
       "rights": "Copyright Mark Yarian; all rights reserved; public reading and citation permitted.",
-      "sha256": "198d525700fbccd57c72d3820eb37d2a16d2a55d403960fcc276f88f45262e3a",
-      "bytes": 5384,
-      "words": 691,
-      "expanded_on": "2026-11-12"
+      "sha256": "57636b28b6ba4c83008800503340bbeeec26c3436ba29be625785cf11a573095",
+      "bytes": 6508,
+      "words": 828,
+      "expanded_on": "2026-11-13"
     },
     {
       "article_id": "RA-007",
       "title": "Swarm coordination under partial observations",
       "artifact_path": "RA-007.md",
-      "version": "0.1",
+      "version": "0.2",
       "author": "Mark Yarian",
       "organization": "Yarian Works, LLC / SynapticSteel",
       "publication_state": "AUTHOR_RELEASED_RESEARCH_ARTICLE",
@@ -465,9 +466,10 @@
         }
       ],
       "rights": "Copyright Mark Yarian; all rights reserved; public reading and citation permitted.",
-      "sha256": "b50839035cd84eed137c5f01b131cc76afbd2eab8b6a4f3b8a878d52463859ed",
-      "bytes": 4029,
-      "words": 510
+      "sha256": "fdc83ba336ec46510b7385c4a173a6a87a0483b986a9c8431b95f6ce52f481f7",
+      "bytes": 5155,
+      "words": 647,
+      "expanded_on": "2026-11-13"
     },
     {
       "article_id": "RA-008",
@@ -540,7 +542,7 @@
       "article_id": "RA-009",
       "title": "Failure memory from logs to later decisions",
       "artifact_path": "RA-009.md",
-      "version": "0.1",
+      "version": "0.2",
       "author": "Mark Yarian",
       "organization": "Yarian Works, LLC / SynapticSteel",
       "publication_state": "AUTHOR_RELEASED_RESEARCH_ARTICLE",
@@ -594,9 +596,10 @@
         }
       ],
       "rights": "Copyright Mark Yarian; all rights reserved; public reading and citation permitted.",
-      "sha256": "ba5baf08515a36e8e5b89e3a81a7fca928ffbfd8c1e373c6568a9190a8b88e3a",
-      "bytes": 4125,
-      "words": 537
+      "sha256": "ce0290d999235c80e417f127933e892dbfdbef64ea6011de82e7e253429ba8a2",
+      "bytes": 5334,
+      "words": 688,
+      "expanded_on": "2026-11-13"
     },
     {
       "article_id": "RA-010",
@@ -662,7 +665,7 @@
       "article_id": "RA-011",
       "title": "Representation alignment, routing, and model composition",
       "artifact_path": "RA-011.md",
-      "version": "0.1",
+      "version": "0.2",
       "author": "Mark Yarian",
       "organization": "Yarian Works, LLC / SynapticSteel",
       "publication_state": "AUTHOR_RELEASED_RESEARCH_ARTICLE",
@@ -710,15 +713,16 @@
         }
       ],
       "rights": "Copyright Mark Yarian; all rights reserved; public reading and citation permitted.",
-      "sha256": "635b00081365a45b2b5a4788286e95d136fda7d47cffa672665d4e550db1715d",
-      "bytes": 4026,
-      "words": 503
+      "sha256": "b6a33d3893dffb781d4efa2d9683724c8f0c0b9da818bcb8e85503aed927c8f6",
+      "bytes": 5120,
+      "words": 638,
+      "expanded_on": "2026-11-13"
     },
     {
       "article_id": "RA-012",
       "title": "Recurrent state and a proposed estimation layer",
       "artifact_path": "RA-012.md",
-      "version": "0.1",
+      "version": "0.2",
       "author": "Mark Yarian",
       "organization": "Yarian Works, LLC / SynapticSteel",
       "publication_state": "AUTHOR_RELEASED_RESEARCH_ARTICLE",
@@ -770,15 +774,16 @@
         }
       ],
       "rights": "Copyright Mark Yarian; all rights reserved; public reading and citation permitted.",
-      "sha256": "0c056e8897b4f24663e518d86406a534c671a0e953af83769bcc846b238b8231",
-      "bytes": 4048,
-      "words": 516
+      "sha256": "04049aa403f6499be4e985cd3b9db9d9324bedfb2332d06501273d70e4dbebf0",
+      "bytes": 5107,
+      "words": 642,
+      "expanded_on": "2026-11-13"
     },
     {
       "article_id": "RA-013",
       "title": "Plasticity, maintenance, and retained capability",
       "artifact_path": "RA-013.md",
-      "version": "0.1",
+      "version": "0.2",
       "author": "Mark Yarian",
       "organization": "Yarian Works, LLC / SynapticSteel",
       "publication_state": "AUTHOR_RELEASED_RESEARCH_ARTICLE",
@@ -830,9 +835,10 @@
         }
       ],
       "rights": "Copyright Mark Yarian; all rights reserved; public reading and citation permitted.",
-      "sha256": "1aaaae0d28ffc4e03ed55a7f592737604da8dd68875d596e520afaed4bda6b52",
-      "bytes": 4074,
-      "words": 505
+      "sha256": "ad93ca06d834e27c89b9bc2bf7ae5b4e9222e354360d92286db321332d62984a",
+      "bytes": 5189,
+      "words": 642,
+      "expanded_on": "2026-11-13"
     },
     {
       "article_id": "RA-014",
@@ -893,7 +899,7 @@
       "article_id": "RA-015",
       "title": "Multirate computation and temporal evidence",
       "artifact_path": "RA-015.md",
-      "version": "0.1",
+      "version": "0.2",
       "author": "Mark Yarian",
       "organization": "Yarian Works, LLC / SynapticSteel",
       "publication_state": "AUTHOR_RELEASED_RESEARCH_ARTICLE",
@@ -947,15 +953,16 @@
         }
       ],
       "rights": "Copyright Mark Yarian; all rights reserved; public reading and citation permitted.",
-      "sha256": "faf54a753d5b8afafd05f8a94f29c5b70231890bda6fa2b7e26d3cae7a7e9702",
-      "bytes": 4024,
-      "words": 532
+      "sha256": "658a308db0e521173bf7c9f997141c10b057037957b8d130906b147409ea96ef",
+      "bytes": 5102,
+      "words": 659,
+      "expanded_on": "2026-11-13"
     },
     {
       "article_id": "RA-016",
       "title": "Useful throughput, memory, and communication costs",
       "artifact_path": "RA-016.md",
-      "version": "0.1",
+      "version": "0.2",
       "author": "Mark Yarian",
       "organization": "Yarian Works, LLC / SynapticSteel",
       "publication_state": "AUTHOR_RELEASED_RESEARCH_ARTICLE",
@@ -1004,15 +1011,16 @@
         }
       ],
       "rights": "Copyright Mark Yarian; all rights reserved; public reading and citation permitted.",
-      "sha256": "b933afe85abcc5a7eee5cd8a0585be0b559ed6b887849a92ed066b3b78357fa3",
-      "bytes": 4031,
-      "words": 510
+      "sha256": "72445779f0dfd3d631d7dafd712605f8d36868e7585fff97eb9e0a2ce6b79ce7",
+      "bytes": 5110,
+      "words": 646,
+      "expanded_on": "2026-11-13"
     },
     {
       "article_id": "RA-017",
       "title": "Reasoning evaluations and failure taxonomy",
       "artifact_path": "RA-017.md",
-      "version": "0.1",
+      "version": "0.2",
       "author": "Mark Yarian",
       "organization": "Yarian Works, LLC / SynapticSteel",
       "publication_state": "AUTHOR_RELEASED_RESEARCH_ARTICLE",
@@ -1067,9 +1075,10 @@
         }
       ],
       "rights": "Copyright Mark Yarian; all rights reserved; public reading and citation permitted.",
-      "sha256": "3abd612cc9e1ddcdd689f7e4254a685313e776c3aad1e3a8b44fa30fa2e9c8de",
-      "bytes": 4094,
-      "words": 531
+      "sha256": "725bbe8ad78b0b5f8ea2ee169dab67294c93bc5042b74d001815207d05f5deb1",
+      "bytes": 5269,
+      "words": 675,
+      "expanded_on": "2026-11-13"
     },
     {
       "article_id": "RA-018",
@@ -1261,7 +1270,7 @@
       "article_id": "RA-021",
       "title": "Operational indicators and consciousness claims",
       "artifact_path": "RA-021.md",
-      "version": "0.2",
+      "version": "0.3",
       "author": "Mark Yarian",
       "organization": "Yarian Works, LLC / SynapticSteel",
       "publication_state": "AUTHOR_RELEASED_RESEARCH_ARTICLE",
@@ -1308,10 +1317,10 @@
         }
       ],
       "rights": "Copyright Mark Yarian; all rights reserved; public reading and citation permitted.",
-      "sha256": "c4fb5aabcdbbd762b042e0f59f3c6e35eb2136004b094e3f8a7f41aa2c5cc654",
-      "bytes": 4915,
-      "words": 590,
-      "expanded_on": "2026-11-12"
+      "sha256": "bbb1e3ccb2d2b17cce7acc32e42ca71d63cb397e004e801f4982d1a15a7d7891",
+      "bytes": 6070,
+      "words": 725,
+      "expanded_on": "2026-11-13"
     },
     {
       "article_id": "RA-022",
@@ -2374,7 +2383,7 @@
       "checked_scope": "Official overview and exposure-condition definition"
     }
   ],
-  "index_rebuilt_on": "2026-11-12",
+  "index_rebuilt_on": "2026-11-13",
   "terminology_crosswalk": {
     "path": "../docs/TERMINOLOGY_CROSSWALK.md",
     "selected_public_terms": 12,
